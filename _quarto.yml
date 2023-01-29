@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Nasib Singh Gill"
+  margin-header: |
+    ![](./media/image3.jpeg)
+  navbar:
+    left:
+      - href: index.qmd
+        text: About
+      - href: experience.qmd
+        text: Experience
+      - href: awards.qmd
+        text: Awards
+      - href: publications.qmd
+        text: Publications
+      - href: engagements.qmd
+        text: Engagements
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

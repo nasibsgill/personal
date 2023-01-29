@@ -1,0 +1,137 @@
+#  **Administrative Experience**
+
+1.  
+
+    > ***Worked as Head, Department of Computer Science & Applications, M.D. University, Rohtak from March 15, 2006 to March 15, 2012***
+
+2.  
+
+    > ***Worked as Director, Directorate of Distance Education, M.D. University, Rohtak from Nov. 7, 2005 to May 21, 2007, and 2013 to Oct. 2015.***
+
+3.  
+
+    > ***Worked as Director, Public Relations, M.D. University, Rohtak from May 21, 2007 to 2008.***
+
+4.  
+
+    > ***Worked as Director, University Computer Centre, M.D. University, Rohtak from 2008 to 2012.***
+
+5.  
+
+    > ***Worked as Director, MDU Alumni, M.D. University, Rohtak from March 2011 to March 2016.***
+
+6.  
+
+    > ***Worked as University Nodal Officer, All India Survey on Higher Education, MHRD, Govt. of India during 2011 to 2014.***
+
+7.  
+
+    > ***Worked as Convener, Control Room and Convener, IT Support, 21st National Youth Festival-2017 organised at M.D. University, Rohtak during January 12- 16, 2017***
+
+
+
+# **Academic Experience**
+
+8.  
+
+    > Expert on several committees of UGC/AICTE/NAAC of MHRD, Govt of India.
+
+9.  
+
+    > Subject Expert in several Selection Committees for the selection of faculty in Universities, Colleges and Institutions in State of Haryana and outside.
+
+10. 
+
+    > Acted as Chief Secrecy Officer/Secrecy Officer in various Entrance Examinations of M. D. University, Rohtak since 1996.
+
+11. 
+
+    > Empaneled as Resource Person/Expert for subject of Computer Science for EDUSAT programme for state of Haryana.
+
+12. 
+
+    > Played a pivotal role in Common Syllabi Framing Committee for various UG and PG Programmes of Computer Science in the State of Haryana.
+
+13. 
+
+    > Chairman & Member of U.G. and P.G. Boards of Studies in Computer Science & Applications, M. D. University, Rohtak.
+
+# **Ph.D. Thesis Guided & Awarded**
+
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| **S.No.** | **Name of Scholar**                                                                                                                  |   **Month & Year** |   **Title of Thesis**                                                                                                              |
++===========+======================================================================================================================================+====================+====================================================================================================================================+
+| 13\.      | > Dr. Sangeeta Rani, Assistant Professor, Govt. College, Department of Higher Education, Govt of Haryana.                            | > Feb. 2022        | > **Social Networking Sites' Sentiment Classification Using an Ensemble Approach Employing Statistical Feature Selection Methods** |
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| 12\.      | > Dr. Munisha Devi                                                                                                                   | > July 2020        | > Study, Design and Simulate Performance of MANET Routing Protocols in Smart Environment                                           |
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| 11\.      | Dr. Deepti Sehrawat, PGT in Computer Science, Department of Secondary Education, Govt. of                                            | > July 2020        | > Analysis, Design and Implementation of Security Algorithms for IoT Environment                                                   |
+|           |                                                                                                                                      |                    |                                                                                                                                    |
+|           | Haryana                                                                                                                              |                    |                                                                                                                                    |
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| 10\.      | Dr. Pooja Singh (now Asstt. Professor, Dept. of Comp. Sc, Govt.                                                                      | > Sept. 2019       | > Secure and Power-Aware Protocols for Ad Hoc Wireless Networks                                                                    |
+|           |                                                                                                                                      |                    |                                                                                                                                    |
+|           | Collegefor Women, Faridabad)                                                                                                         |                    |                                                                                                                                    |
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| 9\.       | Dr. Meenakshi Sharma nee Sridhar                                                                                                     | > August 2018      | > Study and Design of Object Oriented and Component Based Metrics                                                                  |
+|           |                                                                                                                                      |                    |                                                                                                                                    |
+|           | (Asstt. Professor, University of Delhi)                                                                                              |                    |                                                                                                                                    |
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| 8\.       | Dr. Navneet (now Programmer,                                                                                                         | > March 2017       | > Analysis, Design and Optimization of Classification                                                                              |
+|           |                                                                                                                                      |                    | >                                                                                                                                  |
+|           | Krishi Gyan Kender, Rohtak)                                                                                                          |                    | > Techniques for Performance Improvement in Data Mining                                                                            |
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| 7\.       | Dr. Pooja Mittal (now Asstt. Professor, Dept. of Comp. Sc. &                                                                         | > December 2016    | > Comparative Analysis and Design of Data Mining Techniques                                                                        |
+|           |                                                                                                                                      |                    |                                                                                                                                    |
+|           | Appls., M.D. University, Rohtak)                                                                                                     |                    |                                                                                                                                    |
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| 6\.       | Dr. Narender Singh (now Asstt. Professor, Dept. of Comp. Sc., C.R.                                                                   | > January 2013     | > Study and Analysis of aspect-Oriented Requirements Engineering Approaches for                                                    |
+|           |                                                                                                                                      |                    | >                                                                                                                                  |
+|           | Memorial Jat College, Hisar)                                                                                                         |                    | > Development of Software Systems                                                                                                  |
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| 5\.       | Dr. Rajan Gupta (now Associate Professor, School of Information Technology, Vivekanand Institute of Professional Studies, Pitampura, | > January 2013     | > Analysis and Design of Data Mining Techniques for Prevention and Detection of Financial Frauds                                   |
+|           |                                                                                                                                      |                    |                                                                                                                                    |
+|           | Delhi)                                                                                                                               |                    |                                                                                                                                    |
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| 4\.       | Dr. Sunil Sikka (now Associate Professor, Dept. of Computer Sc. &                                                                    | > September 2011   | > Study and Design of Complexity, Fault-Proneness and Reusability Metrics for Object-Oriented                                      |
+|           |                                                                                                                                      |                    | >                                                                                                                                  |
+|           | Engg., Amity University, Gurgaon)                                                                                                    |                    | > Software Systems                                                                                                                 |
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| 3\.       | Dr. Reena Hooda (now Asstt. Professor, Dept. of Comp. Sc. &                                                                          | > December 2010    | > Analysis & Development of Data Warehouse and Data Mining Techniques                                                              |
+|           |                                                                                                                                      |                    |                                                                                                                                    |
+|           | Appls., I.G. University, Meerpur, Rewari)                                                                                            |                    |                                                                                                                                    |
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| 2\.       | Dr. Pardeep Tomar (now Asstt. Professor, Dept. of Comp. Sc. & Engg., School of ICT, G.B.                                             | > March 2010       | > Analysis, Design and Development of Component- Based Reusable Models and Testing Processes                                       |
+|           |                                                                                                                                      |                    |                                                                                                                                    |
+|           | University, Greater Noida, U.P.)                                                                                                     |                    |                                                                                                                                    |
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+| 1\.       | > Dr. Balkishan (now Asstt.                                                                                                          | > March 2010       | > Study and Design of Component-Based Measures                                                                                     |
+|           |                                                                                                                                      |                    |                                                                                                                                    |
+|           | Professor, Dept. of Comp. Sc. & Appls., M.D. University, Rohtak)                                                                     |                    |                                                                                                                                    |
++-----------+--------------------------------------------------------------------------------------------------------------------------------------+--------------------+------------------------------------------------------------------------------------------------------------------------------------+
+
+# MHRD, ARPIT
+
+Contribution towards MHRD sponsored Annual Refresher Programme in Teaching (ARPIT) on Pedagogical Innovations & Research Methodology through SWAYAM MOOCs platform organized by National Resource Centre -- UGC-HRDC, GJUS&T, Hisar during Nov. 1, 2018-Feb. 28, 2019.
+
++------------+-----------------------------------------------------------------------------+----------------------+-------------------------+
+| **Module** | > **Name of Module**                                                        | > **Content Writer** | > **Content Presenter** |
++============+=============================================================================+======================+=========================+
+| M-07       | Cloud Computing: Technology Supported Pedagogical Innovations               | > Yes                | > Yes                   |
++------------+-----------------------------------------------------------------------------+----------------------+-------------------------+
+| M-08       | Mobile Computing: Technology Supported Pedagogical Innovations              | > Yes                | > Yes                   |
++------------+-----------------------------------------------------------------------------+----------------------+-------------------------+
+| M-09       | Personal Learning Environment: Technology Supported Pedagogical Innovations | > Yes                | > Yes                   |
++------------+-----------------------------------------------------------------------------+----------------------+-------------------------+
+| M-10       | Hybrid Learning & Web 2.0: Technology Supported Pedagogical Innovations     | > Yes                | > Yes                   |
++------------+-----------------------------------------------------------------------------+----------------------+-------------------------+
+| M-15       |   Utilization of Digital Tools and Techniques                               | > Yes                | > Yes                   |
++------------+-----------------------------------------------------------------------------+----------------------+-------------------------+
+| M-16       |   Collaboration and Communication Digital Tools Part-I                      | > Yes                | > Yes                   |
++------------+-----------------------------------------------------------------------------+----------------------+-------------------------+
+| M-17       | Collaboration and Communication Digital Tools Part-II                       | > Yes                | > Yes                   |
++------------+-----------------------------------------------------------------------------+----------------------+-------------------------+
+| M-19       | Course Management Tools                                                     | > No                 | > Yes                   |
++------------+-----------------------------------------------------------------------------+----------------------+-------------------------+
+| M-20       | Digital Assessment Tools                                                    | > No                 | > Yes                   |
++------------+-----------------------------------------------------------------------------+----------------------+-------------------------+

@@ -1,0 +1,35 @@
+# **Honours & Awards**
+
+
+
+#### Recipient of Commonwealth Fellowship Award
+
+  - Commonwealth Fellow for the year 2001-2002 (01.10.2001-30.09.2002) and availed Commonwealth Fellowship Award by ACU, London at Brunel University, United Kingdom (U.K.)
+
+  
+
+#### Best Paper/Article Award by Computer Society of India
+
+  -   In 1994, CSI awarded for contributing best paper titled ***"A New Program Complexity Measure"*** published in November 1994 issue of 'CSI Communications'.
+
+***Appreciation Letter*** by Vice-Chancellor, M.D. University, Rohtak in recognition of outstanding contribution as ***Convener, IT Support & Event Management,*** **National Youth Festival-2017.**
+
+***Certificate of Appreciation*** for conducting **All India Essay Writing Event -- 2017** organised by ***Shri Ram Chandra Mission (SRCM) & United Nations Information Centre (UNIC) for India & Bhutan.***
+
+Honored to be a Participant in LEAP -- Leadership for Academicians Programme, a flagship programme of MHRD, Govt of India, organized by IIT, Kharagpur, India (13-24 May 2019) in collaboration with IfM, University of Cambridge, UK (3-7 June, 2019)
+
+
+
+# **Patents Published/Awarded**
+
++---------+---------------------------------------------------------------------------------------+------------------------------------------------+------------------------------+--------------------------------+--------------+------------------------------------+
+| **SNo.**| **Name of Invention**                                                                 | **Inventors**                                  | **Patent Office Journal No** | **Date of Patent publication** | **Page No.** | **Patent Application No. (India)** |
+|         |                                                                                       |                                                |                              |                                |              |                                    |
+|         |                                                                                       |                                                |                              |                                |              |                                    |
++=========+=======================================================================================+================================================+==============================+================================+==============+====================================+
+| 1\.     | Deep Compress Video Codec -- Video Analytics Friendly Smart Video Compression System  | Sangeeta Yadav, Preeti Gulia, Nasib Singh Gill | Issue No. 18/2022            | 06.05.2022                     | 27795        | 202211006186 A                     |
++---------+---------------------------------------------------------------------------------------+------------------------------------------------+------------------------------+--------------------------------+--------------+------------------------------------+
+| 2\.     | Hybrid Deep Learning Model for Detection of Security Attacks in IoT Environment       | Amit Sagu, Nasib Singh Gill, Preeti Gulia      | Issue No. 29/2022            | 22.07.2022                     | 45600        | 202211040819 A                     |
++---------+---------------------------------------------------------------------------------------+------------------------------------------------+------------------------------+--------------------------------+--------------+------------------------------------+
+| 3\.     | COVIDET: A Novel Hybrid Deep Learning Model for COVID-19 Detection Using Chest X-Rays | Chhaya Gupta, Nasib Singh Gill, Preeti Gulia   | Issue No. 29/2022            | 22.07.2022                     | 45618        | 202211041129 A                     |
++---------+---------------------------------------------------------------------------------------+------------------------------------------------+------------------------------+--------------------------------+--------------+------------------------------------+

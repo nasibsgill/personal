@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "904fe24b"
+  },
+  "nsgill_bio.qmd": {
+    "nsgill_bio.html": "45326d7b"
+  },
+  "experience.qmd": {
+    "experience.html": "2fa036b5"
+  },
+  "publications.qmd": {
+    "publications.html": "6043d11d"
+  },
+  "about.qmd": {
+    "about.html": "686cd71b"
+  },
+  "engagements.qmd": {
+    "engagements.html": "f83ac9b7"
+  },
+  "awards.qmd": {
+    "awards.html": "bd7c550c"
+  }
+}

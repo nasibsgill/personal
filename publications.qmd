@@ -1,0 +1,2089 @@
+
+
+# **BOOKS PUBLISHED**
+
+<table>
+<thead>
+<tr class="header">
+<th><strong>S.No.</strong></th>
+<th><strong>Title of Book</strong></th>
+<th><strong>ISBN &amp; Pages</strong></th>
+<th><strong>Publisher</strong></th>
+<th><strong>Year</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td><strong>Handbook of Computer Fundamentals</strong></td>
+<td>978-93-82609674</td>
+<td><blockquote>
+<p>Khanna Book Publishing Co.(P) Ltd, New Delhi.</p>
+</blockquote></td>
+<td>2016</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td><strong>Computing Fundamentals and Programming in C</strong></td>
+<td><p>978-93-81068-50-2</p>
+<p>Pages: 832</p></td>
+<td>Khanna Book Publishing Co.(P) Ltd, New Delhi.</td>
+<td>2012</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td><strong>Digital Design and Computer Organisation</strong></td>
+<td>978-81-318-0345-5 Pages: 396</td>
+<td>University Science Press (An Imprint of Laxmi Publications Pvt. Ltd.)</td>
+<td>2008</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td><strong>Software Engineering</strong></td>
+<td><p>818732517-8</p>
+<p>Pages : 622</p></td>
+<td>Khanna Book Publishing Co.(P) Ltd, New Delhi.</td>
+<td>2002</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td><strong>Essentials of Computer And Network Technology</strong></td>
+<td>81-87522-71-2 Pages: 340</td>
+<td>Khanna Book Publishing Co.(P) Ltd, New Delhi.</td>
+<td>2000</td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td><p><strong>Computer Application to Business</strong></p>
+<p>(Course book for M.Com. of Directorate of Distance Education)</p></td>
+<td></td>
+<td><blockquote>
+<p>M.D. University Printing</p>
+<p>Press</p>
+</blockquote></td>
+<td>2015</td>
+</tr>
+<tr class="odd">
+<td>7</td>
+<td><p><strong>Basics of Computer</strong></p>
+<p>(Course book for B.Com. of Directorate of Distance Education)</p></td>
+<td></td>
+<td><blockquote>
+<p>M.D. University Printing</p>
+<p>Press</p>
+</blockquote></td>
+<td>2015</td>
+</tr>
+</tbody>
+</table>
+
+# **RESEARCH PAPERS/ARTICLES PUBLISHED**
+
+## International/National Journals
+
+1.  > Sangeeta, Preeti Gulia, Nasib Singh Gill (May, 2022), **“Flow
+    > incorporated Neural Network based Lightweight Video Compression
+    > Architecture*”****, Indonesian Journal of Electrical Engineering
+    > and Computer Science* **\[Scopus, UGC-Care Indexed\]**  **<https://ijeecs.iaescore.com/index.php/IJEECS/article/view/24641>**
+
+2.  > Sangeeta, Preeti Gulia, Nasib Singh Gill (August, 2022),
+    > **“**Flow-MotionNet: A Deep Learning based Video Compression
+    > Architecture*”, Multimedia Tools and Applications* **\[SCI,
+    > Scopus, UGC-Care Indexed\] (Impact Factor: 2.757)**
+
+3.  > Ritu Ratra, <sub>,</sub>Preeti Gulia, Nasib Singh Gill, J.M.
+    > Chatterjee (August, 2022), “Big Data Privacy Preserving using
+    > Principal Component Analysis and Random Projection in Healthcare”,
+    > *Mathematical Problem In Engineering,* E-ISSN 1024-123X, **\[SCIE,
+    > Scopus, UGC-Care Listed\] (Impact Factor: 1.23)**.
+
+4.  > A. Chahal, P. Gulia, Nasib Singh Gill, J.M. Chatterjee (August,
+    > 2022), “**Performance analysis of an optimized ANN model to
+    > predict the stability of Smart Grid**”, *Complexity,* **\[SCIE,
+    > Scopus, UGC-Care Listed\] (Impact Factor: 2.121)**
+
+5.  > Deepti Rani, Nasib Singh Gill and Preeti Gulia (July, 2022),
+    > “Classification of Security Issues and Cyber Attacks in Latered
+    > Internet of Things”, *Journal of Theoretical and Applied
+    > Information Technology*, Vol. 100, Issue-13 pp. 4895-4913, ISSN:
+    > 1992-8645,E-ISSN: 1817-3195**\[Scopus, UGC-Care Indexed\]**
+
+6.  > Amit Sagu, Nasib Singh Gill and Preeti Gulia, J.M. Chatterjee
+    > (July, 2022), *Design and Implementation of Hybrid Optimization
+    > Algorithm for Detection of Security Attacks in IoT Enabled
+    > Environment*”, *Wireless Communications and Mobile Computing,*
+    > ISSN: 1530-8677, **\[SCIE, Scopus, UGC-Care Listed\] (Impact
+    > Factor: 2.557) *(Accepted)***.
+
+7.  > Chhaya Gupta, Nasib Singh Gill and Preeti Gulia (July 2022),
+    > “SSDT : Distance Tracking Model Based on Deep Learning,”
+    > *International Journal of Electrical and Computer Engineering
+    > Systems,* Vol. 13, no. 5, pp. 339–348, ISSN: 1847-6996, **Impact
+    > Factor - 0.684**. \[**ESCI, SCOPUS INDEXED\]** DOI:
+    > 10.32985/ijeces.13.5.2 URL: <https://ijeces.ferit.hr/index.php/ijeces/article/view/1031>
+
+8.  > Deepti Rani, Nasib Singh Gill and Preeti Gulia, J.M. Chatterjee
+    > (May, 2022), “An Ensemble-Based Multiclass Classifier for
+    > Intrusion Detection Using Internet of Things” *Computational
+    > Intelligence and Neuroscience* **\[SCIE, Scopus, UGC-Care Listed\]
+    > (Impact Factor: 3.120)**
+
+9.  Rashi Singh, Nasib Singh Gill and Preeti Gulia (April, 2022), “**A
+    Comparative Performance Analysis of Modeling and Simulation tools
+    for Smart Grid”,** *International Journal of Engineering Trends and
+    Technology*, Vol.70, Issue-4, pp:332-342,**\[Scopus, UGC-Care
+    Listed\]**
+
+10. Sangeeta, Preeti Gulia, Nasib Singh Gill, J. M. Chatterjee (April,
+    2022), **“A real-Time Crowd Monitoring and Management System for
+    Social Distance Classification and Healthcare using Deep
+    Learning”,** *Journal of Healthcare Engineering*, Vol. 2022, ISSN:
+    2231-5381 (**SCIE Indexed, SCOPUS Indexed)**
+
+11. Ayushi, Preeti Gulia, Nasib Singh Gill (February, 2022),
+    “**Different Analytical Frameworks and Big Data Models for IoT**”,
+    *Indonesian Journal of Electrical Engineering and Computer Science
+    (IJEECS)*, Vol. 25, no.2, pp. 1159-1166 (**SCOPUS Indexed, UGC CARE
+    Listed)**.
+
+12. Ritu Ratra, Preeti Gulia, Nasib Singh Gill (February, 2022).
+    **“Evaluation of Re-Identification Risk using Anonymization and
+    Differential Privacy in Healthcare"**, *International Journal of
+    Advanced Computer Science and Applications (IJACSA),* Vol. 13(2),
+    pp. 563-570, (**WoS (Thomson Reuter Listed), SCOPUS Indexed, UGC
+    CARE listed)**
+
+13. Amit Sagu, Nasib Singh Gill and Preeti Gulia (January, 2022).
+    **“Hybrid Deep Neural Network Model for Detection of Security
+    Attacks in IoT Enabled Environment"**, *International Journal of
+    Advanced Computer Science and Applications (IJACSA),* Vol. 13(1),
+    pp. 120-127, (**WoS (Thomson Reuter Listed), SCOPUS Indexed, UGC
+    CARE listed)**
+
+14. > Palak, Preeti Gulia, Nasib Singh Gill (July 2021), [“**Hybrid
+    > Swarm Intelligence - Based Software Testing Techniques for
+    > Improving Quality of Component Based
+    > Software**”](ijeecs%20paper%20quality%20enhancement.pdf),
+    > *Indonesian Journal of Electrical Engineering and Computer Science
+    > (IJEECS)*, Vol. 22, No. 3. (**SCOPUS Indexed, UGC CARE Listed)**.
+
+15. > Sangeeta, Preeti Gulia, Nasib Singh Gill (2021). **“Comprehensive
+    > Analysis of Flow incorporated Neural Network based Lightweight
+    > Video Compression Architecture”,** *International Journal of
+    > Advanced Computer Science and Applications*, Vol. 12, issue 3, pp.
+    > 503-508, ISSN: 2231-5381 (**WoS - Thomson Reuter Listed), SCOPUS
+    > Indexed, UGC CARE listed)**
+
+16. > Sangeeta Rani, Nasib Singh Gill, Preeti Gulia (2021**). “Survey of
+    > Tools and Techniques for Sentiment Analysis of Social Networking
+    > Data*”****, International Journal of Advanced Computer Science and
+    > Applications (IJACSA),* Vol. 12(4), pp. 222-232, (**WoS -Thomson
+    > Reuter Listed), SCOPUS Indexed, UGC CARE listed)**
+    > <https://thesai.org/Downloads/Volume12No4/Paper_30-Survey_of_Tools_and_Techniques_for_Sentiment_Analysis.pdf>
+
+17. > Palak, Preeti Gulia, Nasib Singh Gill (2021). **“An Enhanced
+    > Artificial Bee Colony: Naïve Bayes Technique for Optimizing
+    > Software Testing”,** *International Journal of Advanced Computer
+    > Science and Applications*, Vol. 12, issue 2, pp. 39-45, ISSN:
+    > 2231-5381 (**WoS - Thomson Reuter Listed), SCOPUS Indexed, UGC
+    > CARE listed)**
+
+18. > Palak, Preeti Gulia, Nasib Singh Gill (2021). **“Optimized Test
+    > Case Selection using Scout-less Hybrid Artificial Bee Colony
+    > Approach and Crossover Operator”,** *International Journal of
+    > Engineering Trends and Technology*, Vol 69, issue 3, pp. 39-45,
+    > ISSN: 2231-5381(**SCOPUS Indexed, UGC CARE listed)**
+
+19. > Sangeeta and Nasib Singh Gill (2021). **“Twitter Sentiment
+    > Analysis on ‘India China Border Dispute",** ***World Journal of
+    > Engineering Research and Technology (WJERT)**,* vol. 7, Issue 3,
+    > pp. 117-125, 2021.
+
+20. > Sangeeta Rani, Nasib Singh Gill, Preeti Gulia (2020). “**Analyzing
+    > Impact of Number of Features on Efficiency of Hybrid Model of
+    > Lexicon and Stack Based Ensemble Classifier for Twitter Sentiment
+    > Analysis using WEKA Tool**”, *‘Indonesian Journal of Electrical
+    > Engineering and Computer Science’*, vol. 22(2), pp 433-443,
+    > (**SCOPUS Indexed, UGC CARE listed)**
+    > <http://ijeecs.iaescore.com/index.php/IJEECS/article/view/24322>.
+
+21. Deepti Rani Nasib Singh Gill (2020). **“Internet of Things (IoT)
+    Characteristics, Applications, and Digital Forensics Investigation
+    Process: A Review”,** *International Journal of Emerging Trends in
+    Engineering Research (IJETER),* 8(9), September 2020, 6512–6519.
+    https://doi.org/10.30534/ijeter/2020/254892020.
+
+22. Amit Sagu and Nasib Singh Gill (2020). ***"Machine Learning Decision
+    Tree Classifier and Logistics Regression Model",** International
+    Journal of Advanced Trends in Computer Science and Engineering
+    (IJATCSE),* ISSN: 2278 – 3091, vol. 9, pp. 163-166, 2020. (**Scopus
+    indexed, UGC CARE listed**). DOI: 10.30534/ijatcse/2020/2491.42020.
+
+23. Amit Sagu, Nasib Singh Gill and Preeti Gulia (2020). **“Artificial
+    Neural Network for the Internet of Things Security",**
+    *International Journal of Engineering Trends and Technology
+    (IJETT),* ISSN: 2231-5381, Volume-68 Issue-11, 2020. **(Scopus
+    indexed, UGC CARE listed)**. DOI:
+    10.14445/22315381/IJETT-V68I11P218.
+
+24. Deepti Rani and Nasib Singh Gill (2019). **“Review of Various IoT
+    Standards and Communication Protocols”**, *International Journal of
+    Engineering Research and Technology (IJERT),* Vol. 12, No. 5, 2019,
+    pp. 647-657. **(Scopus Indexed)**
+
+25. Sangeeta and Nasib Singh Gill (2018). **“Machine learning based
+    twitter data sentiment classification on real time ‘Clean India
+    Mission’ Tweets”** , *International Journal of Engineering &
+    Technology (IJET)* , **ISSN:** 2227-524X, Vol 7, Issue 4 , 2018, pp
+    4737-4742.
+    **https://sciencepubco.com/index.php/ijet/issue/view/390**
+
+26. Sangeeta and Nasib Singh Gill (2020). **“Hybrid Model for Twitter
+    Data Sentiment Analysis Based on Ensemble of Dictionary Based
+    Classifier and Stacked Machine Learning Classifiers-SVM, KNN and
+    C5.0”,** *International Journal of Theoretical and Applied
+    Information Technology (IJTAIT),* Vol. 98, No. 04, (29 Feb 2020),
+    pp. 624-635, ISSN: 1817-3195. **(Scopus indexed, UGC CARE listed).**
+    <http://www.jatit.org/volumes/Vol98No4/8Vol98No4.pdf>
+
+27. Sangeeta and Nasib Singh Gill (2020). **“Review of Factors Affecting
+    Efficiency of Twitter Data Sentiment Analysis”**, *International
+    Journal of Computer Theory and Engineering (IJCTE),* Vol. 12, No. 2,
+    April 2020. ISSN:1793-8201. **(UGC CARE listed).**
+
+28. Sangeeta and Nasib Singh Gill (2020). **“Tweet Sentiment
+    Classification Using an Ensemble of Unsupervised Dictionary Based
+    Classifier and Deep Convolutional Neural Network ”,** in
+    *International Journal of Advanced Science and Technology,* Vol. 29,
+    No. 3, (2020), pp. 4904 - 4912, ISSN: 2005-4238. **(Scopus indexed,
+    UGC CARE listed).**
+    [<span class="underline">http://sersc.org/journals/index.php/IJAST/article/view/18142</span>](http://sersc.org/journals/index.php/IJAST/article/view/18142)
+
+29. Sangeeta and Nasib Singh Gill (2020). **“COVID-19: Twitter Sentiment
+    Analysis Based on Geospatial Tweets”,** *International Journal of
+    Advanced Science and Technology (IJAST),* Vol. 29, No. 5, (2020),
+    pp. 6944-6952, ISSN: ISSN: 2005- 4238. **(Scopus indexed, UGC CARE
+    listed).**
+    [<span class="underline">http://sersc.org/journals/index.php/IJAST/article/view/18142</span>](http://sersc.org/journals/index.php/IJAST/article/view/18142)
+
+30. Sangeeta and Nasib Singh Gill (2020). **“Hybrid Model using
+    Stack-Based Ensemble Classifier and Dictionary Classifier to Improve
+    Classification Accuracy of Twitter Sentiment Analysis”,**
+    *International Journal of Emerging Trends in Engineering Research
+    (IJETER)*, Volume 8. No. 7, pp.2893-2900, July 2020, ISSN :
+    2347-3983 (SJIF impact factor 3.032, DIIF impact Factor – 0.886) ,
+    **(Scopus indexed, UGC CARE listed).**
+    <http://www.warse.org/IJETER/static/pdf/file/ijeter02872020.pdf,https://doi.org/10.30534/ijeter/2020/02872020>.
+
+31. Deepti Rani and Nasib Singh Gill (2019). **“Lightweight Security
+    Protocols for Internet of Things: A Review”**, *International
+    Journal of Advanced Trends in Computer Science and Engineering
+    (IJATCSE),* Vol. 8, No. 3, May-June 2019, pp. 707-719. **(Scopus
+    Indexed; SJIF 3.980; DIIF 1.042)**
+
+32. Deepti Rani and Nasib Singh Gill (2020). **“Internet of Things (IoT)
+    Characteristics, Applications, and Digital Forensics Investigation
+    Process: A Review*”****, International Journal of Emerging Trends in
+    Engineering Research (IJETER),* Vol. 8, No. 9, September 2020, pp.
+    6512-6519. **(Scopus Indexed; SJIF 3.032; DIIF 0.886)**
+
+33. Amit Sagu and Nasib Singh Gill (2020). **"Machine Learning Decision
+    Tree Classifier and Logistics Regression Model"**, *International
+    Journal of Advanced Trends in Computer Science and Engineering
+    (IJATCSE), ISSN: 2278 – 3091,* vol. 9, pp. 163-166, 2020. **(Scopus
+    indexed, UGC CARE listed).** DOI: 10.30534/ijatcse/2020/2491.42020.
+
+34. Amit Sagu and Nasib Singh Gill (2020). **"Machine Learning
+    Techniques for Securing IoT Environment",** *International Journal
+    of Innovative Technology and Exploring Engineering (IJITEE),*
+    ISSN:2278-3075, vol. 9, no. 4, pp. 977-982, Feb. 2020. **(erstwhile
+    Scopus Intexed, UGC CARE listed).** DOI:
+    10.35940/ijitee.D1209.029420
+    <span class="underline">https://[www.ijitee.org/wp-](http://www.ijitee.org/wp-)</span>
+    <span class="underline">content/uploads/papers/v9i4/D1209029420.pdf</span>
+
+35. Amit Sagu and Nasib Singh Gill (2020). **"Securing IoT Environment
+    using Machine Learning Techniques"**, *International Journal of
+    Engineering and Advanced Technology (IJEAT)*, ISSN: 2249-8958, vol.
+    9, no. 3, pp. 870-873, 2020. **(erstwhile Scopus indexed, UGC CARE
+    listed.** DOI: 10.35940/ijeat.C5339.029320
+    <span class="underline">https://[www.ijeat.org/wp-content/uploads/papers/v9i3/C5339029320.pdf](http://www.ijeat.org/wp-content/uploads/papers/v9i3/C5339029320.pdf)</span>
+
+36. Tarika Verma and Nasib Singh Gill (2020). **"Machine Learning
+    Techniqes for Better Data Driven Decisions Revisited”**,
+    *International Journal of Engineering and Advanced Technology
+    (IJEAT)*, ISSN: 2249-8958, vol. 9, no. 4, pp. 460-464, April 2020.
+    **(erstwhile Scopus indexed, UGC CARE listed).** DOI:
+    10.35940/ijeat.D6766.049420.
+    <span class="underline">https://[www.ijeat.org/wp-](http://www.ijeat.org/wp-)</span>
+    <span class="underline">content/uploads/papers/v9i4/D6766049420.pdf</span>
+
+37. Tarika Verma and Nasib Singh Gill (2020). **"Email Spams via Text
+    Mining Using Machine Learning Techniques",** *International Journal
+    of Innovative Technology and Exploring Engineering (IJITEE),*
+    ISSN:2278-3075, vol. 9, no. 4, pp. 2535-2539, Feb. 2020.
+    **(erstwhile Scopus Intexed, UGC CARE listed).** DOI:
+    <span class="underline">10.35940/ijitee.D1915.029420</span>
+    [<span class="underline">http://www.ijitee.org/wp-</span>](http://www.ijitee.org/wp-)
+    <span class="underline">content/uploads/papers/v9i4/D1915029420.pdf</span>
+
+38. C. Gupta and Nasib Singh Gill (2020). **“Machine Learning Techniques
+    and Extreme Learning Machine for Early Breast Cancer Prediction”,**
+    *International Journal of Innovative Technology and Exploring
+    Engineering (IJITEE)* , vol. 9, no. 4, pp. 163–167, Feb. 2020. doi:
+    10.35940/ijitee.d1411.029420. **(erstwhile Scopus Intexed, UGC CARE
+    listed),**
+    [<span class="underline">http://www.ijitee.org/wp-</span>](http://www.ijitee.org/wp-)
+    <span class="underline">content/uploads/papers/v9i4/D1411029420.pdf</span>.
+
+39. C. Gupta and Nasib Singh Gill (2020). **“Coronamask: A face mask
+    Detector for Real-time Data”.** *International Journal of Advanced
+    Trends in Computer Science and Engineering (IJATCSE),* Vol. 9, No.
+    4, pp. 5624–5630, 2020, doi:10.30534/ijatcse/2020/212942020.
+    **(Scopus indexed, UGC CARE listed).**
+    [<span class="underline">http://www.warse.org/IJATCSE/static/pdf/file/ijatcse212942020.pdf</span>.](http://www.warse.org/IJATCSE/static/pdf/file/ijatcse212942020.pdf)
+
+40. Rashi Singh and Nasib Singh Gill (2020). **“Use of IoT and Machine
+    Learning for Efficient Power Management Through Smart Grid: A
+    Review”,** *IJAST*, vol. 29, no. 04, pp. 8982 -, June 2020.
+    **(Scopus indexed, UGC CARE listed)**
+
+41. Sehrawat Deepti and Nasib Singh Gill (2019). **“BRIGHT - Proposed
+    Family of Lightweight Block Ciphers for IoT-Enabled Smart
+    Environment”.** *International Journal of Innovative Technology and
+    Exploring Engineering (IJITEE).* ISSN: 2278-3075, Volume 8, Issue 9,
+    July 2019, pp. 584-592. **(Scopus indexed, UGC CARE listed).**
+    <span class="underline">https://[www.ijitee.org/wp-content/uploads/papers/v8i9/I7778078919.pdf](http://www.ijitee.org/wp-content/uploads/papers/v8i9/I7778078919.pdf)</span>
+
+42. Munisha Devi and and Nasib Singh Gill (2019). **“Mobile Ad Hoc
+    Networks and Routing Protocols in IoT Enabled Smart Environment: A
+    Review”.** *Journal of Engineering and Applied Sciences.* **ISSN**:
+    1816-949X , Volume 14, Issue 3, pp. 802- 811, 2019. **(Scopus
+    indexed, UGC CARE listed).**
+    [<span class="underline">http://medwelljournals.com/abstract/?doi=jeasci.2019.802.811</span>](http://medwelljournals.com/abstract/?doi=jeasci.2019.802.811)
+
+> DOI: 10.36478/jeasci.2019.802.811
+
+43. Sehrawat Deepti and Nasib Singh Gill (2019). **“Performance
+    Evaluation of Newly Proposed Lightweight Cipher, BRIGHT”.**
+    *International Journal of Intelligent Engineering and Systems.*
+    ISSN: 2185-3118, Vol. 12, No. 4, 2019, pp. 71-81. **(Scopus indexed,
+    UGC CARE listed).**
+    [<span class="underline">http://oaji.net/articles/2019/3603-</span>](http://oaji.net/articles/2019/3603-)
+    <span class="underline">1561602690.pdf</span>
+
+44. > Munisha Devi and Nasib Singh Gill (2019. **“Performance Analysis
+    > of Enhanced Ad-Hoc On-Demand Distance Vector Routing Protocol in
+    > Smart Environment”.** *International Journal of Recent Technology
+    > and Engineering (IJRTE).* ISSN: 2277- 3878, Volume-8, Issue-2,
+    > July 2019, pp. 1548-1554. **(Scopus indexed, UGC CARE listed).**
+    > <span class="underline">https://[www.ijrte.org/wp-](http://www.ijrte.org/wp-)content/uploads/papers/v8i2/B2227078219.pdf</span>
+
+45. > Sehrawat Deepti and Nasib Singh Gill (2019). **“BRIGHT: A Small
+    > and Fast Lightweight Block Cipher for 32-bit Processor”.**
+    > *International Journal of Engineering and Advanced Technology
+    > (IJEAT),* ISSN: 2249 – 8958, Vol. 8, No. 5, pp. 1549-1556, June
+    > 2019. **(Scopus indexed, UGC CARE listed).**
+    > <span class="underline">https://[www.ijeat.org/wp-content/uploads/papers/v8i5/E7302068519.pdf](http://www.ijeat.org/wp-content/uploads/papers/v8i5/E7302068519.pdf)</span>
+
+46. Munisha Devi and Nasib Singh Gill (2019. **“Performance Evaluation
+    of Dynamic Source Routing Protocol in Smart Environment”.**
+    *International Journal of Advanced Trends in Computer Science and
+    Engineering.* ISSN: 2278-3091, Volume 8, No. 2, March – April 2019,
+    pp. 333 – 338. **(Scopus indexed, UGC CARE listed).
+    [http://www.warse.org/IJATCSE/static/pdf/file/ijatcse37822019.pdf.](http://www.warse.org/IJATCSE/static/pdf/file/ijatcse37822019.pdf)
+    https://doi.org/10.30534/ijatcse/2019/37822019**
+
+47. Pooja Singh and Nasib Singh Gill (2019), **“WCA-DGVC: A Weight
+    Clustering Algorithm for Decentralized Group Key Management With
+    Variable Size Cluster”.** *International Journal of Recent
+    Technology and Engineering*, Vol. *07, Issue 5,* pp. 82-87, 2019,
+    **ISSN: 2277-3878. (Scopus Indexed, ICI, UGC Approved)** Impact
+    Factor 5.92.
+    <span class="underline">https://[www.ijrte.org/wp-](http://www.ijrte.org/wp-)</span>
+    <span class="underline">content/uploads/papers/v7i5/E1968017519.pdf</span>
+
+48. Munisha Devi, Nasib Singh Gill and Deepti Sehrawat (2019.
+    **“Exploring Possibilities of MANET Protocols for IoT Enabled
+    Smart Environment”.** *International Journal of Computer Sciences
+    and Engineering.* E-ISSN: 2347-2693, Vol.-7, Issue-3, March 2019.
+    **(ICI indexed and UGC CARE listed).**
+    <span class="underline">https://</span>[<span class="underline">www.ijcseonline.org/pub\_paper/116-IJCSE-06206.pdf</span>.](http://www.ijcseonline.org/pub_paper/116-IJCSE-06206.pdf)
+    DOI: https://doi.org/10.26438/ijcse/v7i3.684688
+
+49. Sehrawat Deepti and Nasib Singh Gill (2019). **“A Review on
+    Performance Evaluation Criteria and Tools for Lightweight Block
+    Ciphers”.** *International Journal of Advanced Trends in Computer
+    Science and Engineering (IJATCSE).* ISSN: 2278-3091, Vol.8, No. 3,
+    pp. 630-639, June 2019. **(Scopus indexed, UGC CARE listed).**
+    [<span class="underline">http://www.warse.org/IJATCSE/static/pdf/file/ijatcse47832019.pdf</span>](http://www.warse.org/IJATCSE/static/pdf/file/ijatcse47832019.pdf)
+    DOI: <span class="underline">10.30534/ijatcse/2019/47832019</span>
+
+50. Munisha Devi and Nasib Singh Gill (2018**). “Comparison Analysis of
+    MANET Routing Protocols to identify their Suitability in Smart
+    Environment.”** *International Journal of Engineering and Technology
+    (UAE), Vol. 7, No. 4 pp. 4844- 4849, 2018.* **ISSN:** 2227-524X
+    **(Scopus Indexed and UGC CARE listed).**
+    <span class="underline">https://</span>[<span class="underline">www.sciencepubco.com/index.php/ijet/article/view/27945</span>.](http://www.sciencepubco.com/index.php/ijet/article/view/27945) DOI: 10.14419/ijet.v7i4.27945
+
+51. Pooja Singh and Nasib Singh Gill (2019), **“A Secure and Power-Aware
+    Protocol for Wireless Ad Hoc Networks”.** *International Journal of
+    Advanced Trends in Computer Science and Engineering*, Vol. *08, No.
+    1, January-February 2019,* pp. 34- 41, 2019, **ISSN: 2278-3091.
+    (Scopus Indexed, ICI, UGC Approved)** SJIF 3.980.
+    [<span class="underline">http://www.warse.org/IJATCSE/static/pdf/file/ijatcse07812019.pdf</span>](http://www.warse.org/IJATCSE/static/pdf/file/ijatcse07812019.pdf)
+    <span class="underline">https://doi.org/10.30534/ijatcse/2019/07812019</span>
+
+52. Sehrawat Deepti and Nasib Singh Gill (2018). “**Deployment of IoT
+    based smart environment: key issues and challenges**”***.**
+    International Journal of Engineering and Technology (UAE), Vol. 7,
+    No. 2 pp. 544-550, 2018.* **ISSN:** 2227-524X **\[Scopus
+    Indexed\].** <http://dx.doi.org/10.14419/ijet.v7i2.9504>
+
+53. Pooja Singh and Nasib Singh Gill (2018), **“A Survey on Key
+    Management Schemes in Wireless Ad Hoc Networks”.** *International
+    Journal of Applied Engineering Research*, Vol. *13, No. 1*, pp.
+    268-272, 2018, **Print ISSN: 0973-4562**, **Online ISSN: 0973-9769.
+    (Erstwhile Scopus Indexed, ICI, UGC Approved) H- Index=13.
+    https://[www.ripublication.com/ijaer18/ijaerv13n1\_37.pdf](http://www.ripublication.com/ijaer18/ijaerv13n1_37.pdf)**
+
+54. Sehrawat Deepti and Nasib Singh Gill (2018), “**Lightweight Block
+    Ciphers for IoT based applications: A Review**”. *International
+    Journal of Applied Engineering Research*, Vol. *13, No.* 5, pp.
+    2258-2270, 2018, **Print ISSN: 0973-4562**, **Online ISSN:
+    0973-9769,** (**Erstwhile Scopus Indexed, ICI, UGC Approved) H-
+    Index=13.
+    https://[www.ripublication.com/ijaer18/ijaerv13n5\_26.pdf](http://www.ripublication.com/ijaer18/ijaerv13n5_26.pdf)**
+
+55. Sehrawat Deepti, N. S. Gill (2018). “**Emerging Trends and Future
+    Computing Technologies: A Vision for Smart Environment**”.
+    *International Journal of Advanced Research in Computer Science
+    (IJARCS), Vol 9, No. 2, pp. 839-842, March-April, 2018.* **ISSN:**
+    0976-5697 **\[ICI, UGC Approved\] H-Index=7,** Among *Top 50 Indian
+    Journals: Rank: 1<sup>st</sup> in Computer Science Journals (ISI
+    report 2016)
+    [<span class="underline">http://www.ijarcs.info/index.php/Ijarcs/article/view/5838</span>](http://www.ijarcs.info/index.php/Ijarcs/article/view/5838)*
+
+56. Devi, Munisha and Gill, N.S. (2018). “**Study of Mobile Ad hoc
+    Network Routing Protocols in Smart Environment**”. *International
+    Journal of Applied Engineering Research*, Vol. *13, No.* 16, pp.
+    12968-12975, 2018, **Print ISSN: 0973-4562**, **Online ISSN:
+    0973-9769,** (**Erstwhile Scopus Indexed, ICI, UGC Approved) H-
+    Index=13.
+    https://[www.ripublication.com/ijaer18/ijaerv13n16\_81.pdf](http://www.ripublication.com/ijaer18/ijaerv13n16_81.pdf)**
+
+57. Azaz Khan and Nasib Singh Gill (2018), **“Review of Security Methods
+    in Cloud Computing”.** *IJRAR- International Journal of Research and
+    Analytical Reviews,* Vol. *5, Issue 3*, pp. 1076-1080, July-Sept
+    2018, **e ISSN 2348 –1269, Print ISSN 2349-5138. (UGC Approved
+    Journal – Journal No. 43602). IF – 5.75.
+    <http://ijrar.com/upload_issue/ijrar_issue_1405.pdf>**
+
+58. Sehrawat Deepti and N. S. Gill (2018). “**Analysis of Security
+    Attacks on Lightweight Block Ciphers and their Countermeasures**”.
+    *Journal of Engineering and Applied Sciences* (JEAS), Vol 13, No 20,
+    pp. 8439-8447, 2018. **ISSN**: 1816- 949X **(Scopus indexed, UGC
+    CARE listed)**
+
+59. Azaz Khan and Nasib Singh Gill (2018), **“Encryption & Fingerprint
+    Based Security in Cloud Computing”.** *IJRAR- International Journal
+    of Research and Analytical Reviews,* Vol. *5, Issue 3*, pp.
+    1081-1085, July-Sept 2018, **e ISSN 2348 – 1269, Print ISSN
+    2349-5138. (UGC Approved Journal – Journal No. 43602). IF** **– 5.75. <http://ijrar.com/upload_issue/ijrar_issue_1406.pdf>**
+
+60. Meenakshi Sridhar and Nasib Singh Gill (2018). **“Formal Framework
+    for Semi- automation of Validation of Software and its Metrics and
+    of Development of Relevant Knowledge-base”.** *Journal of
+    Engineering and Applied Sciences (JEAS), Feb 2018,* pISSN:
+    1816-949x, eISSN: 1818-7803.
+
+> [<span class="underline">http://medwelljournals.com/journalhome.php?jid=1816-949x</span>.](http://medwelljournals.com/journalhome.php?jid=1816-949x)
+> ***UGC listed (SI. No. 7336), Scopus indexed***.
+
+61. **Meenakshi Sridhar and Nasib Singh Gill,** “Computational Framework
+    for Web Metrics towards Automated Web Design”*,* I*OSR Journal of
+    Computer Engineering (IOSR-JCE),* Volume 19, Issue 4, Ver. VII*, PP
+    20-29* , Jul.-Aug. 2017, eISSN: 2278-0661, pISSN: 2278-8727. *UGC
+    listed (SI. No. 5019).*
+
+> [<span class="underline">http://www.iosrjournals.org/iosr-jce/papers/Vol19-issue4/Version-7/D1904072029.pdf</span>](http://www.iosrjournals.org/iosr-jce/papers/Vol19-issue4/Version-7/D1904072029.pdf)
+
+62. **Meenakshi Sridhar and Nasib Singh Gill,** “An Approach For
+    Automating Design Of Web, its Metrics & Knowledge-Base”,
+    *International Journal of Advanced Research in Computer Science,*
+    Volume 8 No.7, August 2017, ISSN: 0976-5697.
+    [<span class="underline">http://www.ijarcs.info/index.php/Ijarcs/article/view/4445</span>](http://www.ijarcs.info/index.php/Ijarcs/article/view/4445).*UGC
+    listed (SI. No. 2503), ICI indexed.*
+
+63. Pooja Singh and Nasib Singh Gill (2017). **“Cross Layered
+    Architecture for Interoperability within Ad Hoc Networks”**.
+    *VIRTUE, Bi- annual Refereed Journal of DAV Institute of Management,
+    Volume V, Issue II, July - December 2017,* **ISSN**: 2230-7117.
+    **(UGC Approved)**
+
+64. Sehrawat Deepti and N. S. Gill (2018). “**Internet of Things:
+    Opportunities and Future Scope**”. *International Journal of
+    Innovations & Advancement in Computer Science*. Volume 7, Issue 4,
+    pp: 248-252, April 2018. **ISSN:** 2347 – 8616 **(UGC Approved)**
+
+65. Sehrawat Deepti and N. S. Gill (2018). “**Data Mining in IoT and its
+    Challenges**”. *International Journal of Computer Sciences and
+    Engineering*. Vol.6, Issue.4, pp.289- 295, 2018. **ISSN: 2347-2693
+    (E) (ICI, UGC Approved) *Rank: 2<sup>nd</sup> in Computer Science
+    Journals (ISI report 2016) H-Index=8***
+
+66. Vikas Raman and Nasib Singh Gill (2017). A Swarmed GA Algorithm for
+    Solving Travelling Salesman Problem. *Journal of Theoretical and
+    Applied Information Technology.* Vol. 95, No. 16, August 31, 2017.
+    ISSN: 1992-8645. ***Thomson Reuters listed, Scopus indexed***.
+    [<span class="underline">http://www.jatit.org/volumes/Vol95No16/23Vol95No16.pdf</span>](http://www.jatit.org/volumes/Vol95No16/23Vol95No16.pdf)
+
+67. Navneet and Nasib Singh Gill (2017).***“An efficient technique for
+    Big Data Classification using neural network”,** A Science &
+    Technology Journal (Ciência e Técnica Vitivinícola Journal)*. Vol.
+    32 Issue 1, January 2017. ISSN: 0254-0223*. **Thomson Reuters
+    listed, Science Citation Index Expanded (SCI indexed).***
+
+68. Navneet and Nasib Singh Gill (2017).***“A Novel Algorithm for Big
+    Data Classification Based on Lion Optimization”,** Journal of
+    Theoretical and Applied Information Technology,* Vol. 95, No. 7,
+    April 2017. ISSN: 1992-8645. (Impact Factor 0.33) ***Thomson Reuters
+    listed, Scopus indexed, SciVerse, Hub, J-Gate, and included in the
+    list of journal recommended by
+    UGC.***[<span class="underline">http://www.jatit.org/volumes/Vol95No7/3Vol95No7.pdf</span>](http://www.jatit.org/volumes/Vol95No7/3Vol95No7.pdf)
+
+69. Shilpi Garg and Nasib Singh Gill (2017). ***Improved Leach Protocol
+    for Energy Aware Routing.** IOSR Journal of Computer Engineering
+    (IOSR-JCE),* e-ISSN: 2278- 0661,p-ISSN: 2278-8727, Volume 19, Issue
+    6, Ver. I (Nov.- Dec. 2017), pp. 09-12. ***Included in the list of
+    journals recommended by UGC.***
+    [<span class="underline">http://www.iosrjournals.org/iosr-jce/papers/Vol19-issue6/Version-</span>](http://www.iosrjournals.org/iosr-jce/papers/Vol19-issue6/Version-)
+    <span class="underline">1/A1906010108.pdf</span> DOI:
+    10.9790/0661-1906010912
+
+70. Geeta Rani and Nasib Singh Gill (2017). ***Approach for Sensing
+    Coverage Using Border Effect in Wireless Sensor Network.** IOSR
+    Journal of Computer Engineering (IOSR-JCE),* e-ISSN:
+    2278-0661,p-ISSN: 2278-8727, Volume 19, Issue 6, Ver. I (Nov.- Dec.
+    2017), pp. 01-08. ***Included in the list of journals recommended by
+    UGC.***
+    [<span class="underline">http://www.iosrjournals.org/iosr-jce/papers/Vol19-issue6/Version-</span>](http://www.iosrjournals.org/iosr-jce/papers/Vol19-issue6/Version-)
+    <span class="underline">1/A1906010108.pdf</span> DOI:
+    10.9790/0661-1906010108
+
+71. Shilpi Garg and Nasib Singh Gill (2017). “*Mobile Sink Based Energy
+    Efficient Adaptive Clustering Hierarchy Protocol For WSN”**,**
+    Indian Journal of Advanced Research in Computer Science,* Vol. 8,
+    No. 3 (2017): March-April 2017**, ISSN 0976- 5697. *Included in the
+    list of journals recommended by UGC. ***DOI:
+    [<span class="underline">http://dx.doi.org/10.26483/ijarcs.v8i3.3105</span>](http://dx.doi.org/10.26483/ijarcs.v8i3.3105)
+
+72. Geeta Rani and Nasib Singh Gill (2017). ***Impact of Boundary Effect
+    on Coverage Fraction in Wireless Sensor.** Indian Journal of
+    Advanced Research in Computer Science,* Vol. 8, No. 7 (2017):
+    July-August 2017**, ISSN 0976-5697. *Included in the list of
+    journals recommended by UGC. ***DOI:
+    [<span class="underline">http://dx.doi.org/10.26483/ijarcs.v8i7.3627</span>](http://dx.doi.org/10.26483/ijarcs.v8i7.3627)
+
+73. Sumit Nager and Nasib Singh Gill (2017).***“Comparative Study of RM
+    and EDF Scheduling Algorithm in Real Time Multiprocessing
+    Environment”,*** International Journal of Computer Science and
+    Mobile Computing (IJCSMC), Volume 6, Issue 3, March 2017. pp. 67-71.
+    (NISCAIR Certified Journal). ISSN(Online):2320-088X, Impact Factor
+    5.258.
+
+> [<span class="underline">http://www.ijcsmc.com/docs/papers/March2017/V6I3201729.pdf</span>](http://www.ijcsmc.com/docs/papers/March2017/V6I3201729.pdf)
+
+74. Vikas Raman and Nasib Singh Gill (2017).**“*Review of different
+    heuristic algorithms for solving Travelling Salesman Problem”,
+    ****Indian Journal of Advanced Research in Computer Science,* Vol.
+    8, No. 5 (2017): May-June 2017**, ISSN 0976-5697. *Included in the
+    list of journals recommended by
+    UGC.<http://ijarcs.in/index.php/Ijarcs/article/view/3105>***
+
+75. Sumit Nager and Nasib Singh Gill (2017).***“Comparative Study of
+    Various CPU Scheduling Algorithm”**,*International Journal of
+    Emerging Trends & Technology in Computer Science (IJETTCS), Volume
+    6, Issue 2, March-April 2017, pp.040-45. ISSN(Online):2278-6856,
+    Impact Factor
+    7.143.[<span class="underline">http://ijettcs.org/pabstract\_Share.php?pid=IJETTCS-2017-03-16-12</span>](http://ijettcs.org/pabstract_Share.php?pid=IJETTCS-2017-03-16-12)
+
+76. Sangeeta and Nasib Singh Gill (2017).***“Framework for Tweet
+    Sentiment Classification Using Boosting based Ensemble Approach”,**
+    A Science & Technology Journal (Ciência e Técnica Vitivinícola
+    Journal)*. Vol. 32 Issue 1, January 2017.ISSN: 0254-0223*.**Thomson
+    Reuters listed, Science Citation Index Expanded (SCI indexed).***
+
+77. Shikha Chahal and Nasib Singh Gill (2016).***"Comparative Study of
+    various WSN Routing Protocols”,** Indian Journal of Science and
+    Technology,* Vol. 9, Issue 48**,** DOI:
+    <span class="underline">10.17485/ijst/2016/v9i48/95285,</span>December
+    2016. ***Thomson Reuters listed, Scopus indexed, Web of Science
+    indexed and included in the list of journal recommended by
+    UGC.<http://www.indjst.org/index.php/indjst/article/view/95285>***
+
+78. Sumit Nager and Nasib Singh Gill (2016).***“An Improved Shortest Job
+    First Scheduling Algorithm to Decrease Starvation in Cloud
+    Computing”,*** International Journal of Computer Science and
+    Mobile Computing (IJCSMC), Volume 5, Issue 8, August 2016.
+    pg.155-161. (NISCAIR Certified Journal). ISSN(Online):2320-088X,
+    Impact Factor
+    5.258.[<span class="underline">http://ijcsmc.com/docs/papers/August2016/V5I8201635.pdf</span>](http://ijcsmc.com/docs/papers/August2016/V5I8201635.pdf)
+
+79. Shikha Chahal and Nasib Singh Gill (2016).**“*Preventing Clustering
+    Methodology for Improving Network Energy Using LEACH Protocol in
+    WSN”, ***IJCSMC International Journals of Computer Science and
+    Mobile Computing, Volume 5, Issue 8, August 2016. pg.162-172.
+    (NISCAIR Certified Journal). ISSN(Online):2320- 088X, Impact Factor
+    5.258.[<span class="underline">http://ijcsmc.com/docs/papers/August2016/V5I8201635.pdf</span>](http://ijcsmc.com/docs/papers/August2016/V5I8201635.pdf)
+
+80. Navneet and Nasib Singh Gill (2016).***"An Optimized Algorithm for
+    Big Data Classification using Neuro Fuzzy Approach”,** Indian
+    Journal of Science and Technology,* Vol. 9, Issue 28**,** DOI:
+    <span class="underline">10.17485/ijst/2016/v9i28/87995,</span> July
+    2016. ***Thomson Reuters listed, Scopus indexed, Web of Science
+    indexed and included in the list of journal recommended by
+    UGC.<http://indjst.org/index.php/indjst/article/view/87995/0>***
+
+81. Nasib Singh Gill and Pooja Mittal (2016).***“A Comparative Study of
+    Hybrid Prediction Model when implemented on Heterogeneous data sets
+    using Statistical Performance Evaluators”,** A Science & Technology
+    Journal (Ciência e Técnica Vitivinícola Journal)*. Vol. 31 Issue 9,
+    September 2016.ISSN: 0254-0223*.**Thomson Reuters listed, Science
+    Citation Index Expanded (SCI indexed).***
+
+82. Nasib Singh Gill and Pooja Mittal (2016).***“A Computational Hybrid
+    Model with two level Classification using SVM and Neural Network for
+    predicting the diabetes disease”,** Journal of Theoretical and
+    Applied Information Technology,*Vol. 87, No. 1, May 2016. ISSN:
+    1992-8645. ***Thomson Reuters listed, Scopus
+    indexed***.[<span class="underline">http://www.jatit.org/volumes/Vol87No1/1Vol87No1.pdf</span>](http://www.jatit.org/volumes/Vol87No1/1Vol87No1.pdf)
+
+83. Nasib Singh Gill and Pooja Mittal (2016).***“A Novel Hybrid Model
+    for Diabetic Prediction Using Hidden Markov Model, Fuzzy Based Rule
+    Approach & Neural Network”,** Indian Journal of Science and
+    Technology,* Vol 9(35)**,** DOI:10.17485/ijst/2016/v9i35/99146,
+    September 2016. Print ISSN: 0974-6846 Online ISSN:0974-5645.
+    ***Thomson Reuters listed, Scopus
+    indexed.<http://www.indjst.org/index.php/indjst/article/view/99146>***
+
+84. Meenakshi and Nasib Singh Gill (2015). ***“Imperfection of Domain
+    Knowledge and Its Formalization in Context of Design of Robust
+    Software Systems”,*** Journal of Software Engineering and
+    Applications, September 2015, Vol 8, No. 9, pp. 489-498. pp.
+    238-240. ISSN: 1945-3124.
+
+> <span class="underline">http://www.scirp.org/journal/jsea</span>,[<span class="underline">http://dx.doi.org/10.4236/jsea.2015.89047</span>](http://dx.doi.org/10.4236/jsea.2015.89047)
+
+85. Meenakshi Sridhar and Nasib Singh Gill (2015). ***“Formal Conceptual
+    Framework for Structure of Context of Component-based System for
+    Designing Robust Software Systems and Metrics”.*** International
+    Journal of Software Engineering and Applications (IJSEA) Vol 6, No.
+    6 :30-37, November 2015. ISSN: 0975-8018 (Online), 0976-2221
+    (Print).
+
+86. Meenakshi Sridhar and Nasib Singh Gill (2015). ***“A Formal
+    Conceptual Framework for Dynamics Within Context of Component-Based
+    System for Designing Robust Software Systems & Metrics”.***
+    International Journal of Computer Applications 112(7):30-37,
+    February 2015.ISSN: 0975-
+
+> 9018\.[<span class="underline">http://www.ijcaonline.org/archives/volume112/number7/19681-1412</span>](http://www.ijcaonline.org/archives/volume112/number7/19681-1412)
+
+87. Priyanka and Nasib Singh Gill (2015). ***“A Study on Detection of
+    DDOS Attack in MANET”,*** International Journal of Recent Research
+    Aspects (IJRRA). Vol. 2, Issue 2, June 2015, pp. 238-240. ISSN:
+    2349-7688.
+    [<span class="underline">http://ijrra.com/Vol2issue2/IJRRA-02-</span>](http://ijrra.com/Vol2issue2/IJRRA-02-)
+    <span class="underline">02-47.pdf</span>
+
+88. Priyanka and Nasib Singh Gill (2015). ***“Review of Detection,
+    Elimination and Simulation Analysis of Black Hole on Ad-hoc Network
+    Using Advance AODV Technique”,*** International Journal For
+    Technological Research In Engineering (IJFTRE). Volume 2, Issue 7,
+    March-2015, pp. 1347-1352. ISSN (Online): 2347 – 4718.
+    [<span class="underline">http://ijtre.com/manuscript//20150207131.pdf</span>](http://ijtre.com/manuscript//20150207131.pdf)
+
+89. Renu Yadav and Nasib Singh Gill (2015). ***“An Information Security
+    Technique Using AES-RSA Hybrid and SLSB: Review”,*** International
+    Journal of Advanced Research in Computer Science and Software
+    Engineering (IJARCSSE). Volume 5, Issue 5, May 2015, pp.1119-1122.
+    ISSN: 2277 128X.
+    [**http://www.ijarcsse.com/docs/papers/Volume\_5/5\_May2015/V5I5-0292.pdf**](http://www.ijarcsse.com/docs/papers/Volume_5/5_May2015/V5I5-0292.pdf)
+
+90. Priyanka and Nasib Singh Gill (2015). ***“A Review of DDOS Attack
+    and Their Countermeasure in TCP Based Network”,*** International
+    Journal of Recent Research Aspects (IJRRA). Vol. 2, Issue 2, June
+    2015, pp. 233-237. ISSN: 2349-7688.
+    [<span class="underline">http://ijrra.com/Vol2issue2/IJRRA-02-02-46.pdf</span>](http://ijrra.com/Vol2issue2/IJRRA-02-02-46.pdf)
+
+91. Priyanka and Nasib Singh Gill (2015). ***“Detection and Removal of
+    Black Hole Using Advance AODV TECHNIQUE”,*** International Journal
+    For Technological Research In Engineering (IJFTRE). Volume 2, Issue
+    11, July-2015, pp. 2624-2627. ISSN (Online): 2347 – 4718.
+    [<span class="underline">http://www.ijtre.com/manuscript/2015021132.pdf</span>](http://www.ijtre.com/manuscript/2015021132.pdf)
+
+92. Renu Yadav and Nasib Singh Gill (2015). *“**Improvement in
+    Performance of RSA Algorithm Using SLSB”, ***International Journal
+    of Computer Science and Mobile Computing (IJCSMC). Vol.4 Issue.7,
+    July- 2015, pp. 279-285. ISSN: 2320-088X.
+    [**http://ijcsmc.com/docs/papers/July2015/V4I7201574.pdf**](http://ijcsmc.com/docs/papers/July2015/V4I7201574.pdf)
+
+93. Renu Yadav and Nasib Singh Gill (2015). *“**Improvement in
+    Performance of Advance Encryption Standard Using SLSB”,
+    ***International Journal of Emerging Technology and Advanced
+    Engineering (IJETAE). Vol. 5, Issue.6, June 2015, pp. 487-493. ISSN:
+    2320-088X. (NISCAIR Certified Journal) Impact Factor: 5.258.
+    [**http://ijcsmc.com/docs/papers/July2015/V4I7201574.pdf**](http://ijcsmc.com/docs/papers/July2015/V4I7201574.pdf)
+
+94. Renu Yadav and Nasib Singh Gill (2015). ***“An Information Security
+    Technique Using AES-RSA Hybrid and SLSB: Research”,*** International
+    Journal of Advanced Research in Computer Science and Software
+    Engineering (IJARCSSE). Volume 5, Issue 7, May 2015, pp. 805-809.
+    ISSN: 2277 128X.
+    [<span class="underline">http://www.ijarcsse.com/docs/papers/Volume\_5/7\_July2015/V5I7-0425.pdf</span>](http://www.ijarcsse.com/docs/papers/Volume_5/7_July2015/V5I7-0425.pdf)
+
+95. Navneet and Nasib Singh Gill (2015). “***Classification Using the
+    Compact Rule Generation”,*** Oriental Journal of Computer Science &
+    Technology, Vol. 8 No. 1: 49- 58, April 2015. ISSN (Online):
+    0974-6471.(Impact Factor: 0.1890).Published by Techno Research
+    Publishers, India.
+    [<span class="underline">http://www.computerscijournal.org/vol8no1/classification-using-the-compact-rule-</span>](http://www.computerscijournal.org/vol8no1/classification-using-the-compact-rule-)
+    <span class="underline">generation/</span>.***(NASS Rating: 4.79 and
+    IC value 85.22).*ICI indexed and included in the list of journal
+    recommended by UGC.**
+
+96. Vijay Bharti and Nasib Singh Gill (2015). **Survey of Challenges in
+    Distributed Denial of Service Attacks and IP Traceback
+    Countermeasures,** IJCST International Journal of Computer Science
+    and Technology, Volume 6, Issue 2,April- June 2015.
+    ISSN(Online):0976-8491.ISSN(Print):2229-4333.[<span class="underline">www.ijcst.com</span>](http://www.ijcst.com/)
+
+97. Vijay Bharti and Nasib Singh Gill (2015). **A Survey of DDOS Attacks
+    with NS, NAM and OTCL Scripting,** ACE Journals, Volume 3, Issue 1,
+    April 2015, Certificate No-C000191. ISSN: 2393-8390 (Online).
+    [<span class="underline">www.acejournals.com</span>](http://www.acejournals.com/)
+
+98. Vijay Bharti and Nasib Singh Gill (2015). **Preventing Distributed
+    Denial of service Attacks Via MAC Cloning,** International Journals
+    of Computer Science and Mobile Computing (IJCSMC), Volume 4, Issue
+    6, June 2015, ISSN(Online) : 2320-
+    088X.[<span class="underline">www.ijscmc.com</span>](http://www.ijscmc.com/)
+
+99. Vijay Bharti and Nasib Singh Gill (2015). **Deterministic Packet
+    Marking for Detecting Distributed Denial of Service Attacks in
+    MANETS,** IJARCSSE International journals of Advanced Research in
+    Computer Science and Software Engineering, Volume 5, Issue 6, June
+    2015, ISSN(Online) : 2277-128X.
+    [<span class="underline">www.ijarcsse.com</span>.](http://www.ijarcsse.com/)
+
+100. Navneet and Nasib Singh Gill (2014). “***Algorithm for Producing
+     Compact Decision Trees for Enhancing Classification Accuracy in
+     Fertilizer Recommendation of Soil”,***International Journal of
+     Computer Applications, 98(02):35-39, July 2014. ISSN (Online):
+     0975-8887.(Impact Factor: 0.814).Published by Foundation of
+     Computer Science, NewYork, USA.
+     [<span class="underline">http://www.ijcaonline.org/archives/volume98/number2/17153-7204</span>](http://www.ijcaonline.org/archives/volume98/number2/17153-7204)
+
+101. Ekta and Nasib Singh Gill (2014). “***MANETs Routing: Simulation
+     and Network Analysis For AODV and DSR”,*** International Journal of
+     Advance Research in Computer and Communication Engineering
+     (IJARCCE), Volume 03, Issue 06, June 2014. ISSN (online):
+     2278-1021.
+     [<span class="underline">www.ijarcce.com</span>](http://www.ijarcce.com/)
+
+102. Ekta and Nasib Singh Gill (2014). “***Intrusion Secure Algorithm
+     for AODV”,*** International Journal of Science and Research (IJSR),
+     Volume 03, Issue 07, July 2014. ISSN (online): 2319-7064. (Impact
+     Factor:
+     3.358).[<span class="underline">www.ijsr.net</span>](http://www.ijsr.net/)
+
+103. Nasib Singh Gill and Ekta (2014). “***Detection and Isolation of
+     Malicious and Hostile Nodes in MANETs”,*** International Journal of
+     Advanced Research in Computer Science and Software Engineering
+     (IJARCSSE), Volume 04, Issue 04, April 2014. ISSN (online):
+     2277-128X. (Impact Factor: 3.358). pp. 853-
+     856.[<span class="underline">www.ijsr.net</span>](http://www.ijsr.net/)
+
+104. Palak and Nasib Singh Gill (2014). “***Study of Energy consumption
+     in DSR Using NS2”,*** International Journal of Computer Science and
+     Mobile Computing (IJCSMC), Volume 03, Issue 07, July 2014. pp.
+     531-535. ISSN (online): 2320-088X.
+     [<span class="underline">www.ijcsmc.com</span>](http://www.ijcsmc.com/)
+
+105. Palak and Nasib Singh Gill (2014). “***A Power Saving Intelligent
+     Dynamic Source Routing (IDSR) in MANET”,*** International Journal
+     of Advance Research in Computer and Communication Engineering
+     (IJARCCE), Volume 03, Issue 07, June 2014. ISSN (online):
+     2278-1021. pp.7556-7558.
+     [<span class="underline">www.ijarcce.com</span>](http://www.ijarcce.com/)
+
+106. Palak Gupta and Nasib Singh Gill (2014). *“**Simulation and
+     Analysis of Routing Protocols in MANETs for Different Network
+     Sizes”, ***International Journal of Advanced Research in Computer
+     Science (IJARCS), Vol. 5, No 5 (2014): May-June 2014. ISSN
+     (online): 0976-5697. ***Included in the list of journal recommended
+     by UGC.***
+     [<span class="underline">http://www.ijarcs.info</span>](http://www.ijarcs.info/)
+
+107. Rajan Gupta and Nasib Singh Gill (2012).***“Financial Statement
+     Fraud Detection Using Text Mining”,*** International Journal of
+     Advanced Computer Science and Applications (IJACSA), Vol. 3 No. 12,
+     pp.189-191.
+     2012.[<span class="underline">www.ijacsa.thesai.org</span>.](http://www.ijacsa.thesai.org/)
+     [<span class="underline">http://dx.doi.org/10.14569/IJACSA.2012.031230</span>](http://dx.doi.org/10.14569/IJACSA.2012.031230)
+
+108. Swati Atri, Nasib Singh Gill and Jaideep Atri (2014).
+     “***Comparison of Cluster Formation Algorithms Based on Fuzzy
+     Logic Rules”,*** International Journal of Science and Research
+     (IJSR), Volume 03, Issue 06, June 2014. ISSN (online): 1831- 1834.
+     (Impact Factor:
+     3.358).[<span class="underline">www.ijsr.net</span>](http://www.ijsr.net/)
+
+109. Swati Atri, Nasib Singh Gill and Jaideep Atri (2014).
+     “***Clustering Approach Based on Ant Colony Optimization”,***
+     International Journal of Advanced Research in Computer Science and
+     Software Engineering (IJARCSSE), Volume 04, Issue 02, February
+     2014. ISSN (online): 2277-128X. (Impact Factor: 3.358). pp. 179-
+     181.[<span class="underline">www.ijsr.net</span>](http://www.ijsr.net/)
+
+110. Pooja Mittal and Nasib Singh Gill (2014). ***“A Comparative
+     Analysis of Classification Techniques on Medical Data Sets”,***
+     International Journal of Research in Engineering and Technology,
+     03(06):454-460, June 2014. ISSN (Online): 2319-
+     1163.[<span class="underline">www.ijret.org</span>](http://www.ijret.org/)
+
+111. Pooja Mittal and Nasib Singh Gill (2014). ***“Three Dimensional
+     Model for Diagnostic Prediction: A Data Mining Approach”,***
+     International Journal of Emerging Trends & Technology in Computer
+     Science (IJETTCS), Vol 2, Issue 4, July-Aug 2013: 379-383, June
+     2014. ISSN (Online):
+     2278-6856.[<span class="underline">www.ijettcs.org</span>](http://www.ijettcs.org/)
+
+112. Swati Atri, Nasib Singh Gill and Jaideep Atri (2014). “***Fuzzy
+     Logic Implementation Based on Antcolony Based Cluster head
+     Selection Algorithm”,*** International Journal of Advance Research
+     in Computer and Communication Engineering (IJARCCE), Volume 03,
+     Issue 04, April 2014. ISSN (online): 6256-6259.
+     [<span class="underline">www.ijarcce.com</span>](http://www.ijarcce.com/)
+
+113. Shelja Malhotra and Nasib Singh Gill (2014). “***Analysing of
+     Geographic Based Routing Protocols in MANETs”,*** International
+     Journal of Computer Science and Mobile Computing (IJCSMC), Volume
+     03, Issue 05, May 2014. pp. 1068-1073. ISSN (online): 2320-088X.
+     [<span class="underline">www.ijcsmc.com</span>](http://www.ijcsmc.com/)
+
+114. Manisha and Nasib Singh Gill (2013). “***Contrast Enhancement by
+     Using Region Growing”,*** International Journal of Engineering
+     Sciences Paradigms and Researches, Volume 08, Issue 01, October
+     2013. ISSN (online): 2319-6564.
+     [<span class="underline">www.ijesonline.com</span>](http://www.ijesonline.com/)
+
+115. Sudhir and Nasib Singh Gill (2013). “***Comparative Study of
+     Different Data Mining Techniques: A Review”,*** International
+     Journal of Latest Technology in Engineering, Management & Applied
+     Sciences, Volume II, Issue IV, April 2013. ISSN (online):
+     2278-2540.
+     [<span class="underline">http://www.ijltemas.in/digital-library/volume-ii-issue-iv</span>](http://www.ijltemas.in/digital-library/volume-ii-issue-iv)
+
+116. Navneet and Nasib Singh Gill (2013). “***Behavior of Classification
+     & Clustering Algorithms on Diverse Data”,*** International Journal
+     of Engineering Sciences Paradigms and Researches, Volume 08, Issue
+     01, October 2013. ISSN (online): 2319-6564.(Impact factor 2.80).
+     [<span class="underline">www.ijesonline.com</span>](http://www.ijesonline.com/)
+
+117. Nitika and Nasib Singh Gill (2013). “***Fingerprints Recognition
+     Techniques: A Critical Review”,*** IJMRS’s International Journals
+     of Multidisciplinary Research Studies, Volume 02, Issue 02, June
+     2013. ISSN (online): 2277-9698.
+     [<span class="underline">http://ijmrs.com/Papers.aspx?volumeID=V833656723</span>](http://ijmrs.com/Papers.aspx?volumeID=V833656723)
+
+118. Sudhir and Nasib Singh Gill (2013). “***Analysis and Study of
+     K-Means Clustering Algorithm”,*** International Journal of
+     Engineering Research \&Technology (IJERT), Volume 2, Issue 7, July
+     2013. ISSN (online): 2278-0181.
+     [<span class="underline">http://www.ijert.org/view.php?id=4586\&title=analysis-and-study-of-k-means-</span>](http://www.ijert.org/view.php?id=4586&title=analysis-and-study-of-k-means-)
+     <span class="underline">clustering-algorithm</span>
+
+119. Nitika Saroha and Nasib Singh Gill (2013). “**Hough Transform Based
+     Fingerprint Matching Using Minutiae Extraction*”, ***International
+     Journal of Advanced Research in Computer Science (IJARCS), Vol. 4,
+     No 10 (2013): September-October 2013. ISSN (online): 0976-5697.
+     ***Included in the list of journal recommended by UGC.***
+     [<span class="underline">http://www.ijarcs.info</span>](http://www.ijarcs.info/)
+
+120. Manisha and Nasib Singh Gill (2013). “***Image Enhancement Using
+     SIFT and Region Growing”,*** International Journal of Computer
+     Science & Management Studies (IJCSMS), Volume 13, Issue 05, July
+     2013. ISSN (online): 2231-5268.
+     [<span class="underline">www.ijcsms.com</span>](http://www.ijcsms.com/)
+
+121. Manisha and Nasib Singh Gill (2013). ***“Fingerprint Feature
+     Extraction Using Hough Transform and Minutiae Extraction”,***
+     International Journal of Computer Science & Management Studies
+     (IJCSMS), Volume 13, Issue 05, July 2013. ISSN (online): 2231-5268.
+     [<span class="underline">www.ijcsms.com</span>](http://www.ijcsms.com/)
+
+122. Sudhir and Nasib Singh Gill (2013). “***Enhancing the Performance
+     of Nearest Neighbor Clustering Algorithm”,*** International Journal
+     of Computer Applications & Information Technology (IJCAIT), Volume
+     3, Issue II, August-September 2013. ISSN (online): 2278-7720.
+     [<span class="underline">www.ijcait.com</span>](http://www.ijcait.com/)
+
+123. Meenakshi Sharma, Nasib S. Gill, Sunil Sikka (2012). *“**Survey of
+     object-oriented metrics: focusing on validation and formal
+     specification”*****,** ACM SIGSOFT Software Engineering Notes,
+     37(6): 1-5, New York, USA.
+
+124. Pooja Mittal and Nasib Singh Gill (2013). ***“Study and Analysis of
+     Predictive Data Mining Approaches for Clinical Dataset”,***
+     International Journal of Computer Applications, 63(03):35-39,
+     February 2013. ISSN (Online): 0975-8887.(Impact Factor:
+     0.814).Published by Foundation of Computer Science, NewYork, USA.
+     [<span class="underline">http://www.ijcaonline.org/archives/volume63/number3/10449-5151</span>](http://www.ijcaonline.org/archives/volume63/number3/10449-5151)
+
+125. Kapil Juneja and Nasib Singh Gill (2013). ***“An Enhanced Digital
+     Character Recognition using Art Network Classifier”,***
+     International Journal of Computer Applications, 64(07):28-33,
+     February 2013. ISSN (Online): 0975-8887.(Impact Factor:
+     0.814).Published by Foundation of Computer Science, NewYork, USA.
+     [<span class="underline">http://research.ijcaonline.org/volume63/number13/pxc3885505.pdf</span>](http://research.ijcaonline.org/volume63/number13/pxc3885505.pdf)
+
+126. Pardeep Tomar and Nasib Singh Gill (2013). *“**Survey New Algorithm
+     for Component Selection to Develop Component-Based Software with X
+     Model”,** Lecture Notes on Software Engineering (LNSE), Vol. 1, No.
+     3, August 2013, pp.298-
+     302*.[<span class="underline">http://www.lnse.org/papers/65-CA2020.pdf</span>](http://www.lnse.org/papers/65-CA2020.pdf)
+
+127. Kapil Juneja and Nasib Singh Gill (2013). ***“An Optimization of
+     Dejong Function using GA under Different Selection Algorithms”,*
+     International Journal of Computer Applications,** 63**(13):06-12,
+     February 2013.ISSN (Online): 0975-8887.** (Impact Factor:
+     0.814).Published by Foundation of Computer Science, New York, USA.
+     [<span class="underline">http://www.ijcaonline.org/archives/volume64/number7/10648-5407</span>](http://www.ijcaonline.org/archives/volume64/number7/10648-5407)
+
+128. Rajan Gupta and Nasib Singh Gill (2012).***“A Solution for
+     Preventing Fraudulent Financial Reporting using Descriptive Data
+     Mining Techniques”,* International Journal of Computer
+     Applications, 58(1):22-28, November 2012.ISSN (Online):
+     0975-8887.** (Impact Factor: 0.814).Published by Foundation of
+     ComputerScience,NewYork,USA.[<span class="underline">http://www.ijcaonline.org/archives/volume58/number1/9247-</span>](http://www.ijcaonline.org/archives/volume58/number1/9247-)
+     <span class="underline">3411</span>
+
+129. Narender Singh and Gill, Nasib Singh (2012). ***“The Early
+     Detection of Functional and Non-functional Cross-cutting
+     Concerns”,* International Journal of Computer Applications
+     (IJCA), Vol. 16, No 13, May 2012. Pp. 25-32. ISSN (Online): 0975-
+     8887.** (Impact Factor:
+     0.814).[<span class="underline">http://www.ijcaonline.org/archives/volume46/number13/6971-9507</span>](http://www.ijcaonline.org/archives/volume46/number13/6971-9507)
+
+130. Narender Singh and Gill, Nasib Singh (2012). ***“Towards an
+     Integrated AORE Process Model for Handling Crosscutting Concerns”,*
+     International Journal of Computer Applications (IJCA),**Volume 37,
+     No. 3, **January 2012 Edition. ISSN (Online): 0975-8887.**(Impact
+     Factor: 0.814).
+     [<span class="underline">http://www.ijcaonline.org/archives/volume37/number3/4587-6525</span>](http://www.ijcaonline.org/archives/volume37/number3/4587-6525)
+
+131. Gill, Nasib Singh and Narender Singh (2011). ***“Aspect-Oriented
+     Requirements Engineering for Advanced Separation of Concerns: A
+     Review”,* IJCSI International Journal of Computer Science Issues,
+     Vol. 8, Issue 5, No 2, September 2011 ISSN (Online):
+     1694-0814*.***(Impact Factor: 0.242)
+
+132. Gill, N. S. and Tomar, P. (2011). “**New and Innovative Process to
+     Construct Testable Component with Systematic Approach**”, ACM
+     SIGSOFT, New York, USA, Vol. 36, No. 1, *pp. 1-4.*
+
+133. Nasib S. Gill, Sunil Sikka (2011). ***“Inheritance Hierarchy Based
+     Reuse & Reusability Metrics in OOSD”,* International Journal of
+     Computer Science & Engineering (IJCSE),** Vol. 3, No. 6, June 2011,
+     pp. 2309-2311.
+
+134. Gill, N. S. and Tomar, P. (2010).***“Modified Development Process
+     of Component- Based Software Engineering”,* ACM SIGSOFT, New York,
+     USA, Vol. 35, No. 2, *pp. 1-6. ****(Tagged in
+     [<span class="underline">**http://www.mendeley.com/research-papers/tag/object**+oriented+</span>](http://www.mendeley.com/research-papers/tag/object%2Boriented%2B)
+     <span class="underline">programming</span>)*
+
+135. Gill N.S. and Balkishan, (2010). ***“A Critical Analysis of
+     Component-Based Software Development Metrics”,* International
+     Journal of Computer Science & Management System, Vol. 2, Dec. 2010,
+     pp. 31-37.**
+
+136. Nasib S. Gill, Sunil Sikka (2010).***“New Complexity Model for
+     Classes in Object Oriented System”* ACM SIGSOFT Software
+     Engineering Notes, Volume 35 Issue 5, September 2010.**
+
+137. Nasib S. Gill, Sunil Sikka (2010).***“Selecting Object-Oriented
+     Metrics for Classification of Faulty and Non-Faulty Classes using
+     Machine Learning Methods”,*** International Journal of Object
+     Oriented Software Engineering (IJOOSE), Vol 1, No 1 December 2010.
+
+138. Navneet and Gill, Nasib Singh (2012). ***“The Multidisciplinary
+     Approaches of Induction of Decision Tree - A Review***”, **IFRSA
+     International Journal of Data Warehousing & Mining (IIJDWM),** Vol
+     2, Issue1, Feb 2012, ISSN(Online): 2249- 2186, ISSN (PRINT):
+     2249-716. (Impact factor 2.456).
+
+139. Monika and N. S. Gill(2012).**“*An Ant Based Compromising Path
+     Approach to Avoid Selfish Node Attack in Mobile Networks”,*
+     International Journal of Computer Science and Communication
+     Networks (IJCSCN), Volume 2, Issue 4, pp. 516-519 Aug 2012. ISSN
+     (Online): 2249-5789 [www.ijcscn.com](http://www.ijcscn.com/)**
+
+140. Babita and Nasib Singh Gill(2012).***“An Implementation of Advanced
+     Traffic Control Techniques in MANET”,* International Journal of
+     Computer Science and Management Studies (IJCSMS), Volume 12, Issue
+     3, Sept. 2012, pp. 216-**
+
+> **221. ISSN (Online):
+> 2231-5268.**[<span class="underline">http://www.ijcsms.com</span>](http://www.ijcsms.com/)
+
+141. Manju Rani and Nasib Singh Gill(2012).***“Comparative Study of
+     Various VANET Routing Protocols”,* International Journal of
+     Computer Science and Management Studies (IJCSMS), Special Issue of
+     Volume 12, June 2012, pp. 108-**
+
+> **113. ISSN (Online): 2231-5268.**
+> [<span class="underline">http://www.ijcsms.com</span>](http://www.ijcsms.com/)
+
+142. Nasib S. Gill and Balkishan, ***“Dependency and Interaction
+     Oriented Complexity Metrics of Component-Based Systems”,* ACM
+     SIGSOFT SEN, Volume 33, Number 2, 2008, ACM Press, New York, NY,
+     USA.**
+
+143. Manju Rani and Nasib Singh Gill(2012).***“Position Based Routing in
+     VANET Based on Geographic Approach”,* International Journal of
+     Computer Science and Management Studies (IJCSMS), Vol. 12, Issue
+     03, Sept 2012, pp. 222-225. ISSN (Online): 2231-5268.**
+     [<span class="underline">http://www.ijcsms.com</span>](http://www.ijcsms.com/)
+
+144. Babita and Nasib Singh Gill(2012).***“A Review on Advanced Traffic
+     Control Techniques in Mobile Ad-Hoc Network”,* International
+     Journal of Computer Science and Management Studies (IJCSMS), Volume
+     12, Issue 3, Sept. 2012, pp. 203-207. ISSN (Online): 2231-5268.**
+     [<span class="underline">http://www.ijcsms.com</span>](http://www.ijcsms.com/)
+
+145. Gill N.S. and Grover P.S., ***“Few Important Considerations For
+     Deriving Interface Complexity Metric For Component-Based Systems”,*
+     ACM SIGSOFT SEN, Volume 29, Number 2, Pages 4, 2004, ACM Press, New
+     York, NY, USA.**
+
+146. Ritu and Nasib Singh Gill(2012).***“A Comparison Among Various
+     Techniques to Prioritize the Requirements”,* International Journal
+     of Computer Science and Management Studies (IJCSMS), Vol. 12, Issue
+     03, Sept 2012, pp. 601-607. ISSN (Online): 2231-5268.**
+     [<span class="underline">http://www.ijcsms.com</span>](http://www.ijcsms.com/)
+
+147. Ritu and Nasib Singh Gill(2012).***“Software Testing Prioritization
+     Based on Requirement Using Analytic Hierarchy Process”,*
+     International Journal of Engineering Sciences Paradigms and
+     Researches (IJESPR), Vol. 01, Issue 01, Oct 2012, pp. 128-132. ISSN
+     (Online): 2319-6564.**
+     [<span class="underline">http://www.ijesonline.com</span>](http://www.ijesonline.com/)
+
+148. Gill N.S., ***“Importance of Software Component Characterization
+     For Better Software Reusability”,* ACM SIGSOFT SEN, Volume 31,
+     Number 1, Pages 1-3, 2006, ACM Press, New York, NY, USA.**
+
+149. Gill N.S., ***“Reusability Issues in Component-based Development”,*
+     ACM SIGSOFT SEN, Volume 28, Number 4, Pages 4, 2003, ACM Press, New
+     York, NY, USA.**
+
+150. Gill N.S. and Grover P.S., ***“Component-Based Measurement: Few
+     Useful Guidelines”,* ACM SIGSOFT SEN, Volume 28, Number 6, Pages 4,
+     2003, ACM Press, New York, NY, USA.**
+
+151. Gill N.S., Grover P.S., Taneja D.R.,***"A New Program Complexity
+     Measure",* Computer Society of India (CSI) Communication Journal,
+     Nov 1994, pp. 39-42.** (This paper has also won **'The Best Paper
+     Award'** of the Journal).
+
+152. Gill N.S., ***“Role of Information Technology in Office
+     Automation”,* University News Journal (published by Association
+     of Indian Universities), Vol. 35(23), June 9, 1997, pp. 6-12.**
+
+153. Gill N.S. and Dabas K.C., **“*Hazards In Hi-tech Computing”,* ‘i.t’
+     (The complete magazine on Information Technology), April 1999, pp.
+     71-74.**
+
+154. Gill N.S., ***"Managing Through Technology",* Utkrisht Prabandh
+     (MDU Research Journal of Management Studies), Vol. 6, 1998, pp.
+     73-83.**
+
+155. Gill N.S. and Dabas K.C., ***“Challenges Before Information
+     Society”,* University News Journal, Vol. 37, No. 12, March 22,
+     1999, pp. 17-23.**
+
+156. Gill N.S., ***“Steps Towards Information Society”,* O D
+     Communication (A Journal of Organisation Development Institute),
+     August 1999, pp. 5-8. (Part-I)**
+
+157. Gill N.S., **“*Component-Based Development: A New Approach to
+     Software Engineering”,* ‘i.t’ (The complete magazine on Information
+     Technology), August 2003, pp. 64-67.**
+
+158. Gill N.S. and Grover P.S., ***“Software Size Prediction Before
+     Coding”,* ACM SIGSOFT SEN, Volume 29, Number 5, 2004, ACM Press,
+     New York, NY, USA, Pages 1-4.**
+
+159. Gill N.S., ***“Information Technology In Higher Education: Role of
+     IT in Office Automation”,* Selections From University News, Vol. 5,
+     AIU New Delhi, 2000, pp. 72-87.**
+
+160. Gill N.S., ***“Emerging Trends of ERP”,*University News Journal,
+     Vol. 37, No. 3, Jan. 18, 1999, pp. 12-17.**
+
+161. Gill N.S., ***“Steps Towards Information Society”,* O D
+     Communication (A Journal of Organisation Development Institute),
+     August 1999, pp. 21-25. (Part-II)**
+
+162. Gill N.S. and Dabas K.C., ***“Information Technology In Higher
+     Education: Challenges Before Information Society”,* Selections From
+     University News, Vol. 5, AIU New Delhi, 2000, pp. 130-145.**
+
+163. Gill N.S., ***“Evolution of the Infotech Society”,* University
+     News, Vol. 42 No. 44, November 01-07, 2004, pp. 1-4.**
+
+164. Gill N.S. and Grover P.S., ***"Composite Complexity Measures",*
+     Software Quality and Productivity: Theory, Practice and Training
+     (by Mathew Lee, Ben-Zim Barta and Peter Juliff), Chapman & Hall,
+     Hong-Kong, 1995, pp. 279-283.**
+
+165. Gill N.S., ***“Factors Affecting Effective Software Quality
+     Management Revisited”,* ACM SIGSOFT SEN, Volume 30, Number 2, Pages
+     1-4, 2005, ACM Press, New York, NY, USA.**
+
+166. Gill N.S., ***“Bioinformatics: Opportunities and Challenges”,*
+     EDUTRACKS Journal, Vol. 5 No. 8, April 2006, pp. 22-25.**
+
+167. Gill N.S. and Tomar Pardeep, ***“Major Challenges Faced in
+     Computer-Based Software Reuse”,* Journal of Computer Science,
+     Volume 2, No. 01, July-August 2006, pp. 53.**
+
+168. Nasib S. Gill, ***“Acquiring Quality and Productivity Through ERP
+     Implementation”,* SOCH- Mastnath Journal of Science & Technology,
+     Vol. 2, No. 4, October-December, 2007.**
+
+169. Nasib S. Gill and Reena Hooda, ***“Importance of Clustering
+     Technique in Data Mining”,*International Journal of Computer
+     Science and Knowledge Engineering (IJCSKE), Serial Publications,
+     Volume 1, Number 1-2, January- December 2007.**
+
+170. Nasib S. Gill and P. Tomar, ***“X Model: A New Component-Based
+     Model”,* MR International Journal of Engineering & Technology, Vol.
+     1, No. 1 & 2, January- July 2008, Pages 1-10*.***
+
+171. Nasib S. Gill, ***“Component-Based Software Engineering: A New
+     Agenda for Software Industry”,* SOCH- Mastnath Journal of Science &
+     Technology, Vol. 3, No. 4, October-December, 2008, pp.1-7.**
+
+172. Nasib S. Gill and Reena Hooda, ***“Applicability of Fuzzy Logic In
+     Clustering”,* MR International Journal of Engineering & Technology,
+     Vol. 2, No. 1, January 2008.**
+
+173. Nasib S. Gill and Reena Hooda, “***Clustering In Management”,*
+     SANDESH – Mastnath Journal of Management, Volume 3, No. 3 &4, 2008,
+     pp. 12-16.**
+
+174. **Nasib S. Gill and Sunil Sikka,** *“**Defect-oriented Approach to
+     Software Development and Suite of Defect Metrics”,
+     *****International Journal of Computer Science, System Engineering
+     and Information Technology (IJCSSEIT), Vol.2 Issue-1 Jan.-Jul
+     2009.**
+
+175. Nasib S. Gill and Sunil Sikka,*“**Fault Proneness of Classes in
+     Object-Oriented Systems”, *****International Journal of Computer
+     and Systems Engineering, Volume 1, Number 2, 2008, pp. 103-105.**
+
+176. Nasib S. Gill and Balkishan, ***“Effect of Dependencies on Change
+     Impact in Component-Based System”,* ICFAI Journal of Systems
+     Management (IJSYM), Vol. VI, No. 3, August 2008, Pages 40-49.**
+
+177. Gill N.S. and Tomar P., ***“CBS Testing Requirement and Test Cases
+     Processes Documentation Revisited”,* ACM SIGSOFT SEN, Volume 32,
+     Number 2, Pages 1-4, 2007, ACM Press, New York, NY, USA.**
+
+178. Gill N.S. and Balkishan (2009), ***“Component Adaptation Process
+     and Adaptability Viewpoints”,* ACM Journal of SIGSOFT SEN, Volume
+     34, Issue 6, pp. 1-3.**
+
+179. Gill N.S. and Balkishan (2009), ***“Controlling Architectural
+     Complexity of Component-Based System During Configuration Change”,*
+     International Journal of Computer Science, System Engineering and
+     Information Technology, Volume 2, Issue 1, pp. 37-40.**
+
+180. Gill N.S. and Balkishan (2009), ***“Metrics for Reuse Process in
+     Component-Based Systems”,*ICFAI Journal of System Management,
+     Volume 7, Issue 2, December 2009, pp. 7-13.**
+
+181. Nasib Singh Gill, Sunil Sikka and Balkishan (2009), ***“IT
+     Deployment in Rural Areas: Opportunities, Barriers and Remedial
+     Solutions”,* CSMS Journal (Special Issue on IT and Rural
+     Development) – Social and Management Solutions”, Volume 4, Issue 1
+     & 2, June & December 2009, pp. 1-8.**
+
+182. Gill N.S. and Hooda, R. (2009), ***“Prophecy from Scrapped Data
+     Using Nearest Neighbor Method”,* International Journal of
+     Intelligent Information Processing (IJIIP, Volume 3, No. 1,
+     Jan-June 2009, pp. 181-191.**
+
+183. Gill N.S. and Hooda, R. (2010), ***“Optimizing Multi-path Decision
+     Tree by Clustering and K-Nearest Neighbor Methods”,* IUP Journal of
+     Computer Science, Volume 4, No. 2, April 2010, pp. 7-14.**
+
+184. Gill Nasib.S. and Gupta Rajan (2009), ***“Prevention and Detection
+     of Financial Statement Fraud: A Data Mining Approach”,* ICFAI
+     Journal of System Management, Volume VII, No. 3, August 2009, pp.
+     55-68.**
+
+185. Kumar, A.; Tomar, P.; Gill, N. S. and Panwar, D.(2011).***“New
+     Optimal Process for Selection of Software Components”,* IMS Manthan
+     Journal**.
+
+186. Nasib S. Gill and Reena Hooda, ***“Mining the Web: Issues and
+     Appliances”,* KAIM Journal of Management and Research (Bi-annual
+     Journal of KAIM), Volume 3, No. 1, May-October 2010.**
+
+187. Nasib Singh Gill and Pardeep Tomar (2009), ***“Social Challenges
+     and Role of IT in Rural Development”,* CSMS Journal (Special Issue
+     on IT and Rural Development) – Social and Management Solutions”,
+     Volume 4, Issue 1 & 2, June & December 2009, pp. 1-8.**
+
+188. Nasib S. Gill, Sunil Sikka, ***“Defect-oriented Approach to
+     Software Development and Suite of Defect Metrics”,* International
+     Journal of Computer Science, System Engineering and Information
+     Technology (IJCSSEIT), Vol.2 Issue-1 pp. 31-36 Jan.-Jul 2009.**
+
+189. Panwar, D.; Tomar P.; Gill, N. S. and Kumar, A.(2011). ***“New
+     Method to Analyze the Impacts on Reliability and Reusability in
+     Component-Based Software Development”,* IMS Manthan Journal**.
+
+190. Nasib S. Gill, Sunil Sikka (2009), ***“Fault Proneness of Classes
+     in Object-Oriented Systems”,* International Journal of Computer
+     Engineering (IJCE), Vol. 1, No. 2, pp. 103-105, July-December
+     2009.**
+
+191. Gupta Rajan and Gill Nasib S.(2012), ***“Analysis of Data Mining
+     Techniques for Detection of Financial Statement Fraud”,* ICFAI
+     Journal of System Management, February 2012.**
+
+192. Gupta Rajan and Gill Nasib Singh (2012). "***Data Mining Techniques
+     - A Key for detection of financial statement fraud",* International
+     Journal of Computer Science and Information Security, Vol. 10 No.3,
+     March 2012, pp. 49–57.**
+
+193. Gupta Rajan and Gill Nasib Singh (2012). ***"Prevention of
+     Financial Statement Fraud Using Data Mining",*** International
+     Journal of Computer Science and Information Security, Vol. 10 No.4,
+     April 2012, pp. 55-59.
+
+194. Gupta Rajan and Gill Nasib Singh (2012). ***“Prevention and
+     Detection of Financial Statement Fraud – An Implementation of Data
+     Mining Framework”,*** International Journal of Advanced Computer
+     Science and Applications, published by The Science and information
+     organization, USA (August 2012) (Impact Factor: 1.187) ISSN: 2156 –
+     5570.
+
+195. Gupta Rajan and Gill Nasib Singh (2012). ***“A Data Mining
+     Framework of Prevention and Detection of Financial Statement
+     Fraud**”,* International Journal of Computer Application 50(8), 7 –
+     14, July 2012.Published by Foundation of Computer Science, New
+     York, U.S.A. (Impact Factor: 0.814) ISSN: 0975 – 8887.
+
+196. Nasib Singh Gill and Deepti Sehrawat (2019). Cover Story-
+     **“Machine Learning and Analytics”.** CSI Communications, Volume
+     No. 43, Issue No. 2, pp. 12-13, May 2019. ISSN: 0970-647X.
+     [***http://csi-india.org/Communications/CSIC\_May\_2019.pdf***](http://csi-india.org/Communications/CSIC_May_2019.pdf)
+
+197. Amit Sagu, Tarika Verma and Nasib Singh Gill (2019). Cover Story-
+     **“Machine Learning and Data Analytics”.** CSI Communications,
+     Volume No. 43, Issue No. 2, pp. 6-8, May 2019. ISSN: 0970-647X.
+     ***[http://csi-](http://csi-/)
+     india.org/Communications/CSIC\_May\_2019.pdf***
+
+198. Tarika Verma, Amit Sagu and Nasib Singh Gill (2019). Research
+     Front- **“Data**
+
+> **Analytics in Machine Learning: Role and Future Perspectives”.** CSI
+> Communications, Volume No. 43, Issue No. 3, pp. 41-43, June 2019.
+> ISSN: 0970-647X.
+> [***http://csi-india.org/Communications/CSIC\_May\_2019.pdf***](http://csi-india.org/Communications/CSIC_May_2019.pdf)
+
+2)  > ***Book Chapters Published in National/International Edited
+    > Books***
+
+<!-- end list -->
+
+199. A. Chahal, P. Gulia, N.S. Gill, (Feb, 2022)“**Machine Learning
+     Techniques for IoT-Enabled Healthcare Environment**”, in book
+     entitled *AI-Enabled IoT for Smart Healthcare Systems*, Chapter 4,
+     pp. 67, Nova Science publication.
+
+200. A. Chahal, P. Gulia, and N. S. Gill,(January, 2022) “***COVID-19
+     Vaccination Monitoring Using IoT and Machine Learning**”*,
+     Proceedings of Data Analytics and Management, *Lecture Notes on
+     Data Engineering and Communications Technologies*. Springer,
+     Singapore, pp. 415–428.
+     <https://doi.org/10.1007/978-981-16-6289-8_35> **\[Indexing:
+     SCOPUS, INSPEC, EI Compendex, WoS\]**
+
+201. Rashi Singh, Preeti Gulia, Nasib Singh Gill (September, 2021),
+     **“The Security of Smart Grid: An Overview”** *International
+     Chapter Book on Multidisciplinary Subjects for Research-XI, Vol-2,
+     Red’shine Publications.*
+
+202. Gill N.S. and Dabas K.C., ***“Changed Roles and Responsibilities of
+     Information Professionals”***, 48<sup>th</sup> ILA Conference
+     Volume, Jan. 2003, pp. 725-731 and Chapter 16 of the book
+     ***“Quality Management in Libraries”*** by K.C. Dabas, Ess Ess
+     Publications, New Delhi, 2008, pp. 242-249.
+
+203. Gill N.S. and Dabas K.C., *“Library Computer Network Security: Few
+     Guidelines”*, Proceedings of International CALIBER-2003, Feb. 2003,
+     pp. 715(Abstract) and Chapter 13 of the book ***“IT Applications
+     for TQM and Library Marketing”*** by K.C. Dabas, Ess Ess
+     Publications, New Delhi, 2008, pp. 194-198.
+
+204. Gill N.S., Dabas K.C., Singh S., Dabas S., ***“Automation Scenario
+     in University Libraries: A Study of Some Selected Libraries”,***
+     Proceedings of International CALIBER-2003, Feb. 2003, pp. 81-97 and
+     Chapter 12 of the book ***“IT Applications for TQM and Library
+     Marketing”*** by K.C. Dabas, Ess Ess Publications, New Delhi, 2008,
+     pp. 121-134.
+
+205. Gill N.S., Dabas K.C., ***“Perspective on Human Resource
+     Development: An Agenda For Library And Information Staff”,*** S.D.
+     Vyas et. al (Eds): *Readings in Library and Information Science:*
+     Festchrift S.P. Sood. Jaipur, 2000, pp. 99-104.
+
+206. Gill N.S., Grover P.S., Singh R., ***"Measuring Software
+     Systems,"*** published in book ***‘Operations Research: Theory and
+     Practice’*,** SPANIEL Pub., New Delhi, 1994, pp. 71-93.
+
+207. Gill N.S., ***"Exploitation of IT Potentials For Automation of
+     Offices**",* Invited Paper for a ***Volume of Book on Higher
+     Education*** by Prof. V.T. Patil, Karnatak Univ., Dharwad.
+
+208. Gill N.S. and Dabas K.C., **“*Information Society in
+     21<sup>st</sup> Century”, Excellence in Information Technology:***
+     Book published by S.D. Vyas & Others, Raj Publishing House, Jaipur,
+     pp. 228-240.
+
+209. Gill N.S., ***“Emerging Trends of Digital Libraries”***, Chapter-5
+     in ***book “Advances in Library and Information Science”*** Volume
+     5 (Digital Library), Scientific Publishers (India), 2005, pp.
+     55-71.
+
+210. Gill N.S. and Dabas K.C., **“*Appropriate Technology for
+     Qualitative and Sustainable Librarianship”, ***43rd ILA Conference
+     Volume, Chandigarh, Nov. 97, pp. 259-271 and Chapter 11 of the book
+     ***“IT Applications for TQM and Library Marketing”*** by K.C.
+     Dabas, Ess Ess Publications, New Delhi, 2008, pp. 151-165.
+
+211. Gill N.S. and Dabas K.C., **“*TQM and Reengineering for Library
+     Services: MDUL Style”, ***IASLIC XXI All India Conference,
+     Coimbatore, 26-29 Dec. 97 and Chapter 5 of the book ***“Quality
+     Management in Libraries”*** by K.C. Dabas, Ess Ess Publications,
+     New Delhi, 2008, pp. 64-78.
+
+212. Gill N.S. and Dabas K.C., **“*Managing Quality in University
+     Library for Sustainable Library Management”, ***43rd ILA Conference
+     Volume, Chandigarh, Nov. 97, pp. 33-45 and Chapter 4 of the book
+     ***“Quality Management in Libraries”*** by K.C. Dabas, Ess Ess
+     Publications, New Delhi, 2008, pp. 47-52.
+
+213. Gill N.S., ***“Emerging Opportunities & Challenges of Information
+     Superhighway”,*** Chapter-5 in book ***“Approaches to Modern
+     Librarianship”,*** Sanjay Prakashan, New Delhi, pp. 115-137
+
+214. Gill N.S. and Dabas K.C., ***“Internet for Libraries: Need of the
+     Hour”,*** Chapter 7 of the book ***“IT Applications for TQM and
+     Library Marketing”*** by K.C. Dabas, Ess Ess Publications, New
+     Delhi, 2008, pp. 92-108.
+
+215. Gill N.S. and Dabas K.C., ***“Accessibility of Information Through
+     Information Systems And Services: An Agenda”,*** Proceedings ofXVII
+     National Seminar of IASLIC, 1998, pp. 110-112.and Chapter 6 of the
+     ***book “IT Applications for TQM and Library Marketing”*** by K.C.
+     Dabas, Ess Ess Publications, New Delhi, 2008, pp. 87-89.
+
+216. Gill N.S. and Dabas K.C., ***“Empowering Library Employees With
+     Knowledge, Skills, Dignity and Attitudes: Some Experiences,
+     Observations and Realizations”,*** 44<sup>th</sup> ILA Conference
+     Volume, Hyderabad, 1999, pp. 512-521 and Chapter 14 of the book
+     ***“Quality Management in Libraries”*** by K.C. Dabas, Ess Ess
+     Publications, New Delhi, 2008, pp. 212-225.
+
+217. Gill N.S. and Dabas K.C., “***Interneting University Libraries:
+     Some Reflections From Better World”,*** INFLIBNET Volume of
+     CALIBER-99, 1999, pp. 112-121 and Chapter 8 of the book ***“IT
+     Applications for TQM and Library Marketing”*** by K.C. Dabas, Ess
+     Ess Publications, New Delhi, 2008, pp. 109-120.
+
+218. Gill N.S. and Dabas K.C., ***“Impact of Information Technology on
+     Social Development”,*** ILA Volume of XLII All India Lib.
+     Conference,1996, pp. 305-322 and Chapter 3 of the book ***“IT
+     Applications for TQM and Library Marketing”*** by K.C. Dabas, Ess
+     Ess Publications, New Delhi, 2008, pp. 32-50.
+
+219. Gill N.S., “***Digital Libraries: Its Emergence and Challenges",*
+     INFLIBNET Volume of CALIBER-98, 1998, pp. 322-329 and** Chapter 14
+     of the book ***“IT Applications for TQM and Library Marketing”***
+     by K.C. Dabas, Ess Ess Publications, New Delhi, 2008, pp. 200-209.
+
+220. Gill N.S. and Dabas K.C., “***Intranet: Its Emergence And
+     Usefulness”,* INFLIBNET Volume of CALIBER-99, pp. 100-111 and**
+     Chapter 9 of the book ***“IT Applications for TQM and Library
+     Marketing”*** by K.C. Dabas, Ess Ess Publications, New Delhi, 2008,
+     pp. 121-134.
+
+221. Nasib S. Gill (2009). “***Enterprise Information Systems in
+     21<sup>st</sup> Century: Opportunities and Challenges*”.** Invited
+     Chapter in the Edited book, Authors: Balram Dogra, et.al. ISBN
+     978-81-8450-183-4, pp. 3-14, 2009**.**
+
+222. Gill N.S. and Dabas K.C., ***"Understanding the Essentials of TQM
+     For Library And Information Management in Academic Settings",*
+     INFLIBNET Volume of CALIBER-98, 1998, pp. 133-138 and** Chapter 1
+     of the book ***“Quality Management in Libraries”*** by K.C. Dabas,
+     Ess Ess Publications, New Delhi, 2008, pp. 3-8.
+
+223. Gill N.S. and Dabas K.C., **“*Knowledge Management: An Overview,
+     Exploration and Implementation in University Libraries”,* National
+     Library And Information Networking (NACLIN 2000), DELNET, New
+     Delhi, pp. 18-31 and** Chapter 5 of the book ***“IT Applications
+     for TQM and Library Marketing”*** by K.C. Dabas, Ess Ess
+     Publications, New Delhi, 2008, pp. 67-83.
+
+224. Gill N.S. and Dabas K.C., **“*CD-ROM Networking in Libraries: Need
+     of the Hour”,* National Library And Information Networking (NACLIN
+     2000), DELNET, New Delhi, pp. 117-128 and** Chapter 10 of the book
+     ***“IT Applications for TQM and Library Marketing”*** by K.C.
+     Dabas, Ess Ess Publications, New Delhi, 2008, pp. 135-148.
+
+## Papers Published in Proceedings of International Conferences and Bulletins/Magazines/Newspapers
+
+225. > Ritu Ratra<sub>,</sub> Preeti Gulia, Nasib Singh Gill,
+     > “**Performance Analysis of Classification Techniques in Data
+     > Mining using WEKA**”, in *International Conference On Data
+     > Analytics And Management (ICDAM-2021)*, proceeding published by
+     > Elsevier SSRN Reputed Series, Available at SSRN:
+     > https://ssrn.com/abstract=3879610https://dx.doi.org/10.2139/ssrn.3879610
+
+226. Rashi Singh,<sub>,</sub> Nasib Singh Gill, Preeti Gulia, **“The
+     Security of Smart Grid: A SWOT Analysis”** *4th International
+     E-Conference On Incipient Research In Information Technology,
+     Commerce, Management And Linguistics - 2021* organized by QMCM,
+     Chennai & Dambi Dollo University, Dambi Dollo, Oromia Region,
+     Ethiopia.
+
+227. Sehrawat Deepti, N. S. Gill and Munisha Devi (2019). **“Comparative
+     Analysis of Lightweight Block Ciphers in IoT-Enabled Smart
+     Environment”.** *In Proceedings of the IEEE 6th International
+     Conference on Signal Processing and Integrated Networks (SPIN
+     2019).* **IEEE Xplore *(Scopus)
+     ***<span class="underline">https://ieeexplore.ieee.org/document/8711697</span>,
+     **DOI:** 10.1109/SPIN.2019.8711697
+
+228. Sehrawat Deepti and N. S. Gill (2019). **“Smart Sensors: Analysis
+     of different Types of IoT Sensors”.** *In Proceedings of the*
+     3<sup>rd</sup> *International Conference on Trends in Electronics
+     and Informatics (ICOEI-2019), available at IEEE Explore, pp.
+     324-329,* organized by SCAD College of Engineering and Technology
+     on April 23- 25, 2019 at Tirunelveli, India. \[**Scopus
+     Indexed**\].
+     [<span class="underline">http://icoei.com/icoei19/publication.html</span>](http://icoei.com/icoei19/publication.html)
+
+229. Sehrawat Deepti and N. S. Gill (2018). **“Security Requirements of
+     IoT Applications in Smart Environment”.** *In Proceedings of the*
+     2<sup>nd</sup> *International Conference on Trends in Electronics
+     and Informatics (ICOEI-2018), available at IEEE Explore, pp.
+     324-329,* organized by SCAD College of Engineering and Technology
+     on 11-12 May, 2018 at Tirunelveli, India. \[**Scopus Indexed**\].
+     <span class="underline">https://ieeexplore.ieee.org/document/8553681</span>
+
+230. Sehrawat Deepti, N. S. Gill, **“Internet of Things: Opportunities
+     and Future Scope”.** *In Proceedings of the International
+     Conference on Emerging Trends in Science & Technology
+     (ICETST-2018),* organized by Gateway Institute of Engineering and
+     Technology (GIET), Sonipat, April 13, 2018.
+
+231. Divya Dalal, Nasib Singh Gill, Latika Singh. ***“Built-in testing
+     in component-based software - a mapping study”,*** Proc. of
+     Computing for 2nd International Conference on Sustainable Global
+     Development (INDIACom), March 11-13, 2015. IEEE Xplore Digital
+     Library.
+     [<span class="underline">http://ieeexplore.ieee.org/document/7100239/</span>](http://ieeexplore.ieee.org/document/7100239/)
+
+232. Kapil Juneja and Nasib Singh Gill (2015). ***“Tied multi-rubber
+     band model for camera distance, shape and head movement robust
+     facial recognition”,*** Proc. of 2015 International Conference on
+     Applied and Theoretical Computing and Communication Technology
+     (iCATccT), Devangere, India, Oct. 29-31, 2015, pp. 218-223, INSPEC
+     Accession Number: 15937380, DOI:
+     <span class="underline">10.1109/</span>
+     <span class="underline">ICATCCT.2015.7456885</span>. ***IEEE
+     XploreDigital
+     Library.***[<span class="underline">http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7456885\&queryT</span>](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7456885&queryT)
+     <span class="underline">ext=</span>kapil<span class="underline">%20juneja\&newsearch=true</span>
+
+233. Kapil Juneja and Nasib Singh Gill (2015).***“A hybrid mathematical
+     model for face localization over multi-person images and
+     videos”,*** Proc. of 2015 4<sup>th</sup> International Conference
+     on Reliability, Infocom Technologies and Optimization (ICRITO)
+     (Trends and Future Directions), Noida, India, Sept. 2-4, 2015, pp.
+     1-6, ISBN: 978-1- 4673-7230-5, INSPEC Accession Number: 15663779,
+     DOI: 10.1109/ICRITO.2015.7359364. ***IEEE Xplore Digital
+     Library.***
+     [<span class="underline">http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7359364\&queryText=</span>kapi](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7359364&queryText=kapi)
+     l<span class="underline">%20juneja\&newsearch=true</span>
+
+234. Kapil Juneja and Nasib Singh Gill (2015).***“*A four level
+     aggregative weight scanned model facial quiz image
+     identification*”, ***Proc. of 2015 IEEE International Conference
+     on Computer Graphics, Vision and Information Security (CGVIS),
+     Bhubaneswar, India, Nov.2-3,2015,
+     pp.214-219,ISBN:978-1-4673-7436-1, INSPEC Accession
+     Number:15905136, DOI: 10.1109/CGVIS.2015.7449924. ***IEEE Xplore
+     Digital Library.***
+
+> [<span class="underline">http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7449924\&queryText=</span>kapil<span class="underline">%20juneja\&new</span>](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7449924&queryText=kapil%20juneja&new)
+> <span class="underline">search=true</span>
+
+235. Kapil Juneja and Nasib Singh Gill (2015).*“**A PCT/PST improved
+     HMM-PCA model for pose robust facial recognition**”,* Proc. of 2015
+     International Conference on Applied and Theoretical Computing and
+     Communication Technology (iCATccT), Devangere, India, Oct. 29-31,
+     2015, pp.131-136, INSPEC Accession Number: 15937380, DOI:
+     <span class="underline">10.1109/
+     ICATCCT.2015.7456885</span>.***IEEE Xplore Digital Library**.*
+     [<span class="underline">http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7456869\&queryText=</span>kapil<span class="underline">%20juneja\&new</span>](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=7456869&queryText=kapil%20juneja&new)
+     <span class="underline">search=true</span>
+
+236. Nasib Singh Gill and Meenakshi Sharma (2014),***“Application of
+     Fuzzy Inference System in Measuring Maintainability of
+     Object-Oriented Software”,*** Proc. of the 2014 International
+     Conference on Software Engineering Research and Practice (SERP-14),
+     Las Vegas, USA.
+
+237. Dinesh Kumar, Pradeep Tomar and **Nasib Singh Gill (2012). “*A
+     Semantic Analysis of Component-Based Web Services Framework for
+     Component-Based Software”, ***Proceedings of International
+     Conference on Innovations and Advancements in Information and
+     communication Technology (ICIAICT-2012), G.B.University, Greater
+     Noida, March 30-31, 2012, pp. 25-32.
+
+238. **Monika and N. S. Gill(2012). *“An Combined Ant Optimized Path
+     Selection Approach for Reliable Packet Delivery”****,*Proc. of
+     International Conference of Recent Trends on Computer Technology in
+     Academia (ICRTCTA), April
+     2012.[<span class="underline">www.icrtcta.org</span>](http://www.icrtcta.org/)
+
+239. **Nasib Singh Gill (2012). *“Next Generation Computing
+     Technologies: Opportunities and Challenges”, ***Proc. of
+     International Conference ICHDMS-2012 organised by Department of
+     Mathematics, M.D. University, Rohtak during November 21-24, 2014.
+
+240. **Nasib Singh Gill, Kapil Juneja and Mamta Ghalan (2011). “*Two
+     Locks Symmetric Cryptography with Solution of Social Hacking”,
+     ****Proc. of the International Conference on Science and
+     Engineering (ICSE 2011), pp. 245-248. RG Education Society, ISBN:
+     978-981-08-7931-0*
+
+241. **Nasib Singh Gill, Kapil Juneja, Anita Singhroha and Anuradha
+     (2011). “*A Statistical Approach to Perform Intrusion Detection in
+     Wireless Network”, ****Proc. of the International Conference on
+     Science and Engineering (ICSE 2011), pp. 240-244. RG Education
+     Society, ISBN: 978-981-08-7931-0*
+
+242. Sumit Kumar Singh, Pradeep Tomar and **Nasib Singh Gill (2012).
+     “*New Hybrid Scheduling Algorithm Based on Priority and Shortest
+     Job First Scheduling”, ****Proceedings of International Conference
+     on Innovations and Advancements in Information and communication
+     Technology (ICIAICT-2012), G.B.University, Greater Noida, March
+     30-31, 2012, pp. 174-180*.
+
+243. Hema Kashyap, Pradeep Tomar and **Nasib Singh Gill (2012). “*A
+     Comparative Analysis of Aspect Mining Approaches”,****Proceedings
+     of International Conference on Innovations and Advancements in
+     Information and communication Technology (ICIAICT-2012),
+     G.B.University, Greater Noida, March 30-31, 2012, pp. 239-244*.
+
+244. **Tomar, P.** and Gill, N. S.(2010). “**Verification & Validation
+     of Component with New X Component-Based Model**”, Proc. of 2010
+     International Conference on Software Technology and Engineering,
+     San Juan, Puerto Rico, USA, **ISBN:** 978-1- 4244-8667-0,Vol. 2,
+     *pp.V2 365-V2 371.**(Indexed in IEEE Xplore)***
+
+245. Gill N.S. and Hooda, R. (2010), ***“Predictive Data Mining: Rolling
+     from Data to Intelligence”,* Proc. Of International Conference on
+     Innovative Technologies (ICIT-09), P-93.**
+
+246. Nasib S. Gill, ***“Need of Appropriate Component Reusability
+     Metrics and Standards for Component-Based Systems”,* Proc. of the
+     2008 International Conference on Software Engineering Theory and
+     Practice (SETP-08), pp. 123-127.**
+
+247. Gill N.S., Lycett M., deCesare Sergio, ***“Measurement of
+     Component-Based Software: Some Important Issues”,* 7<sup>th</sup>
+     Annual UKAIS Conference Proceedings, Leeds, UK, April 2002, pp.
+     373-381.**
+
+248. Gill N.S., Grover P.S., Taneja D.R., ***"System Complexity As An
+     Aid To Quality Assurance",*** Proceedings of **IEEE First
+     International Conference on Software Testing, Reliability, and
+     Quality Assurance (STRQA'95), New Delhi, Feb 1995, pp. 116-120.**
+
+249. Gill N.S., Tomar Pardeep, ***“Component-Based Software Testing: A
+     Roadmap (Abstract)”,*Proc. of 4<sup>th</sup> International
+     Conference on*Computer Science and Its Applications
+     (ICCSA-2006),***June 27-29, 2006, California, USA.
+
+250. Gill N.S. and Dabas K.C., “***Data Mining: A Key To Knowledge
+     Society”,* Volume II of Proc. ofInternational Conference on
+     *Information Management (ICIM) In A Knowledge Society (ICIM 2005)*,
+     Feb. 21-25, 2005, pp. 1059-1060.**
+
+251. Gill N.S. and Dabas K.C.,***“Role of Data Mining and Warehousing
+     For Future Libraries”,* INFLIBNET 2<sup>nd</sup> International
+     CALIBER-2004, February 11-13, 2004.**
+
+252. Gill N.S. and Grover P.S., ***“Measuring Component-Based Systems”,*
+     National Conference on *Software Engineering Principles And
+     Practices (SEPP-04*), March 5-6, 2004.**
+
+253. Gill N.S., Tomar P., Singh R., “***Wireless Communication Through
+     WATM: Past, Present and Future”,* Proc. of International Conference
+     on *Challenges in Networking & Future of e-Commerce (CNFE-05)*,
+     April 9-10, 2005; pp. 181-188.**
+
+254. Gill N.S., Tomar P., “***Component Traceability, Testability and
+     Testing: A Challenge in Component-Based Software Development”,*
+     Proc. of International Conference on Trends in Information Sciences
+     and Computing (TISC) organized by Sathyabama University & Tata
+     Consultancy Services (TCS) in Chennai, INDIA, 2007.**
+
+255. Gill N.S., Tomar P., “***Impacts of Inadequate Testing and Testing
+     Infrastructure in Component-Based Software Testing and
+     Development”,* Proc. of International Conference on Trends in
+     Information Sciences and Computing (TISC) organized by Sathyabama
+     University & Tata Consultancy Services (TCS) in Chennai, INDIA,
+     2007.**
+
+256. Gill N.S., Tomar P., ***“Origin, Growth and Future of Software in
+     Service Industry in India”,* Proc. of International Conference on
+     Trends in Information Sciences and Computing (TISC) organized by
+     Sathyabama University & Tata Consultancy Services (TCS) in Chennai,
+     INDIA, 2007.**
+
+257. Gill N.S., ***“Computer: An Introduction”,* Haryana Science
+     Bulletin (Hindi Magazine), October 1991, pp. 5-7.**
+
+258. Gill N.S., ***“Increasing Danger of Virus”,* Haryana Science
+     Bulletin (Hindi Magazine), August 1991, pp. 11-12.**
+
+259. Gill N.S., ***“Y2K Crisis and Its Social Implications”,* HomePages
+     News Paper, April 27, 1999.**
+
+## Papers Published in Proceedings of National Conferences
+
+260. Deepti Rani and **Nasib Singh Gill (2019). “Role of Forensics in
+     IoT Enabled Smart Environment: Security Issues and Challenges”,**
+     *Proceedings of National Conference on Emerging Trends in Smart
+     Computing (ETSC-19), Maharshi Dayanand University, Rohtak* (ISBN
+     978-93-80544-35-9), March 27, 2019, *pp. 399- 402*.
+
+261. Tarika Verma and **Nasib Singh Gill (2019). “Essence of Fog
+     Computing: Issues and Necessary Paradigms”,** *Proceedings of
+     National Conference on Emerging Trends in Smart Computing
+     (ETSC-19), Maharshi Dayanand University, Rohtak* (ISBN
+     978-93-80544-35-9),March 27, 2019, *pp. 369-372*.
+
+262. Deepti Sehrawat and **Nasib Singh Gill (2019). “IoT Sensors:
+     Architectural Elements of Smart Environment”,** *Proceedings of
+     National Conference on Emerging Trends in Smart Computing
+     (ETSC-19), Maharshi Dayanand University, Rohtak* (ISBN
+     978-93-80544-35-9), March 27, 2019, *pp. 373-377*.
+
+263. Pooja Singh and **Nasib Singh Gill (2019). “Comparison Analysis of
+     Cloud-Based Routing Protocols in WSN”,** *Proceedings of National
+     Conference on Emerging Trends in Smart Computing (ETSC-19),
+     Maharshi Dayanand University, Rohtak* (ISBN 978-93-80544-35-9),
+     March 27, 2019, *pp. 414-417*.
+
+264. Munisha Devi and **Nasib Singh Gill (2019). “Implementing IoT
+     Enabled Smart Environment: Opportunities and Challenges”,**
+     *Proceedings of National Conference on Emerging Trends in Smart
+     Computing (ETSC-19), Maharshi Dayanand University, Rohtak* (ISBN
+     978-93-80544-35-9), March 27, 2019, *pp. 418- 421*.
+
+265. Sangeeta and **Nasib Singh Gill (2019). “Class Imbalance Issues in
+     Machine Learning Based Classification: A Review”,** *Proceedings of
+     National Conference on Emerging Trends in Smart Computing
+     (ETSC-19), Maharshi Dayanand University, Rohtak* (ISBN
+     978-93-80544-35-9), March 27, 2019, *pp. 449-453*.
+
+266. Amit Sagu and **Nasib Singh Gill (2019). “Review of Lightweight
+     Cryptography Algorithms for IoT Environment”,** *Proceedings of
+     National Conference on Emerging Trends in Smart Computing
+     (ETSC-19), Maharshi Dayanand University, Rohtak* (ISBN
+     978-93-80544-35-9),March 27, 2019, *pp. 292-295*.
+
+267. Narender Singh and **Nasib Singh Gill (2017). “Understanding
+     Requirements Engineering Process”,** *Proceedings of National
+     Conference on Future Innovations in Computing Technologies
+     \&Machine Learning (FICTML-2017), Maharshi Dayanand University,
+     Rohtak* (ISBN 978-93-80544-31-1),Nov. 21, 2017,*pp. 74-77*.
+
+268. Munisha Devi and **Nasib Singh Gill (2017). “A Literature Study of
+     Routing Protocols in Mobile Ad Hoc Networks”,** *Proceedings of
+     National Conference on Future Innovations in Computing Technologies
+     & Machine Learning (FICTML- 2017), Maharshi Dayanand University,
+     Rohtak* (ISBN 978-93-80544-31-1), Nov. 21, 2017,*pp. 150-154*.
+
+269. Seema Yadav and **Nasib Singh Gill (2017). “Internet of Things
+     (IOT): A Review”,** *Proceedings of National Conference on Future
+     Innovations in Computing Technologies & Machine Learning
+     (FICTML-2017), Maharshi Dayanand University, Rohtak* (ISBN
+     978-93-80544-31-1), Nov. 21, 2017,*pp. 162-165*.
+
+270. Sangeeta and **Nasib Singh Gill (2017). “Twitter Data Sentiment
+     Classification - A Survey on Tools and Technology”,** *Proceedings
+     of National Conference on Future Innovations in Computing
+     Technologies & Machine Learning (FICTML-2017), Maharshi Dayanand
+     University, Rohtak* (ISBN 978-93-80544-31-1), Nov. 21, 2017,*pp.
+     247-250*.
+
+271. Deepti Sehrawat and **Nasib Singh Gill (2017). “Future of IOT
+     Vision and Future Scope: A Review”,** *Proceedings of National
+     Conference on Future Innovations in Computing Technologies &
+     Machine Learning (FICTML-2017), Maharshi Dayanand University,
+     Rohtak* (ISBN 978-93-80544-31-1), Nov. 21, 2017,*pp. 273- 278*.
+
+272. Deepti Sindhu and **Nasib Singh Gill (2017). “Threats and
+     Challenges in IOT Enabled Environment: A Review”,** *Proceedings of
+     National Conference on Future Innovations in Computing Technologies
+     & Machine Learning (FICTML-2017), Maharshi Dayanand University,
+     Rohtak* (ISBN 978-93-80544-31-1), Nov. 21, 2017,*pp. 312-316*.
+
+273. Azaz Khan and **Nasib Singh Gill (2017). “E-Governance: Challenges
+     and Issues in Indian Perspective”,** *Proceedings of National
+     Conference on Future Innovations in Computing Technologies &
+     Machine Learning (FICTML-2017), Maharshi Dayanand University,
+     Rohtak* (ISBN 978-93-80544-31-1), Nov. 21, 2017,*pp. 466- 469*.
+
+274. Gill Nasib Singh and Pooja Singh, “***Decentralized Key Generation
+     Adapted With Clustering in Ad Hoc Networks”,*** Proc. of National
+     Conference on Emerging Trends in Cloud Computing and Big Data
+     Analytics (ETCCBDA-17), Dept. of Comp. Sc. & Appls, M.D.
+     University, Rohtak on March 6, 2017.
+
+275. Gill N.S. and Grover P.S., “***Nesting Complexity Metric",*
+     Proceedings of XXIX Annual Convention of CSI (CSI'94): 'IT For
+     Growth and Prosperity', Calcutta, Nov 1994, pp. 216-222.**
+
+276. Gill N.S. and Grover P.S.,***"Experimental Study of Program
+     Comprehension",*** Abstract published in the **proceedings of 83rd
+     Indian Science Congress, Patiala, March 1996.**
+
+277. Gill N.S. and Grover P.S., ***“Relationship Between Program
+     Complexity and Comprehension”,* Proceedings of CSI’96 Annual
+     Convention, Bangalore, Oct. 1996.**
+
+278. Gill N.S. and Dabas K.C., ***“Information As A Strategic Resources
+     for Socio- Economic Development and Growth of India”,* XVII
+     National Seminar of IASLIC, Calcutta, Dec. 10-13, 1996.**
+
+279. Gill N.S. and Dabas K.C., ***“Indian Library System and National
+     Development”,* ILA Volume of XLII All India Lib. Conference,
+     Calicut, Dec. 21-24, 1996, pp. 24-35.**
+
+280. Gill N.S., **“*Information Technology : A Solution for Information
+     Explosion*”, National Symposium on Recent Trends in Information
+     Technology, Coimbatore, India, Feb. 20-21, 1997 .**
+
+281. Gill N.S.,***"Social Impacts of Information Technology",*
+     proceedings of National Conference on Social Transformations,
+     M.D.University, Rohtak, Feb. 1998.**
+
+282. Gill N.S.,***"Impact of Information Technology on Society",*
+     Invited Paper for a Volume of Book on Higher Education by Prof.
+     V.T. Patil, KarnatakUniv., Dharwad.**
+
+283. Gill N.S., ***“Emerging Trends In Computer Education”,*published in
+     Employment Bureau Bulletin, M.D.University, Rohtak, Haryana, 1994,
+     pp. 3-7.**
+
+284. Gill N.S., ***“Information Retrieval Through Internet: Some
+     Key-Issues”,* Proceedings of UGC sponsored Seminar on *“Internet
+     For Higher Education”,* Sardar Patel University, Vallabh
+     Vidyanagar, Gujrat, March 13-14, 1999.**
+
+285. Gill N.S., ***“ERP and BPR: Appropriate Tools For Productivity And
+     Quality”,* Proceedings of National Conference on IT For Social
+     Development and Productivity, CEDT of India, S.A.S. Nagar, Mohali
+     (Pb.), May 14-16, 1999, pp. 36-39.**
+
+286. Gill N.S., ***“Infotech Hazards Of 21<sup>st</sup> Century”,*
+     Proceedings of National Conference on Managerial Responses To
+     Corporate Sector In The New Millennium, IMSAR, M.D.U. Rohtak, Feb.
+     17-18, 2000.**
+
+287. Gill N.S. and Tuteja R.K., ***“Software Quality Assurance (SQA) : A
+     Key-Issue For New Millennium”,* Proceedings of UGC Sponsored
+     Workshop on Reliability And Computer Application In Statistics And
+     Related Areas, Meerut, March 11- 12, 2000.**
+
+288. Gill N.S. and Tuteja R.K., ***“Emerging Trends Of Information
+     Services And Information Superhighway”,* Proceedings of National
+     Conference on Operations Research & Information Technology, Agra,
+     April 2-3, 2000.**
+
+289. Gill N.S., Dabas K.C., Singh S., Dabas S. *“Knowledge Management
+     and HRD Issues in Hybrid University Libraries”*, **Proceedings of
+     24<sup>th</sup> IASLIC Conference, Dec. 2003, pp. 322.**
+
+290. Gill N.S., Dabas K.C., Dabas S. ***“Information Management in
+     University Libraries in Electronic Environment”,* 48<sup>th</sup>
+     ILA Conference Volume, Jan. 2003, pp. 231- 247**.
+
+291. Gill N.S., ***“Impact of ICT in Teaching & Learning”,* Proc. of
+     State Conference on Information & Communication Technology (ICT) in
+     Teacher Education, Nov. 8, 2003. *(It was rated as the ‘Best
+     Multimedia Presentation’ of the conference)***
+
+292. Gill N.S. and Dabas K.C., ***“Making Digital Libraries A Reality:
+     Few Important Issues”,* Digital Information Exchange: Pathways to
+     Build Global Information Society (SIS 2004, IIT Madras), January
+     21-23, 2004, pp. 294-301.**
+
+293. Gill N.S. and Grover P.S., ***“Measuring Component-Based Systems”,*
+     National Conference on *Software Engineering Principles And
+     Practices (SEPP-04*), March 5-6, 2004.**
+
+294. Gill N.S., ***“Essence of Strengthening Cyber Laws In India: Need
+     of the Hour”,* Proc. of National Conference on *India in the
+     Globalized World: Challenges and Opportunities*, April 30-May 1,
+     2005; pp. 68-70.**
+
+295. Gill N.S., ***“Essence of Knowledge Management and Data Mining in
+     21<sup>st</sup> Century”,* Proc. of National Conference on
+     *Communication & Computational Techniques (NCCT-06), ***Feb. 2006,
+     Dehradun.
+
+296. Gill N.S., Tomar P., “***Software Component Technology: An Easy Way
+     to Enhance Software Reusability (Abstract)”,* Proc. of
+     94<sup>th</sup> Indian Science Congress (ISCA- 2006), Annamalai
+     University, Tamilnadu, INDIA, pp. 18-19.**
+
+297. Gill N.S., Balkishan, “***Wireless LAN: A Boon for Higher
+     Education”,* Proc. of National Seminar on Network Technologies
+     (AICTE sponsored at CITM, Faridabad), *Sept. 2, 2006, pp. 40.***
+
+298. Gill N.S., Tomar P., “***Reliability & Security in Open Source
+     Software: Review & Analysis (Abstract)”,* Proc. of 94<sup>th</sup>
+     Indian Science Congress (ISCA-2006), Annamalai University,
+     Tamilnadu, INDIA, pp. 21.**
+
+299. Gill N.S., Tomar P., Balkishan, “***Cellular Mobile Communication
+     in the Cyber World of 21<sup>st</sup> Century: Evolution or
+     Revolution”,* Proc. of National Seminar on Network Technologies
+     (AICTE sponsored at CITM, Faridabad), *Sept. 2, 2006, pp. 40.***
+
+300. Gill N.S., Tomar P., “***Ontology Based Natural Language Processing
+     for Improving the Ambiguities of Semantic Web Search”,* Proc. of
+     National Seminar on Network Technologies (AICTE sponsored at CITM,
+     Faridabad), *Sept. 2, 2006, pp. 19.***
+
+301. Gill N.S., “***Addressing Computer Network Security Challenges”,*
+     Proc. of National Seminar on Network Technologies (AICTE sponsored
+     at CITM, Faridabad), *Sept. 2, 2006, pp.***
+
+302. Gill N.S., “***Improving Software Quality by Controlling S/w
+     Complexity”,* Proc. Of National Conference organized by Department
+     of Mathematics, M.D.University, Rohtak on *Dec. 20-22, 2006.***
+
+303. Gill N.S., “***e-Governance for Regional Development: Opportunity &
+     Challenges”,* Proc. of National Seminar on *Regional Development,
+     ***M.K.J.K. Mahavidyalya, Rohtak on September 19, **2007.**
+
+304. Gill N.S., “***e-Governance for Rural India: Opportunity &
+     Challenges”***,**Proc. of National Seminar on “*Rural India – A
+     Pathway to Competitive Advantage”* at** N.C.College of Engg.,
+     Israna on March 24, 2007.
+
+305. Gill N.S., ***“Challenges in Convergence of Intelligent
+     Technologies in 21<sup>st</sup> Century”,* Proc. of AICTE sponsored
+     National Seminar on “*Intelligent and Emerging Technologies in
+     Mechanical and Automotive Engineering (NSITMAE)”*at** I.T.M.
+     Gurgaon, January 5-6, 2007.
+
+306. Gill N.S., ***“Emergence of Autonomic Systems”*,Proc. of AICTE
+     sponsored National Seminar on “*Emerging Trends in Software
+     Engineering”* at** N.C. College of Engg., Israna on Sep. 5, 2008.
+
+307. Gill N.S., ***“Emerging Trends of Soft-Computing”,* Proc. of AICTE
+     sponsored National Seminar on “*Artificial Intelligence and
+     Soft-Computing”* at** I.T.M. Gurgaon, August 29, 2008.
+
+308. Gill N.S., ***“Information Technology in 21<sup>st</sup> Century:
+     Opportunity & Challenges”,* Proc. of National Seminar on
+     “*Understanding Computer”* at** K.R. College of Higher Education,
+     Delhi, March 14, 2008.
+
+309. Navneet and Nasib Singh Gill (2011). **“Mobile Entertainment
+     Issues”,** *Proceedings of National Conference on Emerging Trends
+     in Mobile Technologies & Security (ETMTS-11), Maharshi Dayanand
+     University, Rohtak*, March 29, 2011,*pp. 259-261*.
+
+310. Gill N.S., ***“Cyber Security: A Big Challenge of 21<sup>st</sup>
+     Century”,* Proc. of National Seminar on National Seminar on
+     “*Network Security” ***at DAV Institute of Management,
+     Faridabadon April 7, 2007.
+
+311. Kapil Juneja and Gill, Nasib Singh (2011). **“A Extensive Secure
+     Communication Approach Using Mobile SSh”,** *Proceedings of
+     National Conference on Emerging Trends in Mobile Technologies &
+     Security (ETMTS-11), Maharshi Dayanand University, Rohtak*, March
+     29, 2011,*pp. 267-271*.
+
+312. Narender Singh and Nasib Singh Gill (2011). **“Opportunities and
+     Issues for Mobile Banking in India”,** *Proceedings of National
+     Conference on Emerging Trends in Mobile Technologies & Security
+     (ETMTS-11), Maharshi Dayanand University, Rohtak*, March 29,
+     2011,*pp. 262-266*.
+
+313. Gill N.S. and Hooda Reena, ***“Data Mining: Rolling from Data to
+     Intelligence using Fuzzy Logic, Clustering and Neural Network
+     Techniques”,*** Proc. of AICTE sponsored National Seminar on
+     “*Emerging Trends in Software Engineering”* at N.C. College of
+     Engg., Israna on Sep. 5, 2008.
+
+314. Kapil Juneja and Gill, Nasib Singh (2011). **“A Compositional
+     Approach of Web Security in Cloud Computing”,** *Proceedings of
+     National Conference on Emerging Trends in Mobile Technologies &
+     Security (ETMTS-11), Maharshi Dayanand University, Rohtak*, March
+     29, 2011,*pp. 174-176*.
+
+315. Gill N.S., Tomar Pardeep, “***Component-Based Software Reusability:
+     Success, Failure & New Directions”,* Proceedings of National
+     Conference on Information Technology: Present, Practices and
+     Challenges** (August 31st - Sept 1, 2007) at Asia Pacific Institute
+     of Management, New Delhi, pp. 361-365.
+
+316. Gill N.S., ***“Global Meltdown: Challenges &
+     Opportunities”,***Proc. of National Seminar on “*Global
+     Meltdown”* at IMT, Faridabad, April 10-11, 2009.
+
+317. Kapil Juneja and Gill, Nasib Singh (2011). **“Malicious Code
+     Detection and Resolvant in Manets for Preserving Security”,**
+     *Proceedings of National Conference on Emerging Trends in Mobile
+     Technologies & Security (ETMTS-11), Maharshi Dayanand University,
+     Rohtak*, March 29, 2011,*pp. 78-82*.
+
+318. Gill N.S., ***“e-Governance: Opportunities, Risks and
+     Challenges”,*** Proc. of National Seminar on “*e-Governance:
+     Opportunities & Challenges”* at GVM Institute of Technology &
+     Management, Sonepat on May 23, 2009.
+
+319. Kapil Juneja and Gill, Nasib Singh (2011). **“Dynamic Pattern
+     Extraction to Perform Intruder Safe Steganography”,** *Proceedings
+     of National Conference on Emerging Trends in Mobile Technologies &
+     Security (ETMTS-11), Maharshi Dayanand University, Rohtak*, March
+     29, 2011,*pp. 174-176*.
+
+320. Gill N. S. and Balkishan, (2007). ***“COTS-Based Development
+     Process, Challenges and Risks”,** Proceedings of National
+     Conference on Computing for Nation Development, Bharati Vidyapeeth,
+     Institute of Computer Applications and Management, Delhi,* pp. 673.
+
+321. Gill N.S., Balkishan and Sunil Sikka (2011). ***“Various Methods
+     for Hiding the Data using Cryptography: A Review Article”,**
+     Proceedings of National Conference on Emerging Trends in Mobile
+     Technologies & Security (ETMTS-11), Maharshi Dayanand University,
+     Rohtak*, March 29, 2011, pp. 275-277.
+
+322. Tomar, P., Rohit and Gill, N. S. (2011). ***“Design and Development
+     of a Framework for Mobile Chat Application with Silverlight”,***
+     proceedings of Emerging Trends in Mobile Technologies and Security
+     organized by Department of Computer Science & Applications,
+     Maharshi Dayanand University, Rohtak, Haryana, INDIA.
+
+323. Kumar, A.; Tomar, P.; Gill, N. S. and Panwar, D.(2010*).**“New
+     Optimal Process for Selection of Software Components”,
+     ***proceedings of 1<sup>st</sup> National Conference on Next
+     Generation Computing and Information Security**,** jointly
+     organized by Computer Society of India and Institute of Management
+     Studies, Noida, Uttar Pradesh, INDIA, *pp. 376.*
+
+324. Panwar, D.; Tomar P.; Gill, N. S. and Kumar, A.(2010). ***“New
+     Method to Analyze the Impacts on Reliability and Reusability in
+     Component-Based Software Development”,*** proceedings of
+     1<sup>st</sup> National Conference on Next Generation Computing and
+     Information Security**,** jointly organized by Computer Society of
+     India and Institute of Management Studies, Noida, Uttar Pradesh,
+     INDIA,*pp. 379.*
+
+325. Reena Hooda and Nasib Singh Gill (2011). ***“Mobile Money Transfer
+     Technology: Mechanics and Management”,** Proceedings of National
+     Conference on Emerging Trends in Mobile Technologies & Security
+     (ETMTS-11), Maharshi Dayanand University, Rohtak*, March 29,
+     2011,*pp. 352-353*.
+
+326. Gill N.S., Sunil Sikka and Balkishan (2011).***“Text Cryptography
+     using Crossover Genetic Operator”,** Proceedings of National
+     Conference on Emerging Trends in Mobile Technologies & Security
+     (ETMTS-11), Maharshi Dayanand University, Rohtak*, *March 29, 2011,
+     pp. 24-26.*
+
+327. Tomar, P. and Gill, N. S. (2011). ***“Steganography through DNA
+     Computing: A Secure Approach for Mobile Communication”,**
+     Proceedings of National Conference on Emerging Trends in Mobile
+     Technologies & Security (ETMTS-11), Maharshi Dayanand University,
+     Rohtak*, March 29, 2011,*pp. 257-258*.
+
+328. Navneet and **Nasib Singh Gill (2013). *“Analysing Various
+     Selection Criteria of Decision Trees”, ****Proceedings of National
+     Conference on Advanced Computing Technologies (NCACT-2013),
+     Maharshi Dayanand University, Rohtak.* (ISBN – 978- 93-259-6688-8).
+     March 30, 2013, *pp. 254-256*.
+
+329. Manisha and **Nasib Singh Gill (2013). *“A Review on Image
+     Enhancement Techniques for 3D Media”, ****Proceedings of National
+     Conference on Advanced Computing Technologies (NCACT-2013),
+     Maharshi Dayanand University, Rohtak.* (ISBN – 978-93-259-6688-8).
+     March 30, 2013,*pp. 437-440*.
+
+330. **Nasib Singh Gill** and Pooja Singh **(2013). *“A Trust Model for
+     Trust Mgmt in Mobile Ad-hoc Networks”, ****Proceedings of National
+     Conference on Advanced Computing Technologies (NCACT-2013),
+     Maharshi Dayanand University, Rohtak.* (ISBN – 978-93-259-6688-8).
+     March 30, 2013,*pp. 791-795*.
+
+331. Anupama Verma, Pradeep Tomar, **Nasib Singh Gill** and Annu
+     **(2013). “A Critical Analysis of Coupling Metrics for
+     Aspect-Oriented S/w Engg”,** *Proceedings of National Conference on
+     Advanced Computing Technologies (NCACT-2013), Maharshi Dayanand
+     University, Rohtak.* (ISBN – 978-93-259-6688-8). March 30,
+     2013,*pp. 705-707*.
+
+332. Renu Yadav and Nasib Singh Gill (2015). ***“Review of Advanced
+     Encryption Standard Algorithm for Data Protection Through
+     Network”,*** Proc. of National Conference on Emerging Computing
+     Technologies & ICT for Development (NCECT & ICTD-2015), organised
+     by Department of Computer Science & Applications, M.D. University, Rohtak.
+
+333. Vijay Bharti and Nasib Singh Gill (2015). “***Distributed Denial of
+     Service Attacks and IP Traceback Countermeasures”**,* Proc. of
+     National Conference on Emerging Computing Technologies & ICT for
+     Development (NCECT & ICTD-2015), organised by Department of
+     Computer Science & Applications, M.D. University, Rohtak.
+
+334. Pooja Singh and Nasib Singh Gill (2015). ***“A Survey on Securing
+     Issues in MANET: Key Management and Trust Management”**,* Proc. of
+     National Conference on Emerging Computing Technologies & ICT for
+     Development (NCECT & ICTD- 2015), organised by Department of
+     Computer Science & Applications, M.D. University, Rohtak.
+
+<!-- end list -->

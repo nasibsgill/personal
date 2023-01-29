@@ -1,0 +1,1740 @@
+# Contribution as Editor/Technical Committee Member/Reviewer
+    
+  1.  > Acted as Member, Technical Program Committee of International
+        > Conference on Recent Trends in Computer applications and
+        > Information Technology (RTCAIT’19) organized by Maharishi
+        > Markandeshwar University, Ambala, Haryana held on April 19-20,
+        > 2019.
+    
+  2.  > Acted as Guest Editor of CSI Communications on Special Issue
+        > on “**Data Science and Analytics”, May 2019. ISSN:
+        > 0970-647X.**
+        > *[<span class="underline">http://csi-</span>](http://csi-/)
+        > <span class="underline">india.org/Communications/CSIC\_May\_2019.pdf</span>.*
+    
+  3.  > “Software quality improvement: a model based on managing
+        > factors impacting software quality”, *Software Quality
+        > Journal*, Springer Journals, May 2014.
+        > [<span class="underline">www.springer.com</span>](http://www.springer.com/)
+    
+  4.  > *“Optimal Staffing Model For Supermarket: Case Study On A
+        > Hypothetical Supermarket”* paper reviewed for International
+        > Conference ICMO-2014, Sept. 6-8, 2014, Chengdu, China.
+    
+  5.  > *“Mode I Stress Intensity Factors for Centrally Cracked
+        > Semiconductor Material Planes in C4 Flipchips”* paper reviewed
+        > for International Conference ICMO-2014, Sept. 6-8, 2014,
+        > Chengdu, China.
+    
+  6.  > *“Determinants of Underpricing In Indonesian Stock Market”*
+        > paper reviewed for International Conference ICCBM-2014, June
+        > 2-3, 2014, London, U.K.
+    
+  7.  > *“Sale Strategy of Substitutable Products under Consumer
+        > Choice”* paper reviewed for International Conference
+        > ICMO-2014, Sept. 6-8, 2014, Chengdu, China.
+    
+  8.  > *“An Information System Model for the e-Government of Digital
+        > Bangladesh”* paper reviewed for International Conference
+        > ICCBM-2014, June 2-3, 2014, London, U.K.
+    
+  9.  > “An Empirical Study of Factors Impacting Size of the
+        > Object-Oriented Software Component”, International Journal of
+        > *Information Systems and Computing*, USA.
+    
+  10. > “NISAGENET- A Web Based Information System on Agricultural
+        > Education”, *Statistics and Applications* (Journal of the
+        > Society of Statistics Computer and Applications), IASRI, New
+        > Delhi, India.
+    
+  11. > “Architecture, Design and Implementation Strategy for Web
+        > Based Personnel Management System”, *Statistics and
+        > Applications* (Journal of the Society of Statistics Computer
+        > and Applications), IASRI, New Delhi, India.
+    
+  12. > “A Fuzzy Approach for Integrated Measure of Object-Oriented
+        > Software Complexity”, DIAS Technology Review (International
+        > Journal for Business and IT).
+    
+  13. > “Capability Maturity Model Integration in Higher
+        > Education”,Techgenesis (*The Journal of Information
+        > Technology)*, Amity Institute of Information Technology,
+        > Noida.
+    
+  14. > “Software Reliability Models: A Historical
+        > Perspective”,Techgenesis (*The Journal of Information
+        > Technology)*, Amity Institute of Information Technology,
+        > Noida.
+
+# Conferences/Seminars/Workshops/FDPs Attended
+
+<!-- end list -->
+
+1)  Acted as Invited Speaker in **One Day Faculty Capacity Building
+    Workshop on “e-Content Development and iLMS” organized by Digital
+    Learning Centre, M.D. University, Rohtak, Haryana on 27<sup>th</sup>
+    June 2022.  **
+
+2)  Acted as Guest of Honour and Keynote Speaker in **37<sup>th</sup>
+    National Conference on “Computing Informatics, Networks & Security”
+    organized by Tecnia Institute of Advanced Studies (TIAS), Delhi,
+    India** on 18<sup>th</sup> June 2022.** **
+
+3)  Acted as Guest of Honour and Keynote Speaker in **National
+    Conference on “Digital Transformation in Education During COVID:
+    Prospects & Challenges” organized by S. D. College, Panipat, Haryana
+    and delivered address on “21<sup>st</sup> Century Disruptive
+    Technologies & Digital Transformation in Educattion”** on
+    23<sup>rd</sup> Feb. 2022.** **
+
+4)  Acted as Keynote Speaker in **3<sup>rd</sup> International
+    Conference on ‘Information Management & Machine Intelligence
+    (ICIMMI-2021)” organized by Poornima Institute of Engineering &
+    Technology, Jaipur** on 24<sup>th</sup> December 2021.** **
+
+5)  Acted as Keynote Speaker in **2-Days International Conference
+    (Multidisciplinary) on “Role of ICT during COVID-19 (ICRICTC-2022)”
+    organized by Aggarwal College, Ballabgarh, Faridabad** on
+    29<sup>th</sup> January 2022.** **
+
+6)  Acted as Keynote Speaker in **National E-Conference on “Tapping
+    21<sup>st</sup> Century Skill Requirements in in Technical
+    Education” organized by DAV Institute of Management, Faridabad**
+    and delivered address on ***“Pedagogical Innovations &
+    21<sup>st</sup> Century Skill Set for Academic Leaders”* **on
+    21<sup>st</sup> January 2022.
+
+7)  Acted as Key Speaker in **AICTE Sponsored National Conference on
+    “Visualizing and Sensitizing Innovations in Information
+    Technology” organized by Vivekananda Institute of Professional
+    Studies (VIPS), Delhi, India** on 20<sup>th</sup> October 2021.** **
+
+8)  Acted as Guest of Honour and Keynote Speaker in **National Webinar
+    on “Internet of Things” organized by K.L. Mehta Dayanand College for
+    Women, Faridabad** on 5<sup>th</sup> October 2021. ** **
+
+9)  Attended **2<sup>nd</sup> International Conference on Data Analytics
+    and Management (ICDAM-2021)** and contributed as co-author of the
+    paper presented titled ***“Intelligent IoT System and Vaccination
+    analysis for COVID-19”*** on 26th June 2021.
+
+10) Attended **2<sup>nd</sup> International Conference on Data Analytics
+    and Management (ICDAM-2021)** and contributed as co-author of the
+    paper presented titled ***“Performance Analysis of Classification
+    Techniques in Data Mining using WEKA”*** on 26th June 2021.
+
+11) 8<sup>th</sup> IEEE International Conference on **"*Computing for
+    Sustainable Global Development” ****–* 15<sup>th</sup> INDIACom-2021
+    organized by BVICAM, New Delhi during 17<sup>th</sup> –
+    19<sup>th</sup> March, 2021 and Chaired a Technical Session on
+    18<sup>th</sup> March 2021.
+
+12) Attended One-week AICTE sponsored Short Term Training Program on
+    ***"Internet of Things and Data Analytics"*** through online mode
+    organized from 24th – 1st Dec 2020 by the Department of Information
+    Technology, JSS Academy of Technical Education, Noida.
+
+13) Acted as Keynote Speaker on May 3, 2020 in ***1st Online
+    International Conference on Rebuilding BHARAT with Artificial
+    Intelligence Interventions after COVID-19 Pandemic : Opportunity and
+    Challenges* (A2ICP-2020)** during May 02-03, 2020 organised by
+    Department of Computer Science and Engineering, University School of
+    Information and Communication Technology, Gautam Buddha University,
+    Greater Noida, Uttar Pradesh, INDIA.
+
+14) Attended One Week Online Faculty Development Programme on **“R
+    Programming”** conducted by Birla Institute of Technology Mesra,
+    Noida Campus jointly with Spoken Tutorial Project, IIT, Mumbai
+    during May 11-16, 2020.
+
+15) Attended the India First Leadership Talk webinar with Prof D. P.
+    Singh, Chairman UGC Broadcasted on 9th May, 2020 by MHRD’s
+    Innovation Cell, Govt. of India.
+
+16) Attended ***One Day Online Workshop on Python Programming*** on
+    April 25, 2020 organized by Department of Computer Science and
+    Engineering, University School of Information and Communication
+    Technology, Gautam Buddha University, Greater Noida, Uttar Pradesh,
+    INDIA.
+
+17) Acted as the Key Speaker and conducted the Webinar on ***“Blockchain
+    Technology for New Era of Higher Education”*** held on May 14, 2020
+    organised by Blockchain Study Circle, Department of Computer Science
+    and Engineering, University School of Information and Communication
+    Technology, Gautam Buddha University, Greater Noida, Uttar Pradesh,
+    INDIA.
+
+18) Acted as the Key Speaker and conducted the Webinar on ***“Disruptive
+    Technologies for 21<sup>st</sup> Century Intelligence Space”*** held
+    on May 23, 2020 organised by Amity Institute of Information
+    Technology, Amity University, Noida, NCR, New Delhi.
+
+19) Attended Webinar on ***“Artificial Intelligence and Deep
+    Learning”*** held on 22/04/2020, organized by Department of
+    Computer Science and Engineering, University School of Information
+    and Communication Technology, Gautam Buddha University, Greater
+    Noida, Uttar Pradesh, INDIA.
+
+20) Attended Webinar on ***“Environmental and Dietary Norms for
+    Preventive Immunity for Corona”*** held on 16/04/2020, organized by
+    Department of Computer Science and Engineering, University School of
+    Information and Communication Technology, Gautam Buddha University,
+    Greater Noida, Uttar Pradesh, INDIA.
+
+21) Attended Webinar on ***“Online Teaching, Evaluation and Admin
+    Options Under Lockdown and Their Efficacy”*** held on 14/04/2020,
+    organized by Department of Computer Science and Engineering,
+    University School of Information and Communication Technology,
+    Gautam Buddha University, Greater Noida, Uttar Pradesh, INDIA.
+
+22) Attended Webinar on ***“COVID-19 Disruption to Infiltrate
+    Organisations Networks - No Mercy From Cyber Hackers”*** held on
+    12/05/2020, organized by Department of Computer Science and
+    Engineering, University School of Information and Communication
+    Technology, Gautam Buddha University, Greater Noida, Uttar Pradesh,
+    INDIA.
+
+23) Acted as Keynote Speaker and delivered Keynote Address on
+    15<sup>th</sup> March 2019 in International Conference on ***“ICT
+    for Digital, Smart and Sustainable Development (ICIDSSD-19)”***
+    organized by School of Engineering Sciences & Technology, Jamia
+    Hamdard, New Delhi during March 15-16, 2019.
+
+24) 5<sup>th</sup> IEEE International Conference on **"*Computing for
+    Sustainable Global Development” ****–* 13<sup>th</sup> INDIACom-2019
+    organized by BVICAM, New Delhi during 13<sup>th</sup> –
+    15<sup>th</sup> March, 2019 and Chaired a Technical Session on
+    15<sup>th</sup> March 2019.
+
+25) Acted as Resource Person on 2<sup>nd</sup> March 2019 in NCW
+    Sponsored One Day National Seminar **on *“Cyber World: schemes and
+    Strategies for Crime Against Women” ***organized by Vaish Arya
+    Shikshan Mahila Mahavidyalaya, Bahadurgarh, NCR Delhi on
+    2<sup>nd</sup> March 2019.
+
+26) Acted as Keynote Speaker on 7<sup>th</sup> Feb. 2019 in Workshop on
+    ***“Women Safety and Gender Sensitive Issues at Workplace”***
+    organized by SCSHVW Cell, M.D. University, Rohtak on 7<sup>th</sup>
+    Feb. 2019.
+
+27) Acted as Keynote Speaker and delivered Keynote Address on
+    21<sup>st</sup> January 2019 in National Seminar on ***“Information
+    Explosion and the 21<sup>st</sup> Century Youth: Prospects and
+    Challenges”*** organized by Km. Mayawati Govt. Girls P.G. College,
+    Badalpur, Gautambudh Nagar, U.P. and delivered keynote on the theme
+    *“Recent Trends in Computing Technology: Prospects and Challenges”.*
+
+28) Acted as Resource Person on 19<sup>th</sup> January 2019 in National
+    Seminar on ***“Critiques of science & Technology: Social
+    Implications”*** organized by DAV Centenary College, Faridabad,
+    Haryana on January 19, 2019.
+
+29) Acted as Resource Person on 7<sup>th</sup> January 2019 in AICTE &
+    ISTE Sponsored Refresher/Faculty Development Programme on the
+    **theme *“Challenges in Engineering Education” ***organized by MERI
+    College of Engineering & Technology, Asanda, Jhajjar, NCR, New Delhi
+    on January 7, 2019.
+
+30) Acted as Key Speaker and delivered Keynote Address on the theme of
+    the conference *in International Conference on Emerging Trends in
+    Science & Technology (ICETST-2018),* organized by Gateway Institute
+    of Engineering and Technology (GIET), Sonepat, Haryana on April 13,
+    2018.
+
+31) Acted as Keynote Speaker and delivered Keynote Address on
+    12<sup>th</sup> April 2018 in National Conference on *“Role of
+    Entrepreneurship in the Era of Digital India”* organized by MSIT &
+    BMCEM, NH-1, Jagdishpur, Delhi NCR on April 12, 2018.
+
+32) Acted as Key Speaker and delivered Keynote Address on the theme of
+    the conference in *National Conference on Information Technology,
+    Engineering, Environment Science and Management (NCIEEM-2018)*
+    organized by DAV Institute of Management, Faridabad (Haryana) on
+    April 7, 2018.
+
+33) Acted as Key Speaker and delivered Invited Talk on 6<sup>th</sup>
+    April 2018 in the Springer Sponsored International Conference on
+    *“Innovative Computing and Communication”- ICICC-2018* organized
+    by Guru Nanak Institute of Management, New Delhi, India during May
+    5-6, 2018.
+
+34) Acted as Session Chair on 6<sup>th</sup> April 2018 in the Springer
+    Sponsored International Conference on *“Innovative Computing and
+    Communication”-ICICC-2018* organized by Guru Nanak Institute of
+    Management, New Delhi, India during May 5-6, 2018.
+
+35) Acted as Invited Speaker and delivered Invited Talk on *“Recent
+    Innovations in Data Analytics”* on 31<sup>st</sup> March 2018
+    (afternoon) in the AICTE Sponsored International Conference on
+    *“Recent Advances in Engineering”* organized by N.C. College of
+    Engineering, Israna, Panipat during March 30-31, 2018.
+
+36) Acted as Chief-Guest in the Valedictory Function on 31<sup>st</sup>
+    March 2018 (afternoon) in the AICTE Sponsored International
+    Conference on *“Recent Advances in Engineering”* organized by N.C.
+    College of Engineering, Israna, Panipat during March 30-31, 2018.
+
+37) Acted as Keynote Speaker and delivered Keynote Address on
+    23<sup>rd</sup> March 2018 in National Conference on *“Latest
+    Innovations in Data Science & Cyber Security”* organized by MSIT &
+    BMCEM, NH-1, Jagdishpur, Delhi NCR on March 23, 2018.
+
+38) Acted as Chief-Guest in Valedictory Session in National Conference
+    on *“Latest Innovations in Data Science & Cyber Security”* organized
+    by MSIT & BMCEM, NH-1, Jagdishpur, Delhi NCR on March 23, 2018.
+
+39) Acted as Guest of Honour in Workshop on “*Women Safety and Gender
+    Sensitization at Workplace”* organised by M.D. University, Rohtak on
+    22.03.2018 and acted as Resource Person on *“Cyber Crimes and Cyber
+    Security”.*
+
+40) Acted as Resource Person and delivered Invited Talk on *“Recent
+    Innovations in Computing & Data Analytics Technologies for India
+    Tomorrow”* on 16<sup>th</sup> March 2018 (afternoon) in
+    Paricharcha-2018 National Conference on *Big Data Analytics*
+    organised by C.R.S. University, Jind, Haryana during March 16-17,
+    2018.
+
+41) 5<sup>th</sup> IEEE International Conference on "*Computing for
+    Sustainable Global Development”-* 12<sup>th</sup> INDIACom-2018 organized by BVICAM, New Delhi during 14<sup>th</sup> – 16<sup>th</sup> March, 2018 and Chaired a Technical Session on 15<sup>th</sup> March 2018.
+
+42) Acted as Resource Person/Invited Speaker and delivered Invited Talk
+    *“Recent Innovations & Computing Technologies for India Tomorrow”*
+    on 11<sup>th</sup> March 2018 in DGHE, Haryana sponsored National
+    Conference on *“Recent Trends in Network Security”* organized by
+    S.D.(P.G.) College, Panipat (Haryana) during March 10-11, 2018.
+
+43) Acted as Keynote Speaker and delivered Keynote Address on *“Future
+    Smart Computing Technologies: Opportunities & Challenges”* on
+    9<sup>th</sup> March 2018 during Inaugural Session the DGHE, Haryana
+    Sponsored National Conference on *“Energy & Sustainability: Sources,
+    Expectations & Uncertainties”* organized by Aggarwal College
+    Ballabgarh, Faridabad (Haryana) during March 9-10, 2018.
+
+44) Acted as Chief-Guest and Keynote Speaker on Feb. 17, 2018 in DGHE,
+    Haryana sponsored One Day National Seminar on *“Recent Advances in
+    Information Technology”* organized by K.L. Mehta Dayanand College
+    for Women, Faridabad (Haryana) on Feb. 17, 2018.
+
+45) Acted as Keynote Speaker on 25<sup>th</sup> January 2018 in NAAC
+    Sponsored National Seminar on *“Teaching, Learning and Evaluation”*
+    organized by IQAC, DAV Centenary College, Faridabad (Haryana) on
+    January 25, 2018.
+
+46) Acted as Invited Speaker and delivered Invited Talk on *“Future
+    Innovations and Computing Technologies”* on 11<sup>th</sup> January
+    2018 in 1<sup>st</sup> North India Science Congress (NISC-2018) and
+    International Conference on *“Science and Technology for Sustainable
+    Future”* organized by Babasaheb Bhimrao Ambedkar Central University,
+    Lucknow during January 10-11, 2018.
+
+47) Acted as Conference Chairman of the National Conference on *“Future
+    Innovations in Computing Technologies and Machine Learning
+    (FICTML-17)”,* Dept. of Comp. Sc. & Appls, M.D. University, Rohtak
+    on November 21, 2017 and also delivered welcome address.
+
+48) Acted as Invited Speaker on the theme of the National Conference on
+    *“Advances in Mathematics & Computing (AMC-2017)”* organized by YMCA
+    University of Science & Technology, Faridabad on May 2, 2017.
+
+49) Acted as Keynote Speaker in the International Conference on *“A
+    Journey towards Platinum Era – Vision Rainbow Power of India
+    (ICPVRPI-2017)”* organized by IMT, Faridabad on 7<sup>th</sup> April
+    2017 held during April 7-8, 2017.
+
+50) Acted as Chief-Guest for Valedictory Session in the TEQIP-II
+    Sponsored International Conference on *“Innovation & Trends to
+    Support Make in India”* organized by N.C. College of Engineering,
+    Israna, Panipat on 26<sup>th</sup> March 2017.
+
+51) Acted as Conference Chairman of the National Conference on
+    *“Emerging Trends in Cloud Computing and Big Data Analytics
+    (ETCCBDA-17)”,* Dept. of Comp. Sc. & Appls, M.D. University, Rohtak
+    on March 6, 2017 and delivered the address on the theme of the
+    conference.
+
+52) Acted as Keynote Speaker in One Day *National Seminar on Cyber Crime
+    and Security* organized by K.L. Mehta Dayanand College for Women,
+    Faridabad on March 4, 2017.
+
+53) 4<sup>th</sup> IEEE International Conference on "*Computing For
+    Sustainable Global Development”* 11<sup>th</sup>
+    INDIACom-2017organized by BVICAM, New Delhi during 01<sup>st</sup>-
+    03<sup>rd</sup>March, 2017 and Chaired a Technical Session on
+    02<sup>nd</sup>March 2017.
+
+54) Acted as Chief-Guest and Keynote Speaker in National Seminar on
+    *“Mathematics and Computer-Computing and Communication
+    (NSMCCC-2017)”* organized by Aggarwal College, Ballabgarh,
+    NCR-Faridabad on 18<sup>th</sup> Feb. 2017.
+
+55) Acted as Keynote Speaker in the 6<sup>th</sup> IEEE National
+    Conference on *“Emerging Trends in Engineering & Technology
+    (ETET-2017)”* organized by SBIT, Sonepat, Delhi-NCR on
+    10<sup>th</sup> Feb. 2017 and delivered expert talk on *“Innovative
+    Future Computing Technologies: Opportunities and Challenges”.*
+
+56) Acted as Chief-Guest and Keynote Speaker in the International
+    Conference on *“Innovative Developments in Science, Technology and
+    Management”* organized by Ganga Technical Campus, Delhi-NCR on
+    29<sup>th</sup> January, 2017.
+
+57) Acted as Resource Person on 20.12.2016 in *FDP-SCTSEA (One Week
+    Faculty Development Programme on Recent Trends of Soft-Computing
+    Techniques in Software Engineering and Applications”* organized by
+    Gautam Buddha University, Greater Noida.
+
+58) Acted as Chief-Guest and Keynote Speaker on December 8, 2016 in the
+    National Conference on *“Innovation & Technology Strategy in Cloud
+    Computing and Information Security”* organized by Lingaya’s
+    University, Delhi-NCR during December 8-9, 2016.
+
+59) Acted as a Resource Person in *Elsevier Author workshop* on November
+    18, 2016 conducted by Vivekananda Library M. D. University Rohtak.
+
+60) Acted as Resource Person and Chaired Technical Session on
+    28<sup>th</sup> October 2016 in the DST-Inspire Science Camp
+    organized by Ch. Bansi Lal University, Bhiwani and delivered talk on
+    *“Future Computing Technologies”*
+
+61) Acted as Resource Person in National Workshop on *“E-Governance in
+    India: Issues and Challenges”* organized by Dept. of Public
+    Administration, M.D. University, Rohtak on October 5, 2016.
+
+62) Acted as Keynote Speaker and Guest of Honour in the International
+    Conference on *“Recent Innovations in Science, Management, Education
+    and Technology (ICRISMET- 16)”* organized by JCD Memorial College,
+    Sirsa, Haryana on 27<sup>th</sup> August 2016.
+
+63) Acted as Guest of Honor and delivered Valedictory Address on the
+    theme of the National Conference on *“Emerging Trends in Computer
+    Science and Electronics Engineering – ETCSEE-2016”*organizedat RPS
+    Group of Institutions, Mahendergarh on 10<sup>th</sup> April, 2016.
+
+64) 3<sup>rd</sup> IEEE International Conference on "*Computing For
+    Sustainable Global Development”*
+    
+      - 10<sup>th</sup> INDIACom-2016organized by BVICAM, New Delhi
+        during 16<sup>th</sup> – 18<sup>th</sup> March, 2016 and Chaired
+        a Technical Session on 18<sup>th</sup> March 2016.
+
+65) Acted as Guest of Honor and delivered Keynote Address on the theme
+    of the *“National Conference on Cyber Security Issues and
+    Challenges”* held at Tecnia Institute of Advanced Studies, New
+    Delhi on 26<sup>th</sup>Feb, 2016.
+
+66) “50<sup>th</sup> Golden Jubilee Annual Convention (CSI-2015)” on the
+    theme “Digital Life” during December 2-5, 2015 atBVICAM, New Delhi
+    Chaired a Technical Session on 3<sup>rd</sup> December 2015.
+
+67) International Conference on *Software Engineering Research and
+    Practice* (SERP’14) at Las Vegas, USA during July 21-24, 2014 and
+    presented our paper *“Application of a Fuzzy Inference System to
+    Measure Maintainability of Object-Oriented Software”* and chaired
+    Two Technical Sessions of the Intl Conference.
+
+68) Two Weeks (May 4-16, 2015) *Faculty Development Program on Rational
+    SEED and Rational SEED for Quality* conducted by WebTek Labs Pvt.
+    Ltd. at Department of Computer Science & Applications, M.D.
+    University, Rohtak.
+
+69) International Conference on *“Recent Trends in Computer and
+    Information Technology Research”* organised by B.S. Anangpuria
+    Institute of Technology and Management, Faridabad (Haryana) on
+    September 25, 2015 and delivered Keynote Address on the theme of the
+    Conference.
+
+70) International Conference on *“Emerging Trends in Technology, Science
+    & Upcoming Research”* held at DAV Institute of Management, Faridabad
+    (Haryana) on April 25, 2015. Acted as Chief Guest and delivered
+    Keynote Address on the theme of the Conference.
+
+71) 1<sup>st</sup> International Yoga Day Celebrations organized by M.D.
+    University, Rohtak on 21<sup>st</sup> June, 2015 and chaired Session
+    in Seminar on “Yoga and Holistic Life” at MDU Campus.
+
+72) Yoga Training/7-Days Health Awareness Camp (18.6.2015-24.6.2015)
+    held at Youth Red Cross, M.D. University, Rohtak and delivered
+    keynote address on its Inaugural Day.
+
+73) Inter-Zonal Youth Festival and Folk Festival of M.D. University,
+    Rohtak for session 2014-15 and acted as Organizing Secretary of this
+    event.
+
+74) International Conference on *“Innovative Trends in Computing
+    Technology & Mathematica”– ITCTM-2015* organised by Delhi Institute
+    of Technology & Management, Sonepat, Haryana on January 10, 2015 and
+    contributed Keynote Address on the theme of the Conference in the
+    proceedings of the Conference *(Could not attend the Conference).*
+
+75) National Conference on *“Innovations in Computing and Information
+    Technology” – COGNITION-2015* organised by Amity University,
+    Gurgaon, Haryana on 25<sup>th</sup> – 26<sup>th</sup> February, 2015
+    and participated as a Keynote Speaker in the Inaugural of the
+    Conference and also Chaired a session on *‘Advancements in
+    Information Technology’.*
+
+76) National Conference on *“Emerging Trends in Computer Science &
+    Information Technology”– NCETCSIT-2015* organised by Rawal
+    Institutions, Faridabad, Haryana on January 10, 2015 and delivered
+    Keynote Address on the theme of the Conference.
+
+77) Workshop on “*Sexual Harassment and Violence against Women:
+    Prevention, Prohibition and Redressal”* organised by M.D.
+    University, Rohtak on 17.03.2015 and acted as Resource Person on
+    *“Cyber Crimes and Cyber Security”.*
+
+78) IEEE sponsored 4<sup>th</sup> National Conference on *“Emerging
+    Trends in Engineering & Technology”– ETET-2015* organised by SBIT,
+    Sonepat, Haryana on February 6-7, 2015 and delivered Keynote Address
+    on the theme of the Conference during its inaugural.
+
+79) National Conference on *“Innovative Trends in Computer Science
+    Engineering–ITCSE- 2015”* organised by BRCM College of Engg. &
+    Technology, Bahal (Hr) on April 4, 2015. Acted as Chief Guest and
+    delivered Keynote Address on the theme of the Conference.
+
+80) National Conference on *“Innovative Development in Science,
+    Technology & Management”* organised by Ganga Technical Campus,
+    Bahadurgarh, Haryana on 1<sup>st</sup>March 2015 and as a
+    Chief-Guest & Keynote Speaker delivered Keynote Address on the theme
+    of the Conference.
+
+81) National Conference on *“Advancement in Biometrics Trends & Its
+    Applications”* organised by Dronacharya College of Engineering,
+    Gurgaon on October 16, 2015 as Chief-Guest & Keynote Speaker
+    delivered Keynote Address on the theme of the Conference.
+
+82) National Workshop on *“Intelligent System for Engineering and
+    Management”* organized by Somany(P.G.) Institute of Technology and
+    Management, Rewari, Haryana on 28<sup>th</sup> March 2015 and as a
+    Chief-Guest delivered Keynote Address on the theme of the Workshop.
+
+83) National Workshop on *“Emerging Trends in Computing & Challenges for
+    Future”* organised by BLS Institute of Technology Management,
+    Bahadurgarh (Hr.) on 22<sup>nd</sup> April 2015 and delivered
+    Keynote Address on the theme of the Workshop.
+
+84) Workshop on *“Quality Workshop for Engineering Faculty”* organised
+    by IQAC, Manav Rachna International University, Faridabad (Haryana)
+    on 27<sup>th</sup> September, 2014 and delivered a session on
+    *“Methods and Techniques for Effective Teaching in Technical
+    Courses”.*
+
+85) National Conference on *“Recent Innovations in Engineering,
+    Management and Science”* organised by Ganga Institute of Technology
+    and Management, Kablana (Haryana) on 23<sup>rd</sup> August, 2014
+    and acted as Chief Guest and delivered Keynote Address.
+
+86) 7<sup>th</sup> National Teachers’ Science Congress-2013 organised by
+    Department of Science & Technology, MHRD, Govt. of India at Al-Falah
+    School of Engg. & Technology, Faridabad during December 14-17, 2013
+    and acted as an Expert/Evaluator.
+
+87) International Conference on *“Emerging Technologies – ICET-2014”*
+    organised by N.C. College of Engineering, Israna, Panipat and
+    sponsored under TEQIP-II during April 24- 26, 2014 and delivered an
+    Invited Talk and chaired a Technical Session.
+
+88) AICTE Sponsored National Seminar on *“Mobile Computing and Mobile
+    Applications Development – MOBAPP-2014”* organised by N.C. College
+    of Engineering Technical Campus, Israna, Panipat during March 28-29,
+    2014 and delivered a Keynote Address.
+
+89) National Conference on *“Innovative Trends in Information Processing
+    & Management- NCITIPM2K14”* organised by Maharaja Surajmal Institute
+    (MSI), New Delhi on March 15, 2014 and delivered a Keynote Address.
+
+90) International Conference on "*Computing For Sustainable Global
+    Development” – 8<sup>th</sup> INDIACom-2014* organized by BVICAM,
+    New Delhi during 5<sup>th</sup> – 7<sup>th</sup> March, 2014 and
+    Chaired a Technical Session on 7<sup>th</sup> March 2014.
+
+91) One Week National Workshop on *“Problem Solving Using MATLAB”,*
+    organised by Department of Computer Science & applications, M.D.
+    University, Rohtak during March 24-29, 2014.
+
+92) National Conference on *“Innovative Trends in Information Processing
+    & Management”- NCITIPM2K14* organised by Maharaja Surajmal Institute
+    (MSI), New Delhi on March 15, 2014 and chaired Technical Session of
+    the conference.
+
+93) National Conference on "*Emerging Trends in Electronics &
+    Communication: ETEC- 2013”* organized by BRCM College of Engg. &
+    Technology, Bahal, Haryana during October 25-26, 2013 and delivered
+    a Keynote Address on *“Future Trends in Computing and Communication
+    Technologies”* on October 26, 2013.
+
+94) National Conference on "*Emerging Trends & Innovations in Computer &
+    Communication” – NCETICC-2013* organized by SITM, Rewari on October
+    19, 2013 and delivered a Keynote Address on *“Future Trends &
+    Innovations in Computing Technologies”.*
+
+95) National Conference on *“Global Competitiveness: Paradigm Shift in
+    Management, Engineering & science”,* organised by Savera Group of
+    Institutions, Gurgaon, Haryana on April 27, 2013and delivered a
+    Invited Talk on the theme of Conference.
+
+96) IEEE sponsored 2<sup>nd</sup> National Conference on *“Emerging
+    Trends in Engineering & Technology” (ETET-2013),* organised by SBIT
+    Group of Institutions, Sonepat, Haryana during Feb. 8-9, 2013 and
+    delivered a Keynote Address.
+
+97) National Conference on *“Emerging Trends in Science, Technology and
+    Management – Vision 2020”,* organised by Savera Group of
+    Institutions, Gurgaon, Haryana on Jan 18- 19, 2013 and delivered a
+    Keynote Address on *“Emerging Trends in Computing Technologies”.*
+
+98) National Conference on “Emerging Trends in Science, Technology &
+    Management- Vision 2020” ICHDMS-2012 organised by GITM, Gurgaon
+    during January 18-19, 2013 and delivered Keynote Address on the
+    theme *“Emerging Trends in Computing Technologies”* in the inaugural
+    session on 18<sup>th</sup> January 2013.
+
+99) International Conference ICHDMS-2012 organised by Department of
+    Mathematics, M.D. University, Rohtak during November 21-24, 2014 and
+    delivered an Invited Talk on the theme *“Next Generation Computing
+    Technologies: Opportunities and Challenges”* in the Technical
+    Session on Nov. 22, 2012.
+
+100) International Conference on *“Innovations in Management &
+     Information Technology” (*ICIMIT-2012) organized by IMT, Faridabad
+     on 7<sup>th</sup> April, 2012 and addressed the audience in the
+     inaugural session as well as chaired the Technical Session.
+
+101) IEEE sponsored 1st National Conference on “Emerging Trends in
+     Engineering and Technology” (NCETET-12) organised by SBIT, Sonepat
+     on Feb. 3-4, 2012 in collaboration with Computer Society of India
+     (CSI), Indian Society for Technical Education (ISTE), and IEEE
+     Student Branch - Delhi chapter on and addressed the audience in the
+     inaugural session on Feb. 3, 2012 as well as chaired the Technical
+     Session.
+
+102) National Conference on “Emerging Trends In Computer and Information
+     Technology” (NCETCIT-2012) organised by GVMITM, Sonepat during MAY
+     11-12, 2012 and delivered an expert talk on *“Emerging Trends in
+     Computing Technologies”*
+
+103) 2<sup>nd</sup> National Conference on Emerging Trends In
+     Electronics & Information Technology organised by AITM, Palwal
+     during April 14-15, 2012 and delivered Keynote Address on *“Future
+     Generation Computing Technologies”*
+
+104) National Conference on *“Internet Computing and Communication
+     (IC2)”* organised by TIAS, New Delhi on April 21, 2012 and
+     delivered Keynote Address on *“Next Generation Computing
+     Technologies: Opportunities & Challenges”*
+
+105) International Conference on *“*Business Intelligence-An Alignment
+     of IT & Management” at IMT, Faridabad, April 9, 2011 and delivered
+     a talk on the theme of the Conference.
+
+106) National Workshop on “Software Reliability and Testing”, Gautam
+     Buddha University, Greater Noida (UP), Sept 2-3, 2011 and delivered
+     a talk on *“Component-based Software Testing: Issues and
+     Challenges”* on Sept. 3, 2011.
+
+107) National Seminar on “Tourism – Linking Cultures” organized by
+     Institute of Hotel & Tourism Management, M. D. University, Rohtak
+     on Sept. 27, 2011 and delivered an Expert Lecture as one of Key
+     Speakers on *“IT and Tourism: New Opportunities for Linking
+     Cultures”*.
+
+108) Organised National Conference on *“Emerging Trends in Mobile
+     Technologies & Security (ETMTS-11)”* by Department of Computer
+     Science & Applications, Maharshi Dayanand University, Rohtak on
+     March 29, 2011 and brought out published volume of Conference
+     Proceedings. (Acted as Conference Director)
+
+109) National Conclave on *“Language and IT Industry – Jell Well”,* DAV
+     Centenary College, Faridabad on Feb. 25, 2011 and delivered Keynote
+     Address.
+
+110) International Conference on *Software Engineering Theory and
+     Practice 2008* (SETP- 2008) at Florida during July 7-10, 2008 and
+     presented my paper *“Need of Appropriate Component Reusability
+     Metrics and Standards for Component-Based Systems”.*
+
+111) National Conference on “Emerging Trends in Hospitality &
+     Tourism*”,* Organized by IHTM, Maharshi Dayanand University,
+     Rohtak, April 09-10, 2011.
+
+112) Workshop on “Recent Trends in Software Testing” organized by Delhi
+     Technological University, Delhi on 17<sup>th</sup> September, 2010
+     and delivered Invited Talk on “Component- Based Testing”.
+
+113) National Seminar on “*Global Meltdown”* at IMT, Faridabad, April
+     10-11, 2009 and presented Invited Paper “*Global Meltdown:
+     Challenges & Opportunities”.*
+
+114) National Seminar on “*e-Governance: Opportunities & Challenges”* at
+     GVM Institute of Technology & Management, Sonepat on May 23, 2009
+     and presented Keynote Address on *“e-Governance: Opportunities,
+     Risks and Challenges”.*
+
+115) National Seminar on “*Trends in Wireless and Mobile Communication*
+     (TWMC-09)”, at SBIT, Sonepat on 27.02.2009 and made a presentation
+     as Keynote Speaker on *“MDU Campus Wide Integrated Network for
+     Internet & Telephony”.*
+
+116) National Seminar on “e-business” at Tecnia Institute, New Delhi and
+     made a presentation as Keynote Speaker on *“e-Business in
+     21<sup>st</sup> Century: Opportunities & Challenges”.*
+
+117) Invited Speaker in National Seminar on *Regional Development,*
+     M.K.J.K. Mahavidyalya, Rohtak on September 19, 2007 and made a
+     presentation on *e-Governance for Regional Development: Opportunity
+     & Challenges*.
+
+118) Key Note Speaker in National Seminar on *Enterprise Information
+     Systems,* organized by Apeejay Institute of Management, Jalandhar
+     on 24.5.2008 and made a presentation on *Enterprise Information
+     Systems in 21<sup>st</sup> Century: Opportunities and Challenges.*
+
+119) ICDE International Conference held at IGNOU, New Delhi in Nov.
+     2006.
+
+120) International Conference on *Information Management in A Knowledge
+     Society (ICIM 2005) organized by IASLIC at Bombay during* Feb.
+     21-25, 2005 and presented paper “*Data Mining: A Key To Knowledge
+     Society”*.
+
+121) National Conference on *India in the Globalized World: Challenges
+     and Opportunities*, April 30-May 1, 2005 and presented paper
+     *“Essence of Strengthening Cyber Laws in India: Need of the
+     Hour”.*
+
+122) Workshop on ICT on May 7<sup>th</sup>, 2004 at C.R. College of
+     Education, Rohtak and presented the paper *“ICT in Education”.*
+
+<!-- end list -->
+
+# Resource Person/Expert Lecturers Delivered/Workshops Conducted
+
+<!-- end list -->
+
+1)  Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session in **UGC sponsored One-Month Online Faculty Induction
+    Program: FIP-6** on the topic ***“Innovations, Digital Initiatives
+    and Disruptive Technologies of 21<sup>st</sup> Century”*** on June
+    13, 2022.
+
+2)  Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session in **UGC sponsored One-Month Online Faculty Induction
+    Program: FIP-6** on the topic ***“MOOCs: Planning & Development
+    Using MOODLE LMS”*** on June 13, 2022.
+
+3)  Acted as Resource Person in **Refresher Course in Effective Teaching
+    Skills** organized by UGC-HRDC, Pondicherry University and conducted
+    expert session on ***“*Skills and Techniques for E-Content
+    Development”** on March 14, 2022.
+
+4)  Acted as Resource Person in **Refresher Course in Effective Teaching
+    Skills** organized by UGC-HRDC, Pondicherry University and conducted
+    expert session on ***“*Using MOODLE LMS for Teaching & Learning”**
+    on March 14, 2022.
+
+5)  Acted as Chief-Guest and delivered Online Valedictory address **One
+    Week AICTE ATAL sponsored FDP on “Data Science” organized by J. C.
+    Bose University of Science & Technology, YMCA, Faridabad** on
+    25<sup>th</sup> Feb. 2022.** **
+
+6)  Acted as Resource Person in **6<sup>th</sup> Online Faculty
+    Induction Programme** organized by UGC-HRDC, Pondicherry University
+    and conducted expert session on ***“*Skills and Techniques for
+    E-Content Development”** on February 28, 2022.
+
+7)  Acted as Resource Person in **6<sup>th</sup> Online Faculty
+    Induction Programme** organized by UGC-HRDC, Pondicherry University
+    and conducted expert session on ***“*Using MOODLE LMS for Teaching &
+    Learning”** on February 28, 2022.
+
+8)  Acted as Resource Person in **2-Weeks Online Capacity Building
+    Program on Teaching, Learning and Research** organized by Faculty
+    Development Centre, M. D. University, Rohtak, Haryana and conducted
+    Expert Session on the topic ***“Using MOODLE LMS for Online Teaching
+    and Learning”*** on January 14, 2022.
+
+9)  Acted as Resource Person in **2-Weeks Online Capacity Building
+    Program on Teaching, Learning and Research** organized by Faculty
+    Development Centre, M. D. University, Rohtak, Haryana and conducted
+    Expert Session on the topic ***“21<sup>st</sup> Century Skill Set
+    and Digital Initiatives for Academic Leaders”*** on January 13,
+    2022.
+
+10) Acted as Resource Person in O**ne Week AICTE sponsored Online FDP on
+    “Machine Learning for IoT” organized by** G.J. University of Science
+    & Technology, Hisar and conducted Expert Session on ***“*IoT and
+    Machine Learning Inspired Smart Environment”** on 5<sup>th</sup>
+    January 2022.** **
+
+11) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session in **UGC sponsored Interdisciplinary Refresher Course on ICT
+    – Preparing Teachers for 21<sup>st</sup> Century** on the topic
+    ***“21<sup>st</sup> Century Skill-Set for Academic Leaders and
+    Digital Initiatives”*** on **Dec. 8, 2021**.
+
+12) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session in **UGC sponsored Interdisciplinary Refresher Course on ICT
+    – Preparing Teachers for 21<sup>st</sup> Century** on the topic
+    ***“Using MOODLE LMS for Online Teaching and Learning”*** on
+    **Dec. 8, 2021**.
+
+13) Acted as Resource Person in **One Week Workshop on “Quality
+    Assurance in HEIs: Challenges Ahead” organized by IQAC Cell,
+    Chaudhary Ranbir Singh University, Jind** and conducted Expert
+    Session on ***“*Technological and Pedagogical Innovations
+    21<sup>st</sup> Century Teaching & Learning”** on 26<sup>th</sup>
+    November 2021.** **
+
+14) Acted as Resource Person and delivered Expert Lecture in **One Day
+    Online Capacity Building & Personality Development Program for
+    Female Students** on **“Digital Literacy & Effective Use of Social
+    Media”** jointly **organized by National Commission for Women (NCW)
+    and Centre for Life Skills & Soft Skills (CLAS), M.D. University,
+    Rohtak** on 18<sup>th</sup> October 2021.** **
+
+15) Acted as Resource Person and delivered Expert Lecture in O**ne
+    Week** AICTE ATAL Online Faculty Development Programme on
+    **“Developing Life Skills & Capacity Building of Pharma
+    Professionals”** **organized by Centre for Life Skills & Soft Skills
+    (CLAS), M.D. University, Rohtak** on 13<sup>th</sup> Sept.
+    2021.** **
+
+16) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session in **RUSA sponsored One-Month Online Faculty Induction
+    Program: FIP-5** on the topic ***“Role of ICT in Education- Major
+    Reforms: NEP-2020”*** August 31, 2021.
+
+17) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session in **RUSA sponsored One-Month Online Faculty Induction
+    Program: FIP-5** on the topic ***“Using MOODLE LMS for Online
+    Teaching and Learning”*** on August 31, 2021.
+
+18) Acted as Resource Person in **30 Days Online 4<sup>th</sup> Faculty
+    Induction Programme for University and College Teachers** organized
+    by UGC-HRDC, Pondicherry University and conducted expert session on
+    ***“*Module 3: Lesson Planning – Basic idea, logic and different
+    types”** on August 30, 2021.
+
+19) Acted as Resource Person in **30 Days Online 4<sup>th</sup> Faculty
+    Induction Programme for University and College Teachers** organized
+    by UGC-HRDC, Pondicherry University and conducted expert session on
+    ***“*Module 3: Skills and Techniques for Writing Lesson Plans”** on
+    August 30, 2021.
+
+20) Acted as Resource Person and delivered Expert Lecture in O**ne Week
+    AICTE sponsored Online STTP on “Emerging Research Areas in Big Data
+    Computing” organized by Department of Computer Engineering, J. C.
+    Bose University of Science & Technology, YMCA, Faridabad** on
+    31<sup>st</sup> July 2021.** **
+
+21) Acted as Resource Person and delivered Expert Lecture on the topic
+    **“Role of MOOCs and LMS in 21st Century Teaching and Learning”**
+    in O**ne Week Online FDP on “Cardinal Role of Quality Education in
+    Developing Self-Reliant India”** **organized by** Aggarwal College
+    Ballabgarh on 9<sup>th</sup> July 2021.** **
+
+22) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session in **UGC sponsored One-Week Online (Live Mode) Workshop on
+    “Leadership Development Programme”** on the topic ***"21st century
+    skill set for Academic Leaders of Tomorrow"*** on March 11, 2021.
+
+23) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session in **UGC sponsored One-Week Online (Live Mode) Workshop on
+    “Leadership Development Programme”** on the topic ***"Digital
+    Initiatives"*** on March 11, 2021.
+
+24) Acted as Resource Person in **National Webinar on “Recent Trends in
+    IT and Management”** organized by Saraswati Mahila Mahavidyalaya,
+    Palwal on April 5, 2021.
+
+25) Acted as Resource Person and delivered Expert Lecture in O**ne Week
+    AICTE sponsored Online STTP on “Recent Advancements in Artificial
+    Intelligence and Machine Learning” organized by Department of
+    Computer Engineering, J. C. Bose University of Science & Technology,
+    YMCA, Faridabad** on 22<sup>nd</sup> March 2021.** **
+
+26) Acted as Resource Person in **30 Days Online 3<sup>rd</sup>  Faculty
+    Induction Programme for University and College Teachers** organized
+    by UGC-HRDC, Pondicherry University and conducted expert session on
+    ***“*Module 3: Creating Activities in Moodle”** on Feb. 22, 2021.
+
+27) Acted as Resource Person in **30 Days Online 3<sup>rd</sup>  Faculty
+    Induction Programme for University and College Teachers** organized
+    by UGC-HRDC, Pondicherry University and conducted expert session on
+    ***“*Module 3: Skills and techniques for E-Content Development”** on
+    Feb. 22, 2021.
+
+28) Acted as Invited Speaker and delivered Invited Talk on
+    26<sup>th</sup> Nov. 2020 on **“21<sup>st</sup> Century Intelligent
+    Space: Opportunities & Challenges”** in **One Week Online e-STC on**
+    **“Recent Advances of Machine Learning in Software Engineering”**
+    organized by Department of Computer Science and Engineering, Dr. B R
+    Ambedkar National Institute of Technology, Jalandhar, Punjab, India.
+
+29) Keynote Address on July 20, 2020 in One Week Online Faculty
+    Development Programme on “**Blended Learning: Tools For Teaching &
+    Research In Media, Management & Technology”** during
+    20th-25<sup>th</sup> July, 2020 organised by Management Education &
+    Research Institute (MERI), New Delhi.
+
+30) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session in **UGC sponsored One-Month Online Faculty Induction
+    Programme-3** on the topic ***"Digital Education and Changing Role
+    of Teachers in 21st Century"*** on November 25, 2020.
+
+31) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session in **UGC sponsored One-Month Online Faculty Induction
+    Programme-3** on the topic ***"NAAC Assessment & Accreditation: An
+    Overview"*** on November 25, 2020.
+
+32) Acted as a Resource Person and conducted session on April 8, 2020 on
+    **“Using Digital Platform for Online Teaching & Learning”**
+    Institution Building – Leveraging our Stakeholders in the
+    'Principals’ Online Meet & e-Workshop' from April 06-15, 2020
+    organized jointly by M.D. University, Rohtak, Haryana and Department
+    of Higher Education, Govt. of Haryana.
+
+33) Acted as Resource Person in Online Faculty Development Programme
+    conducted by Faculty Development Centre, M.D. University, Rohtak
+    under Pandit Madan Mohan Malaviya National Mission on Teachers and
+    Teaching (PMMMNMTT), MHRD, Govt of India and conducted an expert
+    session for participants on the topic **“Digital Initiatives in
+    Higher Education and Pedagogical Innovations”** on April 12, 2020.
+
+34) Acted as Invited Speaker and delivered Keynote Address on July 20,
+    2020 in One Week Online Faculty Development Programme on “**Blended
+    Learning: Tools For Teaching & Research In Media, Management &
+    Technology”** during 20th-25<sup>th</sup> July, 2020 organised by
+    Management Education & Research Institute (MERI), New Delhi.
+
+35) Acted as Resource Person in **Online Faculty Development Program**
+    on **"Art of Education through Online Teaching Methods”** organized
+    by K.L. Mehta Dayanand College for Women, Faridabad on
+    17<sup>th</sup> June, 2020.
+
+36) Acted as Resource Person in UGC-Human Resource Development Centre,
+    Punjabi University, Patiala and conducted expert session for
+    participants of 76<sup>th</sup> Refresher Course on “Information
+    Communication Technology (ICT) on ***‘Next Generation Computing
+    Technologies: Digital Perspective”*** on Feb. 21, 2020.
+
+37) Acted as Resource Person in UGC-Human Resource Development Centre,
+    Punjabi University, Patiala and conducted expert session for
+    participants of 76<sup>th</sup> Refresher Course on “Information
+    Communication Technology (ICT) on ***‘Pedagogical Innovations for
+    Future Generation Learners and Researchers”*** on Feb. 21, 2020.
+
+38) Acted as Resource Person in 3-Days Training Programme on “Design and
+    development on MOOCs” conducted by B.P.S. Institute of Teacher
+    Training & Research, B.P.S. Mahila Vishwavidyalaya, Khanpur Kalan,
+    Sonepat, Haryana and conducted expert session for participants on
+    the topic ***“Innovations & 21<sup>st</sup> Century Technologies:
+    Digital Perspective”*** on November 26, 2020.
+
+39) Acted as Resource Person in 3-Days Training Programme on “Design and
+    development on MOOCs” conducted by B.P.S. Institute of Teacher
+    Training & Research, B.P.S. Mahila Vishwavidyalaya, Khanpur Kalan,
+    Sonepat, Haryana and conducted expert session for participants on
+    the topic ***“Future Generation Learners & Working with Google
+    Classroom”*** on November 26, 2020.
+
+40) Acted as Invited Speaker and conducted Workshop on ***“Smart
+    Computing Technologies: Digital World of Tomorrow”*** on Sept. 28,
+    2019 for Faculty and Students of Hindu Girls College, Sonepat,
+    Haryana.
+
+41) Acted as Resource Person in UGC-Human Resource Development Centre,
+    Kurukshetra University, Kurukshetra, Haryana and conducted expert
+    session for participants of **One Week Interdisciplinary Capacity
+    Building Programme** on ***‘MOOCs and Open Education Resources’***
+    on the topic ***“Innovations and Future Computing: Digital
+    Perspective”*** on September 20, 2019 (A.N).
+
+42) Acted as Resource Person in UGC-Human Resource Development Centre,
+    Kurukshetra University, Kurukshetra, Haryana and conducted expert
+    session for participants of **One Week Interdisciplinary Capacity
+    Building Programme** on ***‘MOOCs and Open Education Resources’***
+    on the topic ***“Next Generation Learners and Working With Google
+    Classroom”*** on September 20, 2019 (A.N).
+
+43) Acted as Invited Speaker and conducted Expert Session on
+    ***“Innovations and Next Generation Computing Technologies”*** on
+    Sept. 19, 2019 (Evening) for Faculty and Students of GITAM – Ganga
+    Institute of Technology & Management, Jhajjar, Haryana.
+
+44) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of UGC Sponsored Interdisciplinary
+    Refresher Course on Research Methodology on the topic
+    ***“Innovations & Research: Digital Perspective”*** on August 31,
+    2019.
+
+45) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of UGC Sponsored Interdisciplinary
+    Refresher Course on Research Methodology on the topic
+    ***“Pedagogical Innovations for Next Generation Learners &
+    Researchers”*** on August 31, 2019.
+
+46) Acted as an Invited Speaker and conducted Workshop on
+    ***“21<sup>st</sup> Century Computing Technologies: Opportunities
+    & Challenges”*** for Faculty Members and Students at Institute of
+    Management & Technology (IMT), Faridabad on August 21, 2020.
+
+47) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of RUSA Sponsored One Week Workshop on
+    “MOOCs & Open Educational Resources” on the topic ***“Digital
+    Tools for Next Generation Learners”*** on July 26, 2019.
+
+48) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of RUSA Sponsored One Week Workshop on
+    “MOOCs & Open Educational Resources” on the topic ***“Hands on
+    Training on Google Classroom and Kahoot\!”*** on July 26, 2019.
+
+49) Acted as Resource Person in Faculty Development Programme conducted
+    by PIET (Panipat Institute of Engineering & Technology) on “**Soft
+    Computing Applications to Design of Intelligent System”** on July
+    19, 2019.
+
+50) Acted as Resource Person in Faculty Development Centre, M. D.
+    University, Rohtak, Haryana and conducted expert session for
+    participants of Seven Days Workshop on E- Learning Technologies on
+    the topic ***“Future Trends for Next Generation Learners”*** on July
+    19, 2019.
+
+51) Acted as Resource Person in Faculty Development Centre, M. D.
+    University, Rohtak, Haryana and conducted expert session for
+    participants of Seven Days Workshop on E- Learning Technologies on
+    the topic ***“Working With Google Classroom”*** on July 19, 2019.
+
+52) Acted as Resource Person in UGC-Human Resource Development Centre,
+    B.P.S. Women University, Khanpur Kalan, Sonepat, Haryana and
+    conducted expert session for participants of 34<sup>th</sup>
+    Orientation Programme on the topic ***“21<sup>st</sup> Century Smart
+    Computing: Need of the Hour”*** on July 3, 2019.
+
+53) Acted as Resource Person in UGC-Human Resource Development Centre,
+    B.P.S. Women University, Khanpur Kalan, Sonepat, Haryana and
+    conducted expert session for participants of 34<sup>th</sup>
+    Orientation Programme on the topic ***“Future Trends for Next
+    Generation Learners”*** on July 3, 2019.
+
+54) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of UGC Sponsored Interdisciplinary
+    Refresher Course on ICT – Preparing Teachers for 21<sup>st</sup>
+    Century on the topic ***“21<sup>st</sup> Century Smart Computing
+    Environment”*** on June 25, 2019.
+
+55) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of UGC Sponsored Interdisciplinary
+    Refresher Course on ICT – Preparing Teachers for 21<sup>st</sup>
+    Century on the topic ***“Emerging Trends for Next Generation
+    Learners”*** on June 25, 2019.
+
+56) Acted as Resource Person in **One Week Workshop on Academic Research
+    in Hospitality & Tourism** organized by IHTM under the aegis of Ch.
+    Ranbir Singh Institute of Social and Economic Change, M. D.
+    University, Rohtak, Haryana and conducted expert on the topic
+    ***“Digital Tools for 21<sup>st</sup> Century: Smart
+    Environment”*** on June 21, 2019.
+
+57) Acted as Resource Person in **One Week Workshop on Academic Research
+    in Hospitality & Tourism** organized by IHTM under the aegis of Ch.
+    Ranbir Singh Institute of Social and Economic Change, M. D.
+    University, Rohtak, Haryana and conducted expert on the topic
+    ***“E-Resources Landscape for Researcher & Learning Community in
+    India”*** on June 21, 2019.
+
+58) Acted as Resource Person in UGC-Human Resource Development Centre,
+    B.P.S. Women University, Khanpur Kalan, Sonepat, Haryana and
+    conducted expert session for participants of Refresher Course on ICT
+    on the topic ***“21<sup>st</sup> Century Digital Tools for Smart
+    Learning”*** on May 27, 2019.
+
+59) Acted as Resource Person in UGC-Human Resource Development Centre,
+    B.P.S. Women University, Khanpur Kalan, Sonepat, Haryana and
+    conducted expert session for participants of Refresher Course on ICT
+    on the topic ***“Smart Learning with Google Classroom, Kahoot\! And
+    Classroom Screen”*** on May 27, 2019.
+
+60) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of UGC Sponsored 31<sup>st</sup>
+    Orientation Programme on the topic ***“21<sup>st</sup> Century
+    Computing Technologies for Smart Cities”*** on March 16, 2019.
+
+61) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of UGC Sponsored 31<sup>st</sup>
+    Orientation Programme on the topic ***“21<sup>st</sup> Century Cyber
+    Security Challenges”*** on March 16, 2019.
+
+62) Acted as Resource Person in Faculty Development Centre, M. D.
+    University, Rohtak, Haryana and conducted expert session for
+    participants of Seven Days Workshop on E- Learning Technologies,
+    E-Content Development and MOOCs on the topic ***“Working with Google
+    Classroom, Kahoot\! And Classroom Screen”*** on Feb. 26, 2019.
+
+63) Acted as Resource Person in Faculty Development Centre, M. D.
+    University, Rohtak, Haryana and conducted 02 Expert Sessions for
+    participants of Seven Days Workshop on E-Learning Technologies,
+    E-Content Development and MOOCs on the topic ***“Using Learning and
+    Content Management System”*** on Feb. 25, 2019.
+
+64) Acted as Resource Person in Faculty Development Centre, M. D.
+    University, Rohtak, Haryana and conducted 02 Expert Sessions for
+    participants of Seven Days Workshop on E-Learning Technologies,
+    E-Content Development and MOOCs on the topic ***“21<sup>st</sup>
+    Century Digital Tools and Techniques”*** on Feb. 20, 2019.
+
+65) Acted as an Expert on 16<sup>th</sup> Feb. 2019 and conducted an
+    Expert Session on ***“21<sup>st</sup> Century Computing Technologies
+    for Smart Cities”*** at Kanya Mahavidyalaya Kharkhoda, Sonepat,
+    Haryana.
+
+66) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of UGC Sponsored One Week Workshop on
+    “MOOCs, e-Content Development and Open Education Resources” on the
+    topic ***“21<sup>st</sup> Century Digital tools & Techniques”*** on
+    Feb. 4, 2019.
+
+67) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of UGC Sponsored One Week Workshop on
+    “MOOCs, e-Content Development and Open Education Resources” on the
+    topic ***“MOOCs: Pedagogical Innovations in Teaching & Learning”***
+    on Feb. 4, 2019.
+
+68) Acted as Resource Person in Faculty Development Centre, M. D.
+    University, Rohtak, Haryana and conducted 02 Expert Sessions for
+    participants of One Month Faculty Induction Programme on the topic
+    ***“Content Development and Digital Resources”*** on January 11,
+    2019.
+
+69) Acted as Resource Person in Faculty Development Centre, M. D.
+    University, Rohtak, Haryana and conducted 02 Expert Sessions for
+    participants of One Month Faculty Induction Programme on the topic
+    ***“Online Resources & Networking”*** on January 12, 2019.
+
+70) Acted as Resource Person in UGC-Human Resource Development Centre,
+    B.P.S. Women University, Khanpur Kalan, Sonepat, Haryana and
+    conducted expert session for participants of 31<sup>st</sup>
+    Orientation Programme on the topic ***“Recent Trends in
+    Computing”*** on December 4, 2018.
+
+71) Acted as Resource Person in UGC-Human Resource Development Centre,
+    B.P.S. Women University, Khanpur Kalan, Sonepat, Haryana and
+    conducted expert session for participants of 31<sup>st</sup>
+    Orientation Programme on the topic ***“Use of ICT in Teaching &
+    Learning”*** on December 4, 2018.
+
+72) Acted as Invited Speaker and for conducting Expert Session on
+    ***“Future Innovations & Computing Technologies”*** on November
+    29, 2018 (Evening) for Faculty and Students of IBS Business School
+    Gurgaon.
+
+73) Acted as Resource Person in UGC-Human Resource Development Centre,
+    B.P.S. Women University, Khanpur Kalan, Sonepat, Haryana and
+    conducted expert session for participants of 30<sup>th</sup>
+    Orientation Programme on the topic ***“Recent Innovations and Future
+    Computing Technologies”*** on November 24, 2018.
+
+74) Acted as Resource Person in UGC-Human Resource Development Centre,
+    B.P.S. Women University, Khanpur Kalan, Sonepat, Haryana and
+    conducted expert session for participants of 30<sup>th</sup>
+    Orientation Programme on the topic ***“Cyber Crime & Cyber
+    Security”*** on November 24, 2018.
+
+75) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of Refresher Course in Research Methodology
+    on the topic ***“Future Innovations & Computing Technology for
+    Research: Need of the Hour”*** on November 23, 2018.
+
+76) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of Refresher Course in Research Methodology
+    on the topic ***“Technology Supported Pedagogical Innovations”*** on
+    November 23, 2018.
+
+77) Acted as Key Speaker in **LAKSHAY – Annual School Education & Career
+    Summit 2018** organized by SB Global School, NCR Delhi, Sonepat on
+    15<sup>th</sup> November 2018.
+
+78) Acted as Resource Person and conducted an Expert Session on
+    ***“Smart Computing: Opportunities and Challenges”*** on September
+    26, 2018 during an ***Induction Training Programme*** organized by
+    Govt. Polytechnic, Meham(Rohtak).
+
+79) Acted as Resource Person in ICAR-IASRI sponsored Career Advancement
+    Faculty Training (CAFT) programme and conducted expert session for
+    faculty and scientists on the topic ***“Recent Trends in Data
+    Analytics and Knowledge Management”*** on September 14, 2018.
+
+80) Acted as Resource Person and conducted an Expert Session on
+    ***“Latest Innovations in Computing Technologies”*** on September
+    1, 2018 during an ***Induction Training Programme*** organized
+    B.P.S. Women University, Khanpur Kalan, Sonepat, Haryana.
+
+81) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of UGC sponsored Interdisciplinary
+    Refresher Course on Information & Communication Technology on the
+    topic ***“Recent Innovations in Computing”*** on June 30, 2018.
+
+82) Acted as Resource Person in UGC-Human Resource Development Centre,
+    G.J. University of Science & Technology, Hisar and conducted expert
+    session for participants of UGC sponsored Interdisciplinary
+    Refresher Course on Information & Communication Technology on the
+    topic ***“Big Data Analytics and Machine Learning”*** on June 30,
+    2018.
+
+83) Acted as Resource Person and conducted Expert Session on ***“Recent
+    Innovations in Computing”*** for students and faculty of
+    B.Tech.(CSE) and MCA programmes, Central University of Haryana,
+    Mahendergarh on May 24, 2018.
+
+84) Acted as Resource Person and conducted Expert Session on
+    ***“Relevance of Big Data and Analytics”*** for students and
+    faculty of B.Tech.(CSE) and MCA programmes, Central University of
+    Haryana, Mahendergarh on May 24, 2018.
+
+85) Acted as Resource Person in UGC-Human Resource Development Centre,
+    B.P.S. Women University, Khanpur Kalan, Sonepat, Haryana and
+    conducted expert session for participants of Refresher Course on ICT
+    and Digitalization of Education in India: Trends, Challenges and
+    Prospects on the topic ***“Recent Innovations in Computing”*** on
+    May 22, 2018.
+
+86) Acted as Resource Person in UGC-Human Resource Development Centre,
+    B.P.S. Women University, Khanpur Kalan, Sonepat, Haryana and
+    conducted expert session for participants of Refresher Course on ICT
+    and Digitalization of Education in India: Trends, Challenges and
+    Prospects on the topic ***“Big Data Analytics”*** on May 22, 2018.
+
+87) Acted as Resource Person and conducted Seminar on ***“Future
+    Innovations and Computing Technologies”*** on Feb. 01, 2018(A.N.) at
+    Mahavir Swami Institute of Technology (MSIT), NH-1, Jagdishpur,
+    Delhi NCR.
+
+88) Acted as Resource Person and delivered an Expert Lecture on
+    12<sup>th</sup> January, 2018(Morning) on the topic “***Future
+    Innovations and Computing Technologies”*** in the Refresher Course
+    on ***“Emerging Trends in Computer Science”*** conducted by Dept. of
+    Computer Engg. and Dept. of IT & Applications, YMCA University of
+    Science & Technology, Faridabad (Haryana) during January 8-13, 2018.
+
+89) Acted as Resource Person in UGC-Human Resource Development Centre,
+    Kurukshetra University, Kurukshetra and conducted expert session for
+    participants of UGC sponsored Interdisciplinary Refresher Course in
+    Information Technology on the topic ***“Future Computing
+    Technologies”*** on November 8, 2017.
+
+90) Acted as Resource Person in UGC-Human Resource Development Centre,
+    Kurukshetra University, Kurukshetra and conducted expert session for
+    participants of UGC sponsored Interdisciplinary Refresher Course in
+    Information Technology on the topic ***“Cyber Crimes and Security
+    Challenges”*** on November 8, 2017.
+
+91) Acted as Resource Person and conducted an Expert Session on
+    ***“Future Innovative Computing Technologies”*** on July 28, 2017
+    during an ***Induction Training Programme*** organized by Govt.
+    Polytechnic, Meham(Rohtak).
+
+92) Acted as Resource Person in ***“Orientation Programme on Career
+    Awareness”*** on June 3, 2017 organized by Vaish Arya Kanya
+    Mahavidyalaya, Bahadurgarh(Haryana).
+
+93) Acted as Resource Person and conducted an Expert Session on ***“ICT
+    – Theoretical Perspective: Objectives and Features”*** on May 27,
+    2017 during Three Months Certificate Course in Panchayati Raj &
+    Rural Development conducted by ***Deen Dayal Upadhyaya Centre of
+    Excellence for Rural Development, M.D. University, Rohtak.***
+
+94) Acted as Resource Person and conducted an Expert Session on
+    ***“Effective Use of ICT Tools”*** on May 27, 2017 during Three
+    Months Certificate Course in Panchayati Raj & Rural Development
+    conducted by ***Deen Dayal Upadhyaya Centre of Excellence for Rural
+    Development, M.D. University, Rohtak.***
+
+95) Acted as Invited Speaker in the National Conference on ***“Advances
+    in Mathematics & Computing (AMC-2017)”*** organized by YMCA
+    University of Science & Technology, Faridabad on May 2, 2017 and
+    made presentation on the theme **“Advanced Computing Technology for
+    India Tomorrow”.**
+
+96) Acted as Keynote Speaker and delivered keynote address in the
+    International Conference on ***“A Journey towards Platinum Era –
+    Vision Rainbow Power of India (ICPVRPI- 2017)”*** organized by IMT,
+    Faridabad on 7<sup>th</sup> April 2017 held during April 7-8, 2017.
+
+97) Delivered Invited Talk and Valedictory Address in the TEQIP-II
+    Sponsored International Conference on ***“Innovation & Trends to
+    Support Make In India”*** organized by N.C. College of Engineering,
+    Israna, Panipat on 26<sup>th</sup> March 2017.
+
+98) Delivered Keynote Speech on the theme in One Day ***National Seminar
+    on Cyber Crime and Security*** organized by K.L. Mehta Dayanand
+    College for Women, Faridabad on March 4, 2017.
+
+99) Acted as a Judge in the subject of Computer Science at State Level
+    Science Exhibition held at D.A.V. Centenary College, Faridabad on
+    4<sup>th</sup> March 2017.
+
+100) Delivered Inaugural Address and Keynote Address on the theme
+     “Latest Innovations & Technologies” in National Seminar on
+     ***“Mathematics and Computer-Computing and Communication
+     (NCMCCC-2017)”*** organized by Aggarwal College, Ballabgarh, NCR-
+     Faridabad on 18<sup>th</sup> Feb. 2017.
+
+101) Delivered Inaugural Address as Chief-Guest and Keynote Address in
+     the International Conference on ***“Innovative Developments in
+     Science, Technology and Management”*** organized by Ganga Technical
+     Campus, Delhi-NCR on 29<sup>th</sup> January, 2017.
+
+102) Acted as Resource Person and delivered an expert talk on ***“Future
+     Generation Computing Technologies : Opportunities and
+     Challenges”*** on 20.12.2016 in ***FDP- SCTSEA (One Week Faculty
+     Development Programme on Recent Trends of Soft- Computing
+     Techniques in Software Engineering and Applications”***organized by
+     Gautam Buddha University, Greater Noida.
+
+103) Delivered Inaugural Address as Chief-Guest and Keynote Address on
+     December 8, 2016 in the National Conference on ***“Innovation &
+     Technology Strategy in Cloud Computing and Information Security”***
+     organized by Lingaya’s University, Delhi-NCR during December 8-9,
+     2016.
+
+104) Conducted two sessions on **“E-Governance”** and **“Information
+     Communication Technology (ICT)”** on 06.12.2016 in *Induction
+     Training Programme for Cutting Edge Level Government Functionaries*
+     **organized by Divisional Training Centre, HIPA, Rohtak.**
+
+105) Resource Person in Academic Staff College, B.P.S. Mahila
+     Vishwavidyalaya, Khanpur Kalan, Sonipat and conducted **two
+     sessions** for participants of Refresher Course in ICT(ID) on the
+     theme ***“Future Computing Technologies”*** on December 1, 2016.
+
+106) Acted as Resource Person and delivered Expert Talk on ***“Future
+     Computing Technologies”*** in Department of Computer Science,
+     Central University of Haryana, Mahendergarh on November 22, 2016.
+
+107) Acted as Resource Person and delivered Expert Talk on ***“Emerging
+     Trends in E- commerce”*** in Department of Commerce, Central
+     University of Haryana, Mahendergarh on November 22, 2016.
+
+108) Acted as a Resource Person in ***Elsevier Author Workshop*** on
+     November 18, 2016 conducted by Vivekananda Library M. D. University
+     Rohtak.
+
+109) Acted as Resource Person and delivered Expert Talk on ***“Future
+     Computing Technologies: Opportunities and Challenges”*** in
+     National Workshop on ***“E- Governance in India: Issues and
+     Challenges”*** organized by Dept. of Public Administration, M.D.
+     University, Rohtak on October 5, 2016.
+
+110) Conducted a Workshop on the theme **“Recent Innovations and Future
+     Computing Technologies”** at Saraswati Mahila Mahavidyalaya, Palwal
+     on 28<sup>th</sup> September 2016 and addressed the students.
+
+111) Delivered Keynote Address in the International Conference on
+     ***“Recent Innovations in Science, Management, Education and
+     Technology (ICRISMET-16)”*** organized by JCD Memorial College,
+     Sirsa, Haryana on 27<sup>th</sup> August 2016.
+
+112) Conducted a Workshop on the theme **“Next Generation Computing
+     Technologies: Opportunities & Challenges”** at Hindu Girls College,
+     Sonepat on 1<sup>st</sup> June 2016 and addressed the students.
+
+113) Acted as Guest of Honor and delivered Keynote Address during HSCST
+     (Haryana State Council for Science & Technology, DST, Haryana)
+     sponsored ***“National Technology Day – NTD-2016”*** on
+     10<sup>th</sup> May 2016 at BPS Mahila Vishwavidyalya, Khanpur
+     Kalan, Sonepat
+
+114) Acted as Guest of Honor and delivered Valedictory Address on the
+     theme of the National Conference on ***“Emerging Trends in Computer
+     Science and Electronics Engineering – ETCSEE-2016”***organizedat
+     RPS Group of Institutions, Mahendergarh on 10<sup>th</sup>April,
+     2016.
+
+115) Conducted two sessions on **“E-Governance”** and **“Information
+     Communication Technology (ICT)”** on 07.04.2016 in a *Training
+     Programme on Information Technology for Effective Office
+     Management”* **organized by Divisional Training Centre, HIPA,
+     Rohtak.**
+
+116) Acted as Guest of Honor and delivered Keynote Address on the theme
+     of the ***“National Conference on Cyber Security Issues and
+     Challenges”*** held at Tecnia Institute of Advanced Studies, New
+     Delhi on 26th Feb, 2016.
+
+117) Conducted two sessions on **“E-Governance”** and **“Information
+     Communication Technology (ICT)”** on 17.02.2016 in *Induction
+     Training Programme for Cutting Edge Level Government Functionaries*
+     **organized by Divisional Training Centre, HIPA, Rohtak.**
+
+118) Conducted two sessions on **“An Overview of E-Governance”** and
+     **“Internet & Cyber Security”** on 12.01.2016 in Training
+     Programme on *“MS-Office, Internet, e-Salary & On-Line Budgeting
+     System”* **organized by Divisional Training Centre, HIPA, Rohtak.**
+
+119) Conducted two sessions on **“Internet and Communication Technology
+     (ICT)”** and**“An Overview of E-Governance”** on 10.12.2015 in
+     **Training Programme on Office Automation Tools:***“MS-Office,
+     Internet, e-Salary & On-Line Budgeting System”* **organized by
+     Divisional Training Centre, HIPA, Rohtak.**
+
+120) Acted as Chief Guest and delivered Keynote Address on the theme of
+     the International Conference on *“Emerging Trends in Technology,
+     Science & Upcoming Research”* held at DAV Institute of Management,
+     Faridabad (Haryana) on April 25, 2015.
+
+121) Resource Person in Academic Staff College, Kurukshetra and
+     conducted two sessions on June 29, 2015 for participants of
+     Refresher Course in Computer Science on the themes
+     
+     1.  ***Internet of Things (IoT)***
+     
+     2.  ***Future Trends in Computing Technologies***
+
+122) Chaired a Session in Seminar on “Yoga and Holistic Life” at MDU
+     Campus during 1<sup>st</sup> International Yoga Day Celebrations
+     organized by M.D. University, Rohtak on 21<sup>st</sup> June, 2015.
+
+123) Delivered Keynote Address on Inaugural Day of Yoga Training/7-Days
+     Health Awareness Camp (18.6.2015-24.6.2015) held at Youth Red
+     Cross, M.D. University, Rohtak.
+
+124) Acted as Organizing Secretary of Inter-Zonal Youth Festival and
+     Folk Festival of M.D. University, Rohtak for session 2014-15 and
+     conducted the Inaugural of the event where Governor, Haryana and
+     Chancellor His Excellency Prof Kaptan Singh Solanki was the Chief
+     Guest.
+
+125) Acted as a Keynote Speaker in the Inaugural of the Conference and
+     also Chaired a session on *‘Advancements in Information Technology’
+     in* National Conference on *“Innovations in Computing and
+     Information Technology” – COGNITION-2015* organised by Amity
+     University, Gurgaon, Haryana on 25<sup>th</sup> – 26<sup>th</sup>
+     February, 2015*.*
+
+126) Delivered Keynote Address on the theme of the National Conference
+     on *“Emerging Trends in Computer Science & Information Technology”
+     – NCETCSIT-2015* organised by Rawal Institutions, Faridabad,
+     Haryana on January 10, 2015.
+
+127) Acted as Resource Person on *“Cyber Crimes and Cyber Security”* in
+     Workshop on “*Sexual Harassment and Violence against Women:
+     Prevention, Prohibition and Redressal”* organised by M.D.
+     University, Rohtak on 17.03.2015.
+
+128) Delivered Keynote Address on the theme of the Conference during
+     inaugural of IEEE sponsored 4<sup>th</sup> National Conference on
+     *“Emerging Trends in Engineering & Technology”* *– ETET-2015* organised by SBIT, Sonepat, Haryana on February 6-7, 2015.
+
+129) Acted as Chief Guest and delivered Keynote Address on the theme of
+     the National Conference on *“Innovative Trends in Computer Science
+     Engineering” – ITCSE-2015* organised by BRCM College of Engg. &
+     Technology, Bahal (Hr) on April 4, 2015.
+
+130) Acted as Chief-Guest and delivered Keynote Address on the theme of
+     the National Conference on *“Innovative Development in Science,
+     Technology & Management”* organised by Ganga Technical Campus,
+     Bahadurgarh, Haryana on 1<sup>st</sup> March 2015.
+
+131) Acted as Chief-Guest & Keynote Speaker and delivered Keynote
+     Address on the theme of the National Conference on *“Advancement in
+     Biometrics Trends & Its Applications”* organised by Dronacharya
+     College of Engineering, Gurgaon on October 16, 2015.
+
+132) Acted as Chief-Guest and delivered Keynote Address on the theme of
+     the National Workshop on *“Intelligent System for Engineering and
+     Management”* organised by Somany(P.G.) Institute of Technology and
+     Management, Rewari, Haryana on 28<sup>th</sup> March 2015.
+
+133) Delivered Keynote Address on the theme of the National Workshop on
+     *“Emerging Trends in Computing & Challenges for Future”* organised
+     by BLS Institute of Technology Management, Bahadurgarh (Hr.) on
+     22<sup>nd</sup> April 2015.
+
+134) Conducted two sessions on 12.09.2014 on “***Slide Creation using
+     Microsoft PowerPoint”*** and ***“Animation, Designing using
+     Microsoft Power Point”*** in Training Programme on “Office
+     Automation tools:- Computer Training on MS-Office, Internet, e-
+     Salary & On-Line Budgeting System” **organized by Divisional
+     Training Centre, HIPA, Rohtak.**
+
+135) Acted as an Expert on a session on *“Methods and Techniques for
+     Effective Teaching in Technical Courses”* in Workshop on *“Quality
+     Workshop for Engineering Faculty”* organised by IQAC, Manav Rachna
+     International University, Faridabad (Haryana) on 27<sup>th</sup>
+     September, 2014.
+
+136) Acted as Chief Guest and delivered Keynote Address in National
+     Conference on *“Recent Innovations in Engineering, Management and
+     Science”* organised by Ganga Institute of Technology and
+     Management, Kablana (Haryana) on 23<sup>rd</sup> August, 2014.
+
+137) Conducted two sessions on 18.06.2014 on “***Slide Creation using
+     Microsoft PowerPoint”*** and ***“Animation, Designing using
+     Microsoft Power Point”*** in Training Programme on “Office
+     Automation tools:- Computer Training on MS-Office, Internet, e-
+     Salary & On-Line Budgeting System” **organized by Divisional
+     Training Centre, HIPA, Rohtak.**
+
+138) **Conducted two sessions**on**22.05.2014** on*“**Features of
+     Microsoft Excel” ***and ***“Data Base Creation Using Microsoft
+     Access”*** in Training Programme on “Employability Skills for
+     Unemployed Youths” **organized by Divisional Training Centre, HIPA,
+     Rohtak on 22.05.2014.**
+
+139) Resource Person in Academic Staff College, G.J. University of
+     Science & Technology, Hisar and conducted one session for
+     participants of Refresher Course in Computer Science on the theme
+     ***“Challenges of Internet of Things (IoT)”*** on May 20, 2014.
+
+140) Resource Person in Academic Staff College, G.J. University of
+     Science & Technology, Hisar and conducted one session for
+     participants of Refresher Course in Computer Science on the theme
+     ***“Opportunities and Challenges of Future Computing
+     Technologies”*** on May 20, 2014.
+
+141) **Extension Lecture** delivered on ***“Employment Opportunities in
+     IT Sector”*, Govt. College, Bhiwani** on 5.3.2014
+
+<!-- end list -->
+
+111) **Delivered Expert/Extension Lecture during a 7-days Workshop on
+     *“Personality Development” ***organized by Career Counseling and
+     Placement Cell of MDU at Institute of Hotel and Tourism Management
+     (IHTM), M.D. University, Rohtak on February 20, 2014.
+
+112) Resource Person in Academic Staff College, Kurukshetra and
+     conducted two sessions for participants of Refresher Course in
+     Computer Science on the theme ***“Future Computing Technologies – I
+     & II”*** on July 3, 2013.
+
+113) **Conducted multiples sessions *(on Computer Networks, Internet,
+     Basics of Computer, MS-Office)*for School Principals, Haryana Govt
+     Officials, Administrators and students organized by Divisional
+     Training Centre, HIPA, Rohtak (18<sup>th</sup> December 2013 and
+     22<sup>nd</sup>January 2014).**
+
+114) **Delivered Expert/Extension Lecture on the theme *“21<sup>st</sup>
+     Century Computing Technologies”* to students of G.D.C. Memorial
+     College, Bahal on October 26, 2013.**
+
+115) Resource Person in Academic Staff College, G.J. University of
+     Science & Technology, Hisar and conducted **two sessions** for
+     participants of Refresher Course in Computer Science on the theme
+     ***“Next Generation Computing: Opportunities and Challenges”*** on
+     June 12, 2013.
+
+116) Resource Person in Academic Staff College, B.P.S. Mahila
+     Vishwavidyalaya, Khanpur Kalan, Sonipat and conducted **session**
+     for participants of Refresher Course in IT on the theme ***“Future
+     Computing Technologies”*** on June 7, 2013.
+
+117) **Addressed audience in Intl. Conference** on ***“Innovations in
+     Management & Information Technology” (*ICIMIT-2012) organized by
+     IMT, Faridabad on 7<sup>th</sup> April, 2012.**
+
+118) **Addressed audience in IEEE sponsored 1st National Conference on
+     *“Emerging Trends in Engineering and Technology”* (NCETET-12)
+     organised by SBIT, Sonepat on Feb. 3, 2012**as well as chaired the
+     Technical Session.
+
+119) Delivered an expert talk on ***“Emerging Trends in Computing
+     Technologies” in* National Conference on “Emerging Trends In
+     Computer and Information Technology” (NCETCIT-2012) organised by
+     GVMITM, Sonepat during MAY 11- 12, 2012.**
+
+120) **Delivered Keynote Address** on ***“Future Generation Computing
+     Technologies” in*** 2<sup>nd</sup> National Conference on
+     ***Emerging Trends In Electronics & Information Technology***
+     organised by AITM, Palwal during April 14-15, 2012.
+
+121) **Delivered Keynote Address** on ***“Next Generation Computing
+     Technologies: Opportunities & Challenges”*** in National Conference
+     on ***“Internet Computing and Communication (IC2)”*** organised by
+     TIAS, New Delhi on April 21, 2012.
+
+122) **Delivered an Expert Lecture *“Challenges for Future Engineers”
+     ***on Engineers’ Day (Sept 15, 2011) organized by SBIT Group of
+     Institutions, Sonepat.
+
+123) **Delivered an Expert Lecture *“Networked Society of
+     21<sup>st</sup> Century: Opportunities & Challenges” on ***October
+     20, 2012 organized by Department of Mathematics, M.D. University,
+     Rohtak
+
+124) **Delivered an Expert Lecture** as one of Key Speakers on ***“IT
+     and Tourism: New Opportunities for Linking Cultures”*** during
+     **National Seminar on “Tourism – Linking Cultures”** organized by
+     Institute of Hotel & Tourism Management, M. D. University, Rohtak
+     on Sept. 27, 2011
+
+125) **Delivered Keynote Address** on ***“Future Generation Computing
+     Technologies: Opportunities & Challenges”*** during **National
+     Conference on Emerging Trends in Computing Technologies
+     (NCETCT-11)** organized by World College of Technology & Management
+     (WCTM), Gurgaon on Sept. 17, 2011.
+
+126) **Delivered an Expert Lecture *“Challenges for Future Engineers”
+     ***on Engineers’ Day (Sept 15, 2011) organized by SBIT Group of
+     Institutions, Sonepat.
+
+127) **Delivered Keynote Address on *“Component-based Software Testing:
+     Issues and Challenges” ***on Sept. 3, 2011 in **National Workshop
+     on “Software Reliability and Testing”** Gautam Buddha University,
+     Greater Noida (UP), Sept 2-3, 2011.
+
+128) **Delivered as Presidential Address in** Workshop on
+     “***Application of SPSS Software in Research”,*** Organized by
+     IHTM, Maharshi Dayanand University, Rohtak, April 19-20, 2011.
+
+129) Acted as ***Chairperson of Technical Session* of International
+     Conference** on ***“*Business Intelligence-An Alignment of IT &
+     Management”,** IMT, Faridabad, April 9, 2011.
+
+130) **Key Note Speaker in National Seminar organized by GITM, Gurgaon
+     on New Generation Computing 2010 (NGC-2010) *and made presentation
+     on Convergence of Technologies: Opportunities & Challenges.***
+
+131) Delivered Invited Talk on “Component-Based Testing” in Workshop on
+     **“Recent Trends in Software Testing” organized by** Delhi
+     Technological University, Delhi on 17<sup>th</sup> September, 2010.
+
+132) Delivered lectures as Resource Person in ‘Staff Development Programme (FDP) organized by Department of Computer Sciences at Baba Gulam Shah Badshah University, Rajouri during June 22-24, 2010.
+
+133) **Resource Person in Orientation Course conducted by Academic Staff
+     College, BPS Mahila University, Khanpur on May 4, 2010 and
+     delivered expert lecturers on *Convergence of Technologies:
+     Opportunities & Challenges for Future Generations.***
+
+134) **Keynote Speaker in National Seminar on *Enterprise Information
+     Systems,* organized by** Apeejay Institute of Management, Jalandhar
+     and made a presentation on ***Enterprise Information Systems in
+     21<sup>st</sup> Century: Opportunities and Challenges.***
+
+135) **Extension Lecture** delivered on ***“Cyberspace in
+     21<sup>st</sup> Century”*,** Gaur College, Rohtak.
+
+136) **Extension Lecture** delivered on ***“IT in 21<sup>st</sup>
+     Century: Opportunities and Challenges”*, MRDAV,** Asthal Bohar
+     (Rohtak) M.D. University, Rohtak.
+
+137) **Extension Lecture** delivered on ***“Role of ICT in Teaching &
+     Learning”*,** C.R. College of Education, Rohtak on 12.02.2009.
+
+138) **Extension Lecture** delivered on ***“IT: Opportunities &
+     Challenges”*,** Vaish College, Bhiwani.
+
+139) **Extension Lecture** delivered on ***“Cyberspace and Essence of
+     Cyber Laws in 21<sup>st</sup> Century”***, Institute of Management
+     & Technology, Faridabad.
+
+140) **Resource Person in *Refresher Course in Psychology* at Govt.
+     College for Women, Rohtak and delivered Lecture on *Cyberspace in
+     21<sup>st</sup> Century ***on May 12, 2008.
+
+141) **Resource Person in *Refresher Course in Computer Science* at P.G.
+     Govt. College, Jind and delivered following Two Lectures on** May
+     13, 2008.
+     
+     1.  ***ERP in 21<sup>st</sup> Century***
+     
+     2.  ***Data mining and Data warehousing***
+
+142) **Resource Person in *Refresher Course in Physics* at Govt. College
+     for Women, Rohtak and delivered following Two Lectures on** May 12
+     & 16, 2008
+
+<!-- end list -->
+
+1)  Cyberspace in 21<sup>st</sup> Century: Opportunities & Challenges
+
+2)  Introduction to Computing and World of Internet.
+
+<!-- end list -->
+
+143) **Resource Person in *Refresher Course in Chemistry* at N.R.S.
+     Govt. College, Rohtak in May-June 2008.**
+
+144) **Extension Lecture** delivered on ***“Information Technology in
+     21<sup>st</sup> Century: Opportunities and Challenges”*,**
+     Department of Mathematics, M.D.University, Rohtak on 13.2.2008
+
+145) **Extension Lecture** delivered on ***“Information Technology in
+     21<sup>st</sup> Century: Opportunities and Challenges”*, MRDAV,**
+     Asthal Bohar (Rohtak) M.D. University, Rohtak on 5.3.2008
+
+146) Conducted one session as a Key Speaker on 8<sup>th</sup> April 2005
+     at A.I.J.H.M. College, Rohtak and delivered a full presentation on
+     **“ICT Evolution and E-Governance”.**
+
+147) Conducted following sessions as a Resource Person in UGC Sponsored
+     Refresher Course in Library and Information Science (29.11.2004 –
+     18.12.2004) organized by M.D. University Library, Rohtak:
+
+1.  ***Computer Awareness Capsule*** delivered on December 3, 2004.
+
+2.  ***Impact of Hi-Tech in Libraries*** delivered on December 6, 2004.
+
+3.  ***Role of Information Technology in Libraries*** on December 6, 2004.
+
+<!-- end list -->
+
+148) > Conducted two sessions as a Resource Person in UGC Sponsored
+     > Refresher Course organised by Department of Physics, M.D.
+     > University, Rohtak on 17<sup>th</sup> and 18<sup>th</sup> August
+     > 2004 and delivered presentations on “**Role of IT in Teaching &
+     > Learning”** and **“A Tour of Information Technology”
+     > respectively.**
+
+<!-- end list -->
+
+# Talks Broadcasted from All India Radio/TV Studios
+    
+1.  TV Group Discussion show on ***“Social Networking – Session
+        1”*** organised by SVN Cable TV on 10.03.2012 in their TV
+        Studio and is being re-broadcasted time and again in the
+        programme ***“Issue To-night”.***
+    
+2.  TV Group Discussion show on ***“Social Networking – Session
+        2”*** organised by SVN Cable TV on 11.03.2012 in their TV
+        Studio and is being re-broadcasted time and again ***“Issue
+        To-night”.***
+    
+3.  All India Radio Talk:
+        
+  - Group Discussion on ***“Human Decisions on Scientific
+            Techniques/Machines in Sports”*** in World of Sports (Khel
+            Jagat) on Nov. 30, Dec. 1-2, 2015.
+        
+  -  Group Discussion on ***“Employment and Career
+             Opportunities for Youth in Computers”*** in Yuv Vani in
+            April 18, 2012.Talk: ***‘Computer Education and Employment
+            Opportunities’***
+        
+  -  Talk: ‘e-books and Its Implications’ (DOB: 8.12.2008)
+        
+  -  Talk: ***‘Hanging and Crashing Problems in Computer’ (DOB: 4.5.2009)***
