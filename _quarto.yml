@@ -15,9 +15,9 @@ website:
       - href: awards.qmd
         text: Awards
       - href: publications.qmd
-        text: Publications
+        text: Research and Publications
       - href: engagements.qmd
-        text: Engagements
+        text: Contribution and Engagements
 
 format:
   html:
